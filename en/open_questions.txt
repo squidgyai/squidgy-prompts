@@ -1,0 +1,22 @@
+Generate a list of questions for someone learning English to practice speaking.
+
+Topic: cooking
+Questions:
+- Are you a good cook?
+- What kinds of things do you like to cook at home?
+- Do you have a favorite type of cuisine?
+- What kind of vegetables do you like?
+- What kinds of food do you usually eat for lunch?
+- Do you like trying new foods? What have you tried recently?
+- Was cooking an important part of your childhood?
+- Would you rather bake or cook on the stove? Why?
+
+Facts about {user}:
+
+{facts}
+
+Generate a list of questions that a profressor could ask {user} to help them practice English.
+
+Topic: {topic}
+Description: {description}
+Questions:

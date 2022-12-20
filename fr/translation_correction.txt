@@ -1,0 +1,21 @@
+Correct the following translations. Accept similar words or idiomatic ways of saying the same thing.
+
+Phrase: I went to the market.
+Translation: Je suis allé au marché
+Correct translation: Je suis allé au marché
+
+Phrase: The black cat smiles at me.
+Translation: Le chien noir me sourit.
+Correct translation: Le chat noir me sourit.
+
+Phrase: Each person introduced themselves to the group.
+Translation: Chacun s'est presenté au groupe.
+Correct translation: Chacun s'est présenté au groupe.
+
+Phrase: The dog is running in the park
+Translation: Le chien courtent dans le parc
+Correct translation: Le chien court dans le parc
+
+Phrase: {native_phrase}
+Translation: {translation}
+Correct translation:

@@ -1,0 +1,14 @@
+Phrase: Ich bin an den Markt gegangen.
+Grammatically correct phrase: Ich bin auf den Markt gegangen.
+
+Phrase: Der schwarzen Hund lachelt mich im Park an.
+Grammatically correct phrase: Der schwarze Hund lächelt mich im Park an.
+
+Phrase: Jeder Person stellte der Gruppe vor.
+Grammatically correct phrase: Jede Person stellte sich der Gruppe vor.
+
+Phrase: Sie joggt im Park.
+Grammatically correct phrase: Sie joggt im Park.
+
+Phrase: {phrase}
+Grammatically correct phrase:

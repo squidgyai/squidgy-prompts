@@ -1,0 +1,14 @@
+Phrase: Je suis allé au marché
+Grammatically correct phrase: Je suis allé au marché
+
+Phrase: La chien noir me souri
+Grammatically correct phrase: Le chien noir me sourit.
+
+Phrase: Chacun pesonne s'est presenté au groupe.
+Grammatically correct phrase: Chacun s'est présenté au groupe.
+
+Phrase: Le chien courtent à le parc
+Grammatically correct phrase: Le chien court dans le parc
+
+Phrase: {phrase}
+Grammatically correct phrase:

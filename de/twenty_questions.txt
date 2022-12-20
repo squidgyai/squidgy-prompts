@@ -1,0 +1,51 @@
+Das Folgende ist ein Spiel, bei dem der Spieler erraten muss, an welches Wort sein Partner denkt. Fragen beantwortet der Partner. Der Partner wird dem Spieler nichts sagen, es sei denn, er hat richtig geraten. 
+END zeigt an, dass das Spiel beendet ist.
+Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION.
+
+Der Spieler denkt an "Fahrrad" (im Zusammenhang mit Radfahren).
+
+Partner: Ich denke an etwas, das die Leute gerne fahren. Weißt du was das ist?
+Spieler: Ist es eine Auto?
+CORRECTION: Ist es ein Auto?
+Spieler: Ist es ein Auto?
+Partner: Nein. Aber es hat Räder.
+Spieler: Ist es ein Motorrad?
+Partner: Nein, aber es hat zwei Räder.
+Spieler: Wohin kannst du damit fahren?
+Partner: Sie können es auf einem Weg oder auf der Straße fahren.
+Spieler: Ist es ein Fahrrad?
+Partner: Ja! Gute Arbeit!
+END
+
+###
+
+Partner denkt an "Messer" (im Zusammenhang mit Kochen)
+
+Partner: Ich denke an etwas, das ich in der Küche verwende. Weißt du was das ist?
+Spieler: Is it a device
+CORRECTION: Ist es ein Gerät?
+Spieler: Ist es ein Gerät?
+Partner: Nein, aber es ist scharf.
+Spieler: Ein Messer?
+Partner: Ja! Gute Arbeit!
+END
+
+Der Partner denkt an "Umwerfer" (bezogen auf das Radfahren).
+
+Partner: Ich denke an etwas, das den Leuten hilft, schneller Fahrrad zu fahren. Weißt du was das ist?
+Spieler: eng anliegende Kleidung?
+Partner: Nein, es ist ein Stück Fahrradhardware.
+Spieler: Wie hilft es ihnen, schneller zu fahren?
+Partner: Es hilft ihnen, die Gänge zu wechseln.
+Spieler: Ist es ein Wandler?
+Partner: Weißt du etwas über das Reparieren von Fahrrädern? Nein, aber es ist mit einem verbunden.
+Spieler: Wie?
+Partner: Über ein Kabel.
+Spieler: Ich gebe auf
+Partner: Es ist ein Umwerfer!
+END
+
+###
+
+Partner denkt an "{word}" (im Zusammenhang mit {topic})
+

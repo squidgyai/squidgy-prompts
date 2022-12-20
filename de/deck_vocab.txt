@@ -1,0 +1,50 @@
+Erstellen Sie eine Liste mit Vokabeln für die folgenden Karteikarten-Decks.
+
+Thema: Kochen
+Beschreibung: Utensilien, Geschirr, Küchengeräte, Rezepte, gängige Zutaten, Methoden der Speisenzubereitung
+Wortschatz:
+- Messer
+- Löffel
+- Gabel
+- Teelöffel
+- Esslöffel
+- Messbecher
+- Rührgerät
+- Mixer
+- Topf
+- Pfanne
+- Entsafter
+- Schneidbrett
+- Geschirrspülmaschine
+- Waschen
+- Spülen
+- Trocken
+- Handtuch
+- Papierhandtuch
+- Kühlschrank
+- Gefrierschrank
+- Eiswürfel
+- Reibe
+- Schüssel
+- Teller
+- Teller
+- Servierschale
+- Kräuter
+- Fleisch
+- Gemüse
+- Brot
+- Teig
+- Reis
+- Mehl
+- Salat
+- Auflauf
+- Rezept
+- Kochen
+- Dampf
+- Kochen
+- Backen
+
+Thema: {topic}
+Beschreibung: {description}
+Wortschatz:
+-

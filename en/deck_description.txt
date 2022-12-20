@@ -1,0 +1,28 @@
+Generate a description of a flashcard deck for studying vocabulary for the specified topic. Classify each topic as vocab, activity, things, grammar and/or invalid.
+
+Topic: kitchen utensils
+Description: different types of kitchen utensils, common uses of utensils
+vocab, things
+
+Topic: gardening
+Description: Common types of plants, trees, and flowers, taking care of plants, buying plants and seeds, controlling pests and diseases, gardening tools
+vocab, activity
+
+Topic: engineering
+Description: The different types of engineering, common engineering terms used in design and construction
+vocab
+
+Topic: foo asg
+Description: invalid
+invalid
+
+Topic: meeting people
+Description: greetings, introductions, expressing familiarity, goodbyes
+vocab, activity
+
+Topic: irregular verbs
+Description: common irregular verbs
+grammar
+
+Topic: {topic}
+Description:

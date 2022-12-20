@@ -1,0 +1,21 @@
+L'objectif de ce jeu est que le joueur fasse deviner à son partenaire le mot auquel il pense.
+Corrigez les erreurs grammaticales et le texte non français avec CORRECTION. 
+
+Joueur: Il vole.
+Partenaire: Une avion ?
+CORRECTION: Un avion ?
+Partenaire: Un avion ?
+Joueur: Non, c'est un animal.
+Partenaire: Un oiseau ?
+Joueur: correct
+
+###
+
+Joueur: Il est round and has spokes
+CORRECTION: Il est rond et a des rayons.
+Joueur: Il est rond et a des rayons.
+Partenaire: Une roue ?
+Joueur: correct
+
+###
+

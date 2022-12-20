@@ -1,0 +1,19 @@
+Generate sentences for the topic, description and word specified.
+
+Topic: cocina
+Sub-topic: Encimeras de cocina, utensilios, electrodomésticos y menaje de cocina
+Word: cuchillo
+- Sacó lentamente el cuchillo grande del bloque de cuchillos.
+- Intenté rebanar la cebolla con un cuchillo de mantequilla pero no funcionó.
+- Los cuchillos estaban en el cajón al lado de las cucharas.
+- Necesito un cuchillo más afilado para eso.
+- El cuchillo es demasiado desafilado para cortar esta manzana.
+- La cocina bullía de actividad mientras los chefs cortaban las verduras con sus cuchillos muy afilados.
+- Cortó el pan con un cuchillo de sierra.
+- No pude encontrar los cuchillos en la cocina.
+- Un cuchillo para verdura, con su pequeño tamaño, es perfecto para pelar una manzana.
+
+Topic: {topic}
+Description: {description}
+Word: {word}
+-

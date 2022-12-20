@@ -1,0 +1,32 @@
+Générez une description d'un jeu de cartes mémoire pour étudier le vocabulaire du sujet spécifié. Classez chaque sujet en termes de "vocab", "acitivty", "things" et/ou de "grammar".
+
+Sujet : ustensiles de cuisine
+Description : différents types d'ustensiles de cuisine, utilisations courantes des ustensiles
+vocab, things
+
+Sujet : jardinage
+Description : Types courants de plantes, d'arbres et de fleurs, prendre soin des plantes, acheter des plantes et des graines, lutter contre les ravageurs et les maladies, outils de jardinage
+vocab, activity
+
+Sujet : ingénierie
+Description : Les différents types d'ingénierie, les termes d'ingénierie courants utilisés dans la conception et la construction
+vocab
+
+Sujet : foo asg
+Description : invalid
+invalid
+
+Sujet : rencontrer des gens
+Description : salutations, présentations, expression de familiarité, au revoir
+vocab, activity
+
+Sujet : verbes irréguliers
+Description : verbes irréguliers courants
+grammar
+
+Sujet: cyclisme
+Description: les différents types de vélos, les pièces d'un vélo, les accessoires de cyclisme, les termes courants du cyclisme, les meilleurs endroits pour faire du cyclisme
+vocab, activity
+
+Sujet : {topic}
+Description :

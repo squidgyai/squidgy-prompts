@@ -1,0 +1,16 @@
+Fournir des façons fluides de dire la phrase donnée.
+
+Phrase : J'ai chaud.
+- J'ai chaud
+- Je me sens chaud
+- Je transpire
+
+Phrase : Où sont ces choses dans la cuisine ?
+- Oů sont ces choses dans la cuisine ?
+
+Phrase : comment est-elle utilisée ?
+- Comment est-ce utilisé ?
+- Comment est-il appliqué ?
+
+Phrase : {phrase}
+-

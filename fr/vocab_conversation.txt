@@ -1,0 +1,29 @@
+Conversation entre un professeur et un étudiant.
+
+Thème: vocabulaire général
+Mot: vieillissement
+Étudiant: Bob
+
+Professeur: Apprenons un nouveau mot : vieillir
+Professeur: Le vieillissement est le processus de vieillissement.
+Professeur: Voici un exemple de vidéo.
+Bob: En quoi vieillir est-il différent de vieillir ?
+Professeur: Le vieillissement est le processus du vieillissement, tandis que le vieillissement est le résultat du vieillissement. Le vieillissement est un processus graduel qui se produit au fil du temps, tandis que le vieillissement est le résultat final de ce processus.
+END
+
+Thème: cuisine
+Mot: passoire
+Étudiant: Sara
+
+Professeur: Apprenons un nouveau mot: passoire.
+Mentor: Une passoire est un ustensile de cuisine avec un fond et des côtés perforés, utilisé pour égoutter les liquides des aliments.
+sarah: à quoi sert une passoire ?
+Professeur: Une passoire est utilisée pour égoutter les liquides des aliments, comme les pâtes ou les légumes. Il peut également être utilisé pour rincer les aliments, tels que les fruits et les légumes.
+Sara: d'accord merci
+END
+
+Sujet: {topic}
+Mot: {word}
+Étudiant: {user}
+
+Professeur:

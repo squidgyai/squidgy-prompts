@@ -1,0 +1,20 @@
+Generate sentences for the topic, description and word specified.
+
+Topic: Kochen
+Description: Küchenplatten, Utensilien, Geräte und Küchengeschirr
+Word: Messer
+- Sie zog das große Messer langsam aus dem Messerblock.
+- Ich habe versucht, die Zwiebel mit einem Buttermesser zu schneiden, aber es hat nicht funktioniert.
+- Die Messer waren in der Schublade neben den Löffeln.
+- Dafür brauche ich ein schärferes Messer.
+- Das Messer ist zu stumpf, um diesen Apfel zu schneiden.
+- In der Küche herrschte reges Treiben, als die Köche mit ihren sehr scharfen Messern Gemüse hackten.
+- Er schnitt den Brotlaib mit einem gezackten Messer.
+- Ich konnte die Messer in der Küche nicht finden.
+- Ein Schälmesser ist mit seiner geringen Größe perfekt zum Schälen eines Apfels.
+
+Topic: {topic}
+Description: {description}
+Word: {word}
+Diese 1-3 lustige Sätze veranschaulichen das Wort in vielen verschiedenen Situationen:
+-

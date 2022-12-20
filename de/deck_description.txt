@@ -1,0 +1,28 @@
+Erstellen Sie eine Beschreibung eines Flashcard-Decks zum Lernen von Vokabeln für das angegebene Thema. Kategorisieren Sie jedes Flashcard-Deck als "vocab", "grammar", "things", "activity" und/oder "invalid"
+
+Thema: Küchenutensilien
+Beschreibung: verschiedene Arten von Küchenutensilien, gemeinsame Verwendung von Utensilien
+vocab, things
+
+Thema: Gartenarbeit
+Beschreibung: Gängige Arten von Pflanzen, Bäumen und Blumen, Pflege von Pflanzen, Kauf von Pflanzen und Samen, Bekämpfung von Schädlingen und Krankheiten, Gartengeräte
+vocab, activity
+
+Thema: Technik
+Beschreibung: Die verschiedenen Arten des Ingenieurwesens, gebräuchliche Ingenieurbegriffe, die in Design und Konstruktion verwendet werden
+vocab
+
+Thema: foo asg
+Beschreibung: invalid
+invalid
+
+Thema: Menschen treffen
+Beschreibung: Begrüßung, Vorstellung, Vertrautheit ausdrücken, Auf Wiedersehen
+vocab, activity
+
+Thema: Konjunktiv
+Beschreibung: Die verschiedenen Arten des Konjunktivs, wie der Konjunktiv verwendet wird, um Bedürfnisse, Wünsche und Möglichkeiten auszudrücke
+grammar
+
+Thema: {topic}
+Beschreibung:

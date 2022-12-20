@@ -1,0 +1,50 @@
+Generate a list of vocabulary words for the following flashcard decks.
+
+Topic: Cooking
+Description: Utensils, dishware, kitchen devices, recipes, common ingredients, methods of food preparation
+Vocabulary:
+- knife
+- spoon
+- fork
+- teaspoon
+- tablespoon
+- measuring cup
+- mixer
+- blender
+- pot
+- pan
+- juicer
+- cutting board
+- dishwasher
+- wash
+- rinse
+- dry
+- towel
+- paper towel
+- refrigerator
+- freezer
+- ice cube
+- grater
+- bowl
+- plate
+- platter
+- serving bowl
+- herbs
+- meat
+- vegetables
+- bread
+- dough
+- rice
+- flour
+- salad
+- casserole
+- recipe
+- boil
+- steam
+- cook
+- bake
+
+Topic: {topic}
+Description: {description}
+Vocabulary:
+-

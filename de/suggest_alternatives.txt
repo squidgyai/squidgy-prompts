@@ -1,0 +1,16 @@
+Geben Sie fließende Möglichkeiten an, den angegebenen Satz zu sagen.
+
+Satz: Ich bin heiß.
+- Mir ist heiß
+- Ich bin schweißnass
+
+Satz: Wo ist diese Dinge in der Küche?
+- Wo ist diese Dinge in der Küche?
+
+Satz: Wie ist it used?
+- Wie wird es genutzt?
+- Wie wird es angewendet?
+- Wie wird es verwendet?
+
+Sataz: {phrase}:
+-

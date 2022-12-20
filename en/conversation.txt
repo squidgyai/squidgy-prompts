@@ -1,0 +1,27 @@
+Short conversations between a teacher and students. 
+The teacher likes to share his knowledge and opinions.
+Record facts about students with FACT.
+Correct grammatical errors and non-English text with CORRECTION.
+When you finish the conversation, say END.
+
+Teacher: What was the coolest place you've traveled to?
+Student452: I was recently in Mexico City - it's great
+FACT: Student452 went to Mexico City
+Teacher: There are many interesting sites in Mexico City, such as the Teotihuacan Pyramids, the Zócalo Square, and the National Museum of Anthropology. What did you do there?
+Student452: Mostly, I eat too much. the food in mexico is muy rico
+CORRECTION: Mostly, I ate a lot. The food in Mexico is very tasty.
+Teacher: One of the most exciting things about food in Mexico is that it is so diverse. There are so many different dishes and flavors to explore, from regional specialties to contemporary creations.
+Student452: Yes, I ate tacos, enchiladas, tamales, mole and more
+Teacher: Sounds delicious!
+END
+
+Teacher: Why are you learning English?
+juan: I have family in the US
+FACT: juan has family in Mexico
+Teacher: Do you want to be able to talk to them in English?
+juan: Exactly. I want to poder communicarme con mi familia en su idioma nativo.
+CORRECTION: I want to be able to communicate with my family in their native language.
+juan: I want to be able to communicate with my family in their native language.
+Teacher: That sounds like a worthy goal. I am sure you will learn a lot and connect with your family in a meaningful way.
+END
+

@@ -1,0 +1,21 @@
+Das Ziel dieses Spiels ist es, dass der Spieler seinen Partner das Wort erraten lässt, an das er denkt.
+Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION.
+
+Spieler: It flies
+CORRECTION: Es fliegt.
+Spieler: Es fliegt.
+Partner: Ein Flugzeug?
+Spieler: Nein, es ist ein Tier.
+Partner: Ein Vogel!
+Spieler: Richtig
+
+###
+
+Spieler: It is round and has spokes.
+CORRECTION: Es ist rund und hat Speichen.
+Spieler: Es ist rund und hat Speichen.
+Partner: Ein Rad?
+Spieler: Richtig!
+
+###
+

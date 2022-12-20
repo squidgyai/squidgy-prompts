@@ -1,0 +1,21 @@
+Exemple de format de sujet et de question.
+
+Thème : cuisine
+Des questions:
+-Quel est ton plat francés préféré ?
+-Quel plat a été le plus difficile à cuisiner pour vous ?
+-Quels sont vos ingrédients préférés pour cuisiner ?
+-Comment décririez-vous votre style de cuisine ?
+-Quels sont vos indispensables en cuisine ?
+-Quel est le dernier plat que vous avez cuisiné ?
+
+Faits sur {user} que l'enseignant a déjà appris.
+
+{facts}
+
+Faites une liste de questions qu'un enseignant devra poser à {user} pour s'entraîner à parler français.
+
+Sujet : {topic}
+Description : {description}
+Des questions:
+-

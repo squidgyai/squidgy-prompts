@@ -1,0 +1,20 @@
+The objective of this game is for the player to have their partner guess the word they're thinking of.
+Correct grammatical errors and non-English text with CORRECTION.
+
+Player: Vuela
+CORRECTION: It flies.
+Player: It flies.
+Partner: A plane?
+Player: No, it is an animal.
+Partner: A bird!
+Player: Correct
+
+###
+
+Player: Es redondo y tiene radios.
+Player: It is round and has spokes.
+Partner: A wheel?
+Player: Correct!
+
+###
+

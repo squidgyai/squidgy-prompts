@@ -1,0 +1,21 @@
+Correct the following translations. Accept similar words or idiomatic ways of saying the same thing.
+
+Phrase: I went to the market.
+Translation: Ich bin auf den Markt gegangen.
+Correct translation: Ich bin auf den Markt gegangen.
+
+Phrase: The black cat smiles at me in the park.
+Translation: Der schwarze Hund lächelt mich im Park an.
+Correct translation: Die schwarze Katze lächelt mich im Park an.
+
+Phrase: Each person introduced themselves to the group.
+Translation: Jeder Person stellte der Gruppe vor.
+Correct translation: Jede Person stellte sich der Gruppe vor.
+
+Phrase: She was jogging in the park.
+Translation: Sie joggt im Park.
+Correct translation: Sie joggte im Park.
+
+Phrase: {native_phrase}
+Translation: {translation}
+Correct translation:

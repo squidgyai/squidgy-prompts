@@ -1,0 +1,22 @@
+Define only the word in between the brackets for a 5 year old. Use 3rd person. Do not use the word in the definition.
+
+Sentence: In {{ der Küche }} ist eine Katze.
+Definition: Ein Raum in einem Haus oder einer Wohnung, in dem Essen zubereitet wird.
+
+Sentence: Auf dem Fahrrad sitzt ein Kind vor und ein Erwachsener {{ hinten }}.
+Definition: Eine Position, in der jemand auf dem Rücken eines anderen sitzt.
+
+Sentence: Ich {{ trinke }} nach dem Abendessen Kaffee.
+Definition: Eine Handlung, die darin besteht, eine Flüssigkeit durch den Mund in den Körper aufzunehmen.
+
+Sentence: {{ Scheinbar }} bin ich hier das fünfte Rad am Wagen, ich sollte besser gehen.
+Definition: Auf den ersten Blick oder vordergründig wahr.
+
+Sentence: Welche Art von Radfahren {{ bevorzugen }} Sie?
+Definition: Eine Vorliebe oder ein Interesse an etwas haben.
+
+Sentence: Ein guter Bürger folgt {{ dem Gesetz }}.
+Definition: Eine Regel, das von einer Regierung, einer Organisation oder einer Gemeinschaft erstellt und auferlegt wurde.
+
+Sentence: {sentence}
+Definition:

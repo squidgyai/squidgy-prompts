@@ -1,0 +1,25 @@
+Define the word in between {{ and }}. Do not use the word in the definition.
+
+Sentence: {{ Les exercices }} sont bons pour la santé.
+Definition: Les activités physiques que l'on fait pour être en forme.
+
+Sentence: Personne ne veut travailler {{ en extérieur }} un jour où il fait froid.
+Definition: Le contraire d'intérieur.
+
+Sentence: Il {{ dirai }} de vous rappeler, mais elle dirai non.
+Definition: Exprimer par la parole.
+
+Sentence: J’ai oublié {{ ma liste de courses }} à la maison.
+Definition: Une note qui contient les articles dont l'on a besoin.
+
+Sentence: En refusant de rencontrer cette personne, tu {{ as manqué }} à tous tes devoirs.
+Definition: Avoir négligé quelque chose de important que l'on aurait dû faire.
+
+Sentence: {{ La messe }} est dite.
+Definition: Célébration rituelle du culte catholique commémorant le sacrifice de Jésus-Christ.
+
+Sentence: Elle détient dix pour cent {{ des parts }} de l'entreprise.
+Definition: Des portions d'un ensemble.
+
+Sentence: {sentence}
+Definition:

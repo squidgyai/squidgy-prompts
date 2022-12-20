@@ -1,0 +1,14 @@
+Phrase: I went the market.
+Grammatically correct phrase: I went to the market.
+
+Phrase: The black dog smiled to me.
+Grammatically correct phrase: The black dog smiled at me.
+
+Phrase: Each person introduced them to the group.
+Grammatically correct phrase: Each person introduced themselves to the group.
+
+Phrase: The dog is running at the parc.
+Grammatically correct phrase: The dog is running in the park.
+
+Phrase: {phrase}
+Grammatically correct phrase:

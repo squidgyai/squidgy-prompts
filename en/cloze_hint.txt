@@ -1,0 +1,9 @@
+Describe the word in brackets without using the word in brackets.
+
+Language: English
+Sentence: I saw a {{ bird }} in the sky.
+Description: A mammal with wings.
+
+Language: English
+Sentence: {sentence}
+Description:

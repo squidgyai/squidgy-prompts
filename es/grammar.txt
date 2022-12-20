@@ -1,0 +1,18 @@
+Phrase: Fui a la mercado.
+Grammatically correct phrase: Fui al mercado.
+
+Phrase: La perro negro me sonrie.
+Grammatically correct phrase: El perro negro me sonríe.
+
+Phrase: El gato esta contenta.
+Grammatically correct phrase: El gato está contento.
+
+Phrase: Cada presento al grupo.
+Grammatically correct phrase: Cada persona se presentó al grupo.
+
+Phrase: El perr está corriendo al parque.
+Grammatically correct phrase: El perro está corriendo en el parque.
+
+Do not correct informal pronouns, formal pronouns, synonyms and idioms which mean the same thing.
+Phrase: {phrase}
+Grammatically correct phrase:

@@ -1,0 +1,20 @@
+Beispielthema und Frageformat.
+
+Thema: Kochen
+Fragen:
+-Was ist dein liebstes deutsches Gericht?
+-Welches Gericht war für Sie am schwierigsten zu kochen?
+-Mit welchen Zutaten kochst du am liebsten?
+-Wie würden Sie Ihren Kochstil beschreiben?
+-Was sind einige Ihrer Küchen-Must-Haves?
+-Was war das letzte Gericht, das du gekocht hast?
+
+Fakten über {user}, die der Lehrer bereits gelernt hat.
+
+{facts}
+
+Erstellen Sie eine Liste mit Fragen für einen Lehrer, um {user} zu bitten, das Sprechen der deutschen Sprache zu üben.
+
+Thema: {topic}
+Fragen:
+-

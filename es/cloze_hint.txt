@@ -1,0 +1,28 @@
+Define the word in between {{ and }}. Do not use the word in the definition.
+
+Sentence: En muchos lugares {{ los ciegos }} venden billetes de lotería.
+Definition: Personas que no pueden ver.
+
+Sentence: Estoy {{ preocupado }} por dónde estará él ahora.
+Definition: Sentir inquietud o temor por algo.
+
+Sentence: Para proteger la cabeza hay que ponerse {{ casco }}.
+Definition: Un objeto que se puede poner en la cabeza para protegerla.
+
+Sentence: ¿Podría darme {{ cambio }}?
+Definition: Monedas de menor valor que el billete que se usa para pagar.
+
+Sentence: {{ Puse }} aceite a mi bicicleta.
+Definition: Dejar un objeto dentro de otro.
+
+Sentence: Después de eso, me voy, pero entonces me doy {{ cuenta }} de que olvidé mi mochila.
+Definition: Percatarse, notar, o tomar conciencia de algo.
+
+Sentence: ¿Puedo usar {{ tu sacacorchos }}?
+Definition: Un objeto que se usa para quitar el tapón cilíndrico de una botella.
+
+Sentence: Los domingos solemos ir {{ en bicicleta }}.
+Definition: Utilizar un vehículo con pedales.
+
+Sentence: {sentence}
+Definition:

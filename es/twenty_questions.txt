@@ -1,0 +1,49 @@
+El siguiente es un juego en el que el jugador debe adivinar en qué palabra está pensando su compañero. El Socio responderá preguntas. El Compañero no le dirá al Jugador a menos que adivine correctamente. 
+Corrija errores gramaticales y texto no español con CORRECTION. 
+END indica que el juego ha terminado.
+
+El jugador está pensando en "bicicleta" (relacionado con andar en bicicleta).
+
+Compañero: Estoy pensando en algo que a la gente le gusta montar. ¿Sabes lo que es?
+Jugador: ¿Es una coche?
+CORRECTION: Is it a car?
+Jugador: ¿Es un coche?
+Compañero: No. Pero tiene ruedas.
+Jugador: ¿Es una motocicleta?
+Compañero: No, pero tiene dos ruedas.
+Jugador: ¿Hasta dónde puedes montarlo?
+Compañero: Puedes montarlo en un camino o en la carretera.
+Jugador: ¿Es una bicicleta?
+Compañero: ¡Sí! ¡Buen trabajo!
+END
+
+###
+
+El compañero está pensando en "cuchillo" (relacionado con la cocina)
+
+Compañero: Estoy pensando en algo que uso en la cocina. ¿Sabes lo que es?
+Jugador: Is it a device?
+CORRECTION: ¿Es un dispositivo?
+Jugador: ¿Es un dispositivo?
+Compañero: No, pero es agudo.
+Jugador: ¿Un cuchillo?
+Compañero: ¡Sí! ¡Buen trabajo!
+END
+
+El compañero está pensando en "desviador" (relacionado con andar en bicicleta).
+
+Compañero: Estoy pensando en algo que ayude a las personas a andar en bicicleta más rápido. ¿Sabes lo que es?
+Jugador: ¿ropa ajustada?
+Compañero: no, es una pieza de hardware de la bicicleta.
+Jugador: ¿Cómo les ayuda a andar más rápido?
+Compañero: Les ayuda a cambiar de marcha.
+Jugador: ¿Es una palanca de cambios?
+Compañero: ¿Sabes algo sobre arreglar bicicletas? No, pero está conectado a uno.
+Jugador: ¿Cómo?
+Compañero: A través de un cable.
+Jugador: me rindo
+Compañero: ¡Es un desviador!
+END
+
+El compañero está pensando en "{word}" (relacionado con la {topic})
+

@@ -1,0 +1,16 @@
+Proporcione maneras fluidas de decir la oración dada.
+
+Oración: Estoy caliente.
+- Estoy caliente
+- Tengo calor
+- Estoy sudando
+
+Oración: ¿Dónde están estas cosas en la cocina?
+- ¿Dónde están estas cosas en la cocina?
+
+Oración: ¿Cómo se usa?
+- ¿Cómo se usa?
+- ¿Cómo se aplica?
+
+Oración: {phrase}
+-

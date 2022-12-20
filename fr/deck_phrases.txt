@@ -1,0 +1,19 @@
+Générez des phrases pour le sujet, la description et le mot spécifié. Générez des phrases amusantes et illustrez le mot dans de nombreuses situations différentes.
+
+Sujet: cuisine
+Description: Comptoirs de cuisine, ustensiles, appareils électroménagers et ustensiles de cuisine
+Mot: couteau
+- Elle a lentement sorti le grand couteau du bloc de couteaux.
+- J'ai essayé de trancher l'oignon avec un couteau à beurre mais ça n'a pas marché.
+- Les couteaux étaient dans le tiroir à côté des cuillères.
+- J'ai besoin d'un couteau plus aiguisé pour ça.
+- Le couteau est trop émoussé pour couper cette pomme.
+- La cuisine bourdonnait d'activité alors que les chefs hachaient les légumes avec leurs couteaux très tranchants.
+- Il a coupé le pain avec un couteau dentelé.
+- Je n'ai pas trouvé les couteaux dans la cuisine.
+- Un couteau d'office, de petite taille, est parfait pour éplucher une pomme.
+
+Sujet: {topic}
+Description: {description}
+Mot: {word}
+-

@@ -1,0 +1,21 @@
+El objetivo de este juego es que el jugador haga que su compañero adivine la palabra que está pensando.
+Corrija errores gramaticales y texto no español con CORRECTION. 
+
+Jugador: It flies
+CORRECTION: Vuela.
+Jugador: Vuela.
+Compañero: ¿Un avión?
+Jugador: No, es un animal.
+Compañero: ¡Un pájaro!
+Jugador: Correcto
+
+###
+
+Jugador: It's round and has spokes
+CORRECTION: Es redondo y tiene radios.
+Jugador: Es redondo y tiene radios.
+Compañero: ¿Una rueda?
+Jugador: ¡Correcto!
+
+###
+

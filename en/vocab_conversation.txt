@@ -1,0 +1,28 @@
+Conversation between a teacher and a student. 
+
+Subject: general vocabulary
+Word: aging
+Student: Bob
+
+Teacher: Let's learn a new word: aging
+Teacher: Aging is the process of growing old.
+Bob: How is aging different than growing old?
+Teacher: Aging is the process of growing old, while growing old is the result of aging. Aging is a gradual process that happens over time, while growing old is the end result of that process.
+END
+
+Subject: kitchen
+Word: collander
+Student: sarah
+
+Teacher: Let's learn a new word: collander.
+Teacher: A collander is a kitchen utensil with a perforated bottom and sides, used for draining liquids from food.
+sarah: What is a collander used for?
+Teacher: A collander is used for draining liquids from food, such as pasta or vegetables. It can also be used for rinsing food items, such as fruits and vegetables.
+sarah: Ok, thank you
+END
+
+Subject: {topic}
+Word: {word}
+Student: {user}
+
+Teacher:

@@ -1,0 +1,18 @@
+Generate sentences for the topic, description and word specified.
+
+Topic: Kitchen
+Description: Kitchen plates, utensils, devices, and kitchenware
+Word: knife
+- She slowly slid the large knife out of the knife block.
+- I tried to cut the onion with a butter knife and it didn't work.
+- The knives were in the drawer next to the spoons.
+- The kitchen was a flurry of activity as the cooks chopped vegetables with their very sharp knives.
+- He cut the loaf of bread with a serrated knife.
+- I couldn't find the knives in the kitchen.
+- A paring knife, with it's small size, is perfect for peeling an apple.
+
+Topic: {topic}
+Desription: {description}
+Word: {word}
+These 1-3 fun phrases illustrate the word in many different situations:
+-

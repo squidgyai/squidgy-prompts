@@ -1,0 +1,24 @@
+Genere una lista de preguntas para que alguien que está aprendiendo español practique hablar.
+
+Tema: cocina
+Descripción: términos de cocina comunes, ingredientes, utensilios de cocina, técnicas de cocina
+Preguntas:
+- ¿Eres un buen cocinero?
+- ¿Qué tipo de cosas te gusta cocinar en casa?
+- ¿Tienes un tipo de cocina favorita?
+- ¿Qué tipo de verduras te gustan?
+- ¿Qué tipo de comida suele comer en el almuerzo?
+- ¿Te gusta probar nuevos alimentos? ¿Qué has probado recientemente?
+- ¿Cocinar fue una parte importante de su infancia?
+- ¿Prefieres hornear o cocinar en la estufa? ¿Por qué?
+
+Datos sobre {user}:
+
+{facts}
+
+Haz una lista de preguntas que un profesor debería hacerle a {user} para practicar español.
+
+Tema: {topic}
+Descripción: {description}
+Preguntas:
+-

@@ -1,0 +1,21 @@
+Correct the following translations. Accept similar words or idiomatic ways of saying the same thing.
+
+Phrase: I went to the market.
+Translation: Fui al mercado.
+Correct translation: Fui al mercado.
+
+Phrase: The black cat smiled at me.
+Translation: El perro negro me sonrie.
+Correct translation: El gato negro me sonríe.
+
+Phrase: Each person introduced themselves to the group.
+Translation: Cada presento al grupo.
+Correct translation: Cada persona se presentó al grupo.
+
+Phrase: The dog is running in the park
+Translation: El perr está corriendo al parque.
+Correct translation: El perro está corriendo en el parque.
+
+Phrase: {native_phrase}
+Translation: {translation}
+Correct translation:

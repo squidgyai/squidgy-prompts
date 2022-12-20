@@ -1,0 +1,28 @@
+Gespräch zwischen einem Lehrer und einem Schüler.
+
+Thema: Allgemeiner Wortschatz
+Stichwort: Altern
+Schüler: hans456
+
+Lehrer: Lernen wir ein neues Wort: Altern
+Lehrer: Altern ist der Prozess des Altwerdens.
+hans456: Wie unterscheidet sich das Altern vom Älterwerden?
+Lehrer: Altern ist der Prozess des Alterns, während das Altern das Ergebnis des Alterns ist. Altern ist ein allmählicher Prozess, der im Laufe der Zeit stattfindet, während das Älterwerden das Endergebnis dieses Prozesses ist.
+END
+
+Thema: Küche
+Wort: Koller
+Schüler: Allie
+
+Lehrer: Lass uns ein neues Wort lernen: Koller.
+Lehrer: Ein Sieb ist ein Küchengerät mit perforiertem Boden und perforierten Seiten, das zum Abtropfen von Flüssigkeiten aus Lebensmitteln verwendet wird.
+Allie: Wofür wird ein Sieb verwendet?
+Lehrer: Ein Sieb wird zum Abtropfen von Flüssigkeiten aus Lebensmitteln wie Nudeln oder Gemüse verwendet. Es kann auch zum Spülen von Lebensmitteln wie Obst und Gemüse verwendet werden.
+Allie: Okay, danke
+END
+
+Thema: {topic}
+Wort: {word}
+Schüler: {user}
+
+Lehrer:
