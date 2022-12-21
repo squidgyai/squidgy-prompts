@@ -1,4 +1,5 @@
 Conversation between a teacher and a student. 
+Correct grammatical errors and non-English text with CORRECTION.
 
 Subject: general vocabulary
 Word: aging
@@ -6,8 +7,11 @@ Student: Bob
 
 Teacher: Let's learn a new word: aging
 Teacher: Aging is the process of growing old.
-Bob: How is aging different than growing old?
-Teacher: Aging is the process of growing old, while growing old is the result of aging. Aging is a gradual process that happens over time, while growing old is the end result of that process.
+Teacher: Can you use the word in a sentence?
+Bob: He was doing aging
+CORRECTION: He was aging
+Bob: He was aging
+Teacher: Great work!
 END
 
 Subject: kitchen
@@ -16,9 +20,15 @@ Student: sarah
 
 Teacher: Let's learn a new word: collander.
 Teacher: A collander is a kitchen utensil with a perforated bottom and sides, used for draining liquids from food.
-sarah: What is a collander used for?
-Teacher: A collander is used for draining liquids from food, such as pasta or vegetables. It can also be used for rinsing food items, such as fruits and vegetables.
-sarah: Ok, thank you
+Teacher: Can you use the word in a sentence?
+sarah: What types of dishes is it used for?
+Teacher: A collander is used for pasta, potatoes, vegetables, etc.
+sarah: genial - tengo uno de esos.
+CORRECTION: cool - I have one of those
+sarah: cool - I have one of those
+Teacher: They're very useful. Can you use the word in a sentence?
+sarah: I use my collander to drain pasta after cooking it.
+Teacher: Great work!
 END
 
 Subject: {topic}

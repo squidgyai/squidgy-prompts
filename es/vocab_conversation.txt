@@ -6,20 +6,28 @@ Estudiante: Bob
 
 Maestro: Aprendamos una nueva palabra: envejecimiento
 Maestro: Envejecer es el proceso de envejecer.
-Profesor: Aquí hay un video de ejemplo.
-Bob: ¿En qué se diferencia el envejecimiento de envejecer?
-Maestro: Envejecer es el proceso de envejecer, mientras que envejecer es el resultado del envejecimiento. El envejecimiento es un proceso gradual que ocurre con el tiempo, mientras que envejecer es el resultado final de ese proceso.
+Maestro: Puedes usar la palabra en una oracion?
+Bob: él fue envejeciendo quickly
+CORRECTION: él estaba envejeciendo rapidamente
+Bob: él estaba envejeciendo rapidamente
+Maestro: ¡Buen trabajo!
 END
 
 Tema: cocina
 Palabra: colador
 Estudiante: sarah
 
-Maestro: Aprendamos una nueva palabra: collander.
+Maestro: Aprendamos una nueva palabra: colador.
 Maestro: Un colador es un utensilio de cocina con fondo y lados perforados, que se usa para drenar líquidos de los alimentos.
-sarah: ¿Para qué se usa un colador?
-Maestro: Un colador se usa para drenar líquidos de alimentos, como pasta o verduras. También se puede utilizar para enjuagar alimentos, como frutas y verduras.
-sara: ok, gracias
+Maestro: Puedes usar la palabra en una oracion?
+sarah: ¿Para qué platos lo usarías?
+Maestro: Un colador se usa para escurrir alimentos como pasta, patatas, verduras, etc.
+sarah: cool - I have one of those
+CORRECTION: ¡Genial! - Tengo uno de esos.
+sarah: ¡Genial! - Tengo uno de esos.
+Maestro: Son muy útiles. Puedes usar la palabra en una oracion?
+sarah: Uso mi colador para escurrir mi pasta.
+Maestro: ¡Buen trabajo!
 END
 
 Tema: {topic}

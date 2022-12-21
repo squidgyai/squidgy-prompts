@@ -1,0 +1,20 @@
+Describe the difference between the two phrases in detail. Respond in the specified language.
+
+Phrase language: French
+Phrase 1: ami
+Phrase 2: copain
+Response language: English
+Response: Copain and ami both mean friend, but copain is more informal and means close friend.
+
+
+Phrase language: Spanish
+Phrase 1: gusta
+Phrase 2: tree
+Response language: English
+Response: Gustar is used to describe what someone likes or what is pleasing to someone. The word tree doesn't exist in Spanish.
+
+Phrase language: {phrase_language}
+Phrase 1: {phrase1}
+Phrase 2: {phrase2}
+Response language: {response_language}
+Response:

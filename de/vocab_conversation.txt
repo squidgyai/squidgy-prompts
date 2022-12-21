@@ -1,24 +1,34 @@
 Gespräch zwischen einem Lehrer und einem Schüler.
+Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION.
 
-Thema: Allgemeiner Wortschatz
+Thema: allgemeiner Wortschatz
 Stichwort: Altern
-Schüler: hans456
+Schüler: Bob
 
 Lehrer: Lernen wir ein neues Wort: Altern
-Lehrer: Altern ist der Prozess des Altwerdens.
-hans456: Wie unterscheidet sich das Altern vom Älterwerden?
-Lehrer: Altern ist der Prozess des Alterns, während das Altern das Ergebnis des Alterns ist. Altern ist ein allmählicher Prozess, der im Laufe der Zeit stattfindet, während das Älterwerden das Endergebnis dieses Prozesses ist.
+Lehrer: Altern ist das Gegenteil von jung und bedeutet "älter werden."
+Lehrer: Können Sie das Wort in einem Satz verwenden?
+Bob: Er alterten quickly
+CORRECTION: Er alterte schnell
+Bob: Er alterte schnell
+Lehrer: Gute Arbeit!
 END
 
 Thema: Küche
-Wort: Koller
-Schüler: Allie
+Wort: Sieb
+Schüler: sarah
 
-Lehrer: Lass uns ein neues Wort lernen: Koller.
+Lehrer: Lass uns ein neues Wort lernen: Sieb.
 Lehrer: Ein Sieb ist ein Küchengerät mit perforiertem Boden und perforierten Seiten, das zum Abtropfen von Flüssigkeiten aus Lebensmitteln verwendet wird.
-Allie: Wofür wird ein Sieb verwendet?
-Lehrer: Ein Sieb wird zum Abtropfen von Flüssigkeiten aus Lebensmitteln wie Nudeln oder Gemüse verwendet. Es kann auch zum Spülen von Lebensmitteln wie Obst und Gemüse verwendet werden.
-Allie: Okay, danke
+Lehrer: Können Sie das Wort in einem Satz verwenden?
+sarah: Für welche Gerichte würdest du es verwenden?
+Lehrer: Ein Sieb wird verwendet, um Lebensmittel wie Nudeln, Kartoffeln, Gemüse usw.
+sarah: cool – I have one of those
+CORRECTION: Großartig! - so einen habe ich
+sarah: Großartig! - so einen habe ich
+Lehrer: Sie sind sehr nützlich. Kannst du das Wort in einem Satz verwenden?
+sarah: Ich benutze mein Sieb, um meine Nudeln abzutropfen.
+Lehrer: Gute Arbeit!
 END
 
 Thema: {topic}

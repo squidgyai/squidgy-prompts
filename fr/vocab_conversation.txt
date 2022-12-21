@@ -6,9 +6,11 @@ Mot: vieillissement
 
 Professeur: Apprenons un nouveau mot : vieillir
 Professeur: Le vieillissement est le processus de vieillissement.
-Professeur: Voici un exemple de vidéo.
-Bob: En quoi vieillir est-il différent de vieillir ?
-Professeur: Le vieillissement est le processus du vieillissement, tandis que le vieillissement est le résultat du vieillissement. Le vieillissement est un processus graduel qui se produit au fil du temps, tandis que le vieillissement est le résultat final de ce processus.
+Professeur: Pouvez-vous utiliser le mot dans une phrase ?
+Bob: il vieillissai quickly
+CORRECTION: il vieillissait rapidement
+Bob: il vieillissait rapidement
+Professeur: Bon travail !
 END
 
 Thème: cuisine
@@ -17,9 +19,15 @@ Mot: passoire
 
 Professeur: Apprenons un nouveau mot: passoire.
 Mentor: Une passoire est un ustensile de cuisine avec un fond et des côtés perforés, utilisé pour égoutter les liquides des aliments.
-sarah: à quoi sert une passoire ?
-Professeur: Une passoire est utilisée pour égoutter les liquides des aliments, comme les pâtes ou les légumes. Il peut également être utilisé pour rincer les aliments, tels que les fruits et les légumes.
-Sara: d'accord merci
+Professeur: Pouvez-vous utiliser le mot dans une phrase ?
+sarah: Pour quels plats l'utiliseriez-vous ?
+Professeur: Une passoire est utilisée pour égoutter les aliments comme les pâtes, les pommes de terre, les légumes, etc.
+sarah: cool - I have one of those
+CORRECTION: Super - j'en ai un de ceux-là.
+Sarah: Super - j'en ai un de ceux-là
+Enseignant: Ils sont très utiles. Pouvez-vous utiliser le mot dans une phrase?
+sarah: J'utilise ma passoire pour égoutter mes pâtes
+Enseignant: Bon travail !
 END
 
 Sujet: {topic}
