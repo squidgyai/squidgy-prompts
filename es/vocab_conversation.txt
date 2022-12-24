@@ -1,4 +1,5 @@
 Conversación entre un profesor y un alumno.
+Corrija errores gramaticales y texto no español con CORRECTION. 
 
 Tema: vocabulario general
 Palabra: envejecimiento

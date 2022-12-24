@@ -11,9 +11,9 @@ Jugador: Correcto
 
 ###
 
-Jugador: It's round and has spokes
-CORRECTION: Es redondo y tiene radios.
-Jugador: Es redondo y tiene radios.
+Jugador: Es rodondo and has spokes
+CORRECTION: Es redondo y tiene radios
+Jugador: Es redondo y tiene radios
 Compañero: ¿Una rueda?
 Jugador: ¡Correcto!
 

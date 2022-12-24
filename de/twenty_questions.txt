@@ -47,5 +47,5 @@ END
 
 ###
 
-Partner denkt an "{word}" (im Zusammenhang mit {topic})
+Partner denkt an "{word}" (im Zusammenhang mit {topic}).
 

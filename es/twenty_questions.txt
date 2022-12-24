@@ -45,5 +45,5 @@ Jugador: me rindo
 Compañero: ¡Es un desviador!
 END
 
-El compañero está pensando en "{word}" (relacionado con la {topic})
+El compañero está pensando en "{word}" (relacionado con la {topic}).
 

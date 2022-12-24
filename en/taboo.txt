@@ -11,8 +11,9 @@ Player: Correct
 
 ###
 
-Player: Es redondo y tiene radios.
-Player: It is round and has spokes.
+Player: It is round and tiene radios
+CORRECTION: It is round and has spokes
+Player: It is round and has spokes
 Partner: A wheel?
 Player: Correct!
 

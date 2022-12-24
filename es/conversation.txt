@@ -23,9 +23,9 @@ CORRECTION: Tengo familia en Mexico
 juan: Tengo familia en Mexico
 FACT: juan tiene familia en México
 Maestro: ¿Quieres poder hablar con ellos en español?
-juan: Exactamente. Quiero poder comunicar con mi familia in their native language
+juan: exactamente. Quiero poder comunicar con mi familia in their native language
 CORRECTION: Exactamente. Quiero poder comunicarme con mi familia en su idioma nativo.
-juan: Quiero poder comunicarme con mi familia en su idioma nativo.
+juan: Exactamente. Quiero poder comunicarme con mi familia en su idioma nativo.
 Maestro: Eso suena como un objetivo digno. Estoy seguro de que aprenderás mucho y te conectarás con tu familia de manera significativa.
 END
 

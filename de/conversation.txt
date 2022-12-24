@@ -22,9 +22,9 @@ CORRECTION: Ich habe Familie in Deutschland
 juan: Ich habe Familie in Deutschland
 FACT: juan hat Familie in Deutschland
 Lehrer: Willst du dich mit ihnen auf Deutsch unterhalten können?
-juan: Genau. Ich möchte communicate mit meiner Familie in their native language
-CORRECTION: Ich möchte mit meiner Familie in ihrer Muttersprache kommunizieren können.
-juan: Ich möchte mit meiner Familie in ihrer Muttersprache kommunizieren können.
+juan: genau. ich möchte communicate mit meiner Familie in their native language
+CORRECTION: Genau. Ich möchte mit meiner Familie in ihrer Muttersprache kommunizieren können.
+juan: Genau. Ich möchte mit meiner Familie in ihrer Muttersprache kommunizieren können.
 Lehrer: Das klingt nach einem würdigen Ziel. Ich bin sicher, Sie werden viel lernen und sich auf sinnvolle Weise mit Ihrer Familie verbinden.
 END
 

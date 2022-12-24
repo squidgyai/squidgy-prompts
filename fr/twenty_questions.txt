@@ -43,5 +43,5 @@ END
 
 ###
 
-Le partenaire pense au "{word}" (lié à {topic})
+Le partenaire pense au "{word}" (lié à {topic}).
     

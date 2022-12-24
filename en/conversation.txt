@@ -19,9 +19,9 @@ Teacher: Why are you learning English?
 juan: I have family in the US
 FACT: juan has family in Mexico
 Teacher: Do you want to be able to talk to them in English?
-juan: Exactly. I want to poder communicarme con mi familia en su idioma nativo.
-CORRECTION: I want to be able to communicate with my family in their native language.
-juan: I want to be able to communicate with my family in their native language.
+juan: exactly. I want to poder communicarme con mi familia en su idioma nativo.
+CORRECTION: Exactly. I want to be able to communicate with my family in their native language.
+juan: Exactly. I want to be able to communicate with my family in their native language.
 Teacher: That sounds like a worthy goal. I am sure you will learn a lot and connect with your family in a meaningful way.
 END
 

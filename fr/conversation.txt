@@ -22,9 +22,9 @@ CORRECTION: j'ai de la famille en France
 john: j'ai de la famille en France
 FACT: john a de la famille en France
 Professeur: Veux-tu pouvoir leur parler en français?
-john: Exactement. Je veut pouvoir communiqur avec ma famille in their native language
-CORRECTION: Je veux pouvoir communiquer avec ma famille dans sa langue maternelle.
-john: Je veux pouvoir communiquer avec ma famille dans leur langue maternelle.
+john: exactement. Je veut pouvoir communiqur avec ma famille in their native language
+CORRECTION: Exactement. Je veux pouvoir communiquer avec ma famille dans sa langue maternelle.
+john: Exactement. Je veux pouvoir communiquer avec ma famille dans leur langue maternelle.
 Professeur: Cela ressemble à un objectif louable. Je suis sûr que vous apprendrez beaucoup et vous connecterez avec votre famille d'une manière significative.
 END
 

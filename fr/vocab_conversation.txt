@@ -1,4 +1,5 @@
 Conversation entre un professeur et un étudiant.
+Corrigez les erreurs grammaticales et le texte non français avec CORRECTION. 
 
 Thème: vocabulaire général
 Mot: vieillissement
