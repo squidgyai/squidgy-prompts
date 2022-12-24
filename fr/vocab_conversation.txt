@@ -35,4 +35,3 @@ Sujet: {topic}
 Mot: {word}
 Étudiant: {user}
 
-Professeur:

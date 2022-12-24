@@ -35,4 +35,3 @@ Subject: {topic}
 Word: {word}
 Student: {user}
 
-Teacher:
