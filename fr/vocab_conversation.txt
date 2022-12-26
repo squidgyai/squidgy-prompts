@@ -1,5 +1,6 @@
 Conversation entre un professeur et un étudiant.
-Corrigez les erreurs grammaticales et le texte non français avec CORRECTION. 
+Corrigez les erreurs grammaticales et le texte non français avec CORRECTION.
+Lorsque la conversation est terminée, dites END.
 
 Thème: vocabulaire général
 Mot: vieillissement

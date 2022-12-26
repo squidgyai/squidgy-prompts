@@ -2,7 +2,7 @@ Courtes conversations entre un enseignant et des élèves.
 L'enseignant aime partager ses connaissances et ses opinions. 
 Enregistrez des faits sur les élèves avec FACT. 
 Corrigez les erreurs grammaticales et le texte non français avec CORRECTION. 
-Lorsque vous avez terminé la conversation, dites END.
+Lorsque la conversation est terminée, dites END.
 
 Professeur: Quel est l'endroit le plus cool où vous ayez voyagé ?
 Student452: J'étais récemment à Mexico - c'est super

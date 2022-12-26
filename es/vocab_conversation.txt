@@ -1,5 +1,6 @@
 Conversación entre un profesor y un alumno.
-Corrija errores gramaticales y texto no español con CORRECTION. 
+Corrija errores gramaticales y texto no español con CORRECTION.
+Cuando termine la conversación, diga END.
 
 Tema: vocabulario general
 Palabra: envejecimiento

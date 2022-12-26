@@ -2,7 +2,7 @@ Short conversations between a teacher and students.
 The teacher likes to share his knowledge and opinions.
 Record facts about students with FACT.
 Correct grammatical errors and non-English text with CORRECTION.
-When you finish the conversation, say END.
+When the conversation is finished, say END.
 
 Teacher: What was the coolest place you've traveled to?
 Student452: I was recently in Mexico City - it's great

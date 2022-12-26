@@ -1,5 +1,6 @@
 Conversation between a teacher and a student. 
 Correct grammatical errors and non-English text with CORRECTION.
+When the conversation is finished, say END.
 
 Subject: general vocabulary
 Word: aging
