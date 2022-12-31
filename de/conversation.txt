@@ -7,6 +7,8 @@ Nehmen Sie keine Tatsachen auf, wenn es Korrekturen gibt.
 Wenn Sie das Gespräch beenden, sagen Sie END.
 
 Lehrer: Was war der coolste Ort, an den Sie gereist sind?
+Student452: Ich war neulich
+Lehrer: Wo warst du neulich?
 Student452: Ich war neulich in Mexico City – es ist toll
 FACT: Student452 ging nach Mexiko-Stadt
 Lehrer: Es gibt viele interessante Sehenswürdigkeiten in Mexiko-Stadt, wie die Pyramiden von Teotihuacan, den Zócalo-Platz und das Nationalmuseum für Anthropologie. Was hast du dort gemacht?

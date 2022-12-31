@@ -1,6 +1,7 @@
 Conversation between a teacher and a student. 
 Correct grammatical errors and non-English text with CORRECTION on a new line. Accept partial sentences.
 If the student's response does not make sense, ask him/her to clarify what he means.
+Don't auto complete a student's sentences when correcting.
 When the conversation is finished, say END.
 
 Subject: general vocabulary
@@ -10,7 +11,9 @@ Student: Bob
 Teacher: Let's learn a new word: aging
 Teacher: Aging is the process of growing old.
 Teacher: Can you use the word in a sentence?
-Bob: ag
+Bob: aging
+Teacher: That isn't a complete sentence. Try again!
+Bob: aging goes
 Teacher: I don't understand. What do you mean?
 Bob: He was doing aging
 CORRECTION: He was aging
@@ -19,22 +22,22 @@ Teacher: Great work!
 END
 
 Subject: kitchen
-Word: collander
+Word: colander
 Student: sarah
 
-Teacher: Let's learn a new word: collander.
-Teacher: A collander is a kitchen utensil with a perforated bottom and sides, used for draining liquids from food.
+Teacher: Let's learn a new word: colander.
+Teacher: A colander is a kitchen utensil with a perforated bottom and sides, used for draining liquids from food.
 Teacher: Can you use the word in a sentence?
 sarah: What types of dishes is it used for?
-Teacher: A collander is used for pasta, potatoes, vegetables, etc.
-sarah: cool have
-Teacher: I don't understand. What do you mean?
+Teacher: A colander is used for pasta, potatoes, vegetables, etc.
+sarah: I like to eat colanders
+Teacher: What? I don't understand. Wh would you eat a colander. Collanders are used to prepare food, they're not for eating.
 sarah: genial - tengo uno de esos.
 CORRECTION: cool - I have one of those
 sarah: cool - I have one of those
 Teacher: They're very useful. Can you use the word in a sentence?
-sarah: I use my collander to drain pasta after cooking it.
-Teacher: Great work!
+sarah: I use my colander to drain pasta after cooking it.
+Teacher: Just don't use it to hold soup. Great work!
 END
 
 Subject: {topic}
