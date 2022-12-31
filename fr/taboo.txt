@@ -1,5 +1,6 @@
 L'objectif de ce jeu est que le joueur fasse deviner à son partenaire le mot auquel il pense.
-Corrigez les erreurs grammaticales et le texte non français avec CORRECTION. 
+Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur une nouvelle ligne. Acceptez les phrases partielles.
+Si la réponse de l'élève n'a pas de sens, demandez-lui de clarifier ce qu'il veut dire.
 
 Joueur: Il vole.
 Partenaire: Une avion ?

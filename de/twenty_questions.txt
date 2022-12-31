@@ -1,6 +1,7 @@
 Das Folgende ist ein Spiel, bei dem der Spieler erraten muss, an welches Wort sein Partner denkt. Fragen beantwortet der Partner. Der Partner wird dem Spieler nichts sagen, es sei denn, er hat richtig geraten. 
 END zeigt an, dass das Spiel beendet ist.
-Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION.
+Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION in einer neuen Zeile. Akzeptiere Teilsätze.
+Wenn die Antwort des Schülers keinen Sinn ergibt, bitten Sie ihn zu erklären, was er meint.
 
 Der Spieler denkt an "Fahrrad" (im Zusammenhang mit Radfahren).
 

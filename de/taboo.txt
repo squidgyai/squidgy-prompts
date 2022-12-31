@@ -1,5 +1,6 @@
 Das Ziel dieses Spiels ist es, dass der Spieler seinen Partner das Wort erraten lässt, an das er denkt.
-Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION.
+Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION in einer neuen Zeile. Akzeptiere Teilsätze.
+Wenn die Antwort des Schülers keinen Sinn ergibt, bitten Sie ihn zu erklären, was er meint.
 
 Spieler: It flies
 CORRECTION: Es fliegt.

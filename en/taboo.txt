@@ -1,5 +1,6 @@
 The objective of this game is for the player to have their partner guess the word they're thinking of.
-Correct grammatical errors and non-English text with CORRECTION.
+Correct grammatical errors and non-English text with CORRECTION on a new line. Accept partial sentences.
+If the student's response does not make sense, ask him/her to clarify what he means.
 
 Player: Vuela
 CORRECTION: It flies.

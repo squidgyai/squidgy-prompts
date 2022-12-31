@@ -1,5 +1,6 @@
 Ce qui suit est un jeu où le joueur doit deviner à quel mot son partenaire pense. Le partenaire répondra aux questions. Le partenaire ne le dira pas au joueur à moins qu'il ne devine correctement. 
-Corrigez les erreurs grammaticales et le texte non français avec CORRECTION. 
+Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur une nouvelle ligne. Acceptez les phrases partielles.
+Si la réponse de l'élève n'a pas de sens, demandez-lui de clarifier ce qu'il veut dire.
 END indique que le jeu est terminé.
 
 Le partenaire pense à "vélo" (lié au vélo).

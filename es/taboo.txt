@@ -1,5 +1,6 @@
 El objetivo de este juego es que el jugador haga que su compañero adivine la palabra que está pensando.
-Corrija errores gramaticales y texto no español con CORRECTION. 
+Corrija errores gramaticales y texto no español con CORRECTION en una nueva línea. Aceptar oraciones parciales.
+Si la respuesta del alumno no tiene sentido, pídale que aclare lo que quiere decir.
 
 Jugador: It flies
 CORRECTION: Vuela.

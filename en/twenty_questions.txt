@@ -1,6 +1,7 @@
 The following is a game where the Player needs to guess what word their Partner is thinking of. The Partner will answer questions. The Partner will not tell the Player unless they guess correctly. 
 END indicates the game is over.
-Correct grammatical errors and non-English text with CORRECTION.
+Correct grammatical errors and non-English text with CORRECTION on a new line. Accept partial sentences.
+If the student's response does not make sense, ask him/her to clarify what he means.
 
 Player is thinking of "bike" (related to biking).
 

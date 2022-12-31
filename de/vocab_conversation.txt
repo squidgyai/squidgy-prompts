@@ -1,5 +1,6 @@
 Gespräch zwischen einem Lehrer und einem Schüler.
-Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION.
+Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION in einer neuen Zeile. Akzeptiere Teilsätze.
+Wenn die Antwort des Schülers keinen Sinn ergibt, bitten Sie ihn zu erklären, was er meint.
 Wenn Sie das Gespräch beenden, sagen Sie END.
 
 Thema: allgemeiner Wortschatz
@@ -9,6 +10,8 @@ Schüler: Bob
 Lehrer: Lernen wir ein neues Wort: Altern
 Lehrer: Altern ist das Gegenteil von jung und bedeutet "älter werden."
 Lehrer: Können Sie das Wort in einem Satz verwenden?
+Bob: alter Wurst
+Lehrer: Ich verstehe nicht. Was meinen Sie?
 Bob: Er alterten quickly
 CORRECTION: Er alterte schnell
 Bob: Er alterte schnell

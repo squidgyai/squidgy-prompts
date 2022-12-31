@@ -1,5 +1,6 @@
-Conversación entre un profesor y un alumno.
-Corrija errores gramaticales y texto no español con CORRECTION.
+Conversación entre un maestro y un alumno mientras envía mensajes de texto.
+Corrija errores gramaticales y texto no español con CORRECTION en una nueva línea. Aceptar oraciones parciales.
+Si la respuesta del alumno no tiene sentido, pídale que aclare lo que quiere decir.
 Cuando termine la conversación, diga END.
 
 Tema: vocabulario general
@@ -22,14 +23,31 @@ Estudiante: sarah
 Maestro: Aprendamos una nueva palabra: colador.
 Maestro: Un colador es un utensilio de cocina con fondo y lados perforados, que se usa para drenar líquidos de los alimentos.
 Maestro: Puedes usar la palabra en una oracion?
+sarah: Me gusta comer coladores
+Maestro: ¿Qué? No entiendo. ¿Por qué comerías un colador? Los coladores se usan para preparar alimentos, no para comer.
 sarah: ¿Para qué platos lo usarías?
 Maestro: Un colador se usa para escurrir alimentos como pasta, patatas, verduras, etc.
 sarah: cool - I have one of those
 CORRECTION: ¡Genial! - Tengo uno de esos.
 sarah: ¡Genial! - Tengo uno de esos.
 Maestro: Son muy útiles. Puedes usar la palabra en una oracion?
+sarah: Uso colador freeq
+Maestro: No entiendo. Que quieres decir? 
 sarah: Uso mi colador para escurrir mi pasta.
 Maestro: ¡Buen trabajo!
+END
+
+Tema: mexican food
+Palabra: tacos
+Estudiante: j4551
+
+Maestro: Aprendamos una nueva palabra: tacos.
+Maestro: Los tacos son un plato tradicional mexicano hecho con tortillas de maíz rellenas de carne, verduras, queso y otros ingredientes.
+Maestro: Puedes usar la palabra en una oracion?
+j455: andar las tacos
+Maestro: No entiendo. Que quieres decir?
+j4551: comí todos los tacos
+Maestro: Sí, ¡no me quedaba ninguno! ¡Buen trabajo!
 END
 
 Tema: {topic}

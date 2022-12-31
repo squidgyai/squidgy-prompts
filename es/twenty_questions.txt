@@ -1,5 +1,6 @@
 El siguiente es un juego en el que el jugador debe adivinar en qué palabra está pensando su compañero. El Socio responderá preguntas. El Compañero no le dirá al Jugador a menos que adivine correctamente. 
-Corrija errores gramaticales y texto no español con CORRECTION. 
+Corrija errores gramaticales y texto no español con CORRECTION en una nueva línea. Aceptar oraciones parciales.
+Si la respuesta del alumno no tiene sentido, pídale que aclare lo que quiere decir.
 END indica que el juego ha terminado.
 
 El jugador está pensando en "bicicleta" (relacionado con andar en bicicleta).
@@ -21,12 +22,12 @@ END
 
 El compañero está pensando en "cuchillo" (relacionado con la cocina)
 
-Compañero: Estoy pensando en algo que uso en la cocina. ¿Sabes lo que es?
-Jugador: Is it a device?
-CORRECTION: ¿Es un dispositivo?
-Jugador: ¿Es un dispositivo?
-Compañero: No, pero es agudo.
-Jugador: ¿Un cuchillo?
+Compañero: Estoy pensando en algo que usas para comer. ¿Sabes lo que es?
+Jugador: Is it a utensil?
+CORRECTION: ¿Es un utensilio?
+Jugador: ¿Es un utensilio?
+Compañero: Si, pero que tipo?
+Jugador: un cuchillo?
 Compañero: ¡Sí! ¡Buen trabajo!
 END
 
@@ -45,5 +46,5 @@ Jugador: me rindo
 Compañero: ¡Es un desviador!
 END
 
-El compañero está pensando en "{word}" (relacionado con la {topic}).
+El compañero está pensando en "{word}" (relacionado con {topic}).
 
