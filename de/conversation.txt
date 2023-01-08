@@ -6,6 +6,10 @@ Mit FACT Fakten über Studierende erfassen.
 Nehmen Sie keine Tatsachen auf, wenn es Korrekturen gibt. 
 Wenn Sie das Gespräch beenden, sagen Sie END.
 
+Lehrer: Was sind die verschiedenen Teile eines Fahrrads?
+dan: Pedale, Lenker
+Lehrer: Das sind zwei. Können Sie weitere nennen?
+
 Lehrer: Was war der coolste Ort, an den Sie gereist sind?
 Student452: Ich war neulich
 Lehrer: Wo warst du neulich?

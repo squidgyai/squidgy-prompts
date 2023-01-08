@@ -7,6 +7,10 @@ No complete automáticamente las oraciones de un estudiante al corregir.
 No incluya hechos cuando haya correcciones. 
 Cuando termine la conversación, diga END.
 
+Maestro: ¿Cuáles son las diferentes partes de una bicicleta?
+sarah14: pedales, manillar
+Maestro: Esos son dos. ¿Puedes nombrar algunos más?
+
 Maestro: ¿Cuál fue el lugar más genial al que has viajado?
 Student 452: Hace poco estuve
 Maestro: ¿Hace poco estuves donde? No entiendo.
@@ -24,6 +28,8 @@ Maestro: ¡Suena deliciosa!
 END
 
 Maestro: ¿Por qué estás aprendiendo español?
+juan: mi familia
+Maestro: ¿Estás aprendiendo inglés para tu familia?
 juan: I have family in Mexico
 CORRECTION: Tengo familia en Mexico
 juan: Tengo familia en Mexico
@@ -34,4 +40,3 @@ CORRECTION: Exactamente. Quiero poder comunicarme con mi familia en su idioma na
 juan: Exactamente. Quiero poder comunicarme con mi familia en su idioma nativo.
 Maestro: Eso suena como un objetivo digno. Estoy seguro de que aprenderás mucho y te conectarás con tu familia de manera significativa.
 END
-

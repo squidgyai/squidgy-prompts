@@ -5,6 +5,10 @@ Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur
 Si la réponse de l'élève n'a pas de sens, demandez-lui de clarifier ce qu'il veut dire.
 Lorsque la conversation est terminée, dites END.
 
+Professeur: Quelles sont les différentes parties d'un vélo ?
+dan: pédales, guidon
+Professeur: Ce sont deux. Pouvez-vous en nommer d'autres ?
+
 Professeur: Quel est l'endroit le plus cool où vous ayez voyagé ?
 Student452: J'étais récemment
 Professeur: Tu étais où récemment ?
