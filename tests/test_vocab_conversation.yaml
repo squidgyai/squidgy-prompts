@@ -1,0 +1,51 @@
+en_conversation_start:
+  base_prompt: ./en/vocab_conversation.txt
+  params:
+    topic: Kitchen utensils
+    description: The various types of kitchen utensils and their uses
+    user: Bob
+  stop:
+    - "Bob:"
+  expected: |-
+    Teacher: Let's learn a new word: whisk.
+    Teacher: A whisk is a kitchen utensil used for mixing ingredients together.
+    Teacher: Can you use the word in a sentence?
+
+fr_conversation_start:
+  base_prompt: ./fr/vocab_conversation.txt
+  params:
+    topic: Ustensiles de cuisine
+    description: Les différents types d'ustensiles de cuisine et leurs utilisations
+    user: Bob
+  stop:
+    - "Bob:"
+  expected: |-
+    Professeur: Apprenons un nouveau mot : couteau.
+    Professeur: Un couteau est un ustensile de cuisine tranchant utilisé pour couper et hacher des aliments.
+    Professeur: Pouvez-vous utiliser le mot dans une phrase ?
+
+es_conversation_start:
+  base_prompt: ./es/vocab_conversation.txt
+  params:
+    topic: Utensilios de cocina
+    description: Los distintos tipos de utensilios de cocina y sus usos
+    user: Bob
+  stop:
+    - "Bob:"
+  expected: |-
+    Maestro: Aprendamos una nueva palabra: cuchara.
+    Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana y redondeada para servir alimentos.
+    Maestro: Puedes usar la palabra en una oracion?
+
+de_conversation_start:
+  base_prompt: ./de/vocab_conversation.txt
+  params:
+    topic: Küchenutensilien
+    description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
+    user: Bob
+  stop:
+    - "Bob:"
+  expected: |-
+    Lehrer: Lass uns ein neues Wort lernen: Pfanne.
+    Lehrer: Eine Pfanne ist ein Küchengerät, das zum Braten und Kochen von Speisen verwendet wird.
+    Lehrer: Können Sie das Wort in einem Satz verwenden?
