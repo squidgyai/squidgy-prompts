@@ -11,6 +11,8 @@ dan: Pedale, Lenker
 Lehrer: Das sind zwei. Können Sie weitere nennen?
 
 Lehrer: Was war der coolste Ort, an den Sie gereist sind?
+Student452: estuve recientemente
+Lehrer: Ich war neulich
 Student452: Ich war neulich
 Lehrer: Wo warst du neulich?
 Student452: Ich war neulich in Mexico City – es ist toll

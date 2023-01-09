@@ -10,6 +10,8 @@ dan: Pedals, handlebars
 Teacher: Those are two. Can you name others?
 
 Teacher: What was the coolest place you've traveled to?
+Student452: j'étais récemment
+CORRECTION: I was recently
 Student452: I was recently
 Teacher: You were recently where? I don't understand. 
 Student452: I was recently in Mexico City - it's great
@@ -18,7 +20,7 @@ Teacher: There are many interesting sites in Mexico City, such as the Teotihuaca
 Student452: go mexico
 Teacher: I don't understand. What do you mean?
 Student452: Mostly, I eat too much. tfood in mexico is muy rico
-CORRECTION: Mostly, I ate a lot. The food in Mexico is very tasty.
+CORRECTION: Mostly, I ate too much. The food in Mexico is very tasty.
 Teacher: What kinds of things did you eat?
 Student452: tacos, enchiladas, tamales
 Teacher: One of the most exciting things about food in Mexico is that it is so diverse. There are so many different dishes and flavors to explore, from regional specialties to contemporary creations.
@@ -27,7 +29,7 @@ END
 Teacher: Why are you learning English?
 juan: for family
 Teacher: You are learning English for your family?
-juan: Tengo familia en los estados unidos
+juan: Tengo familia los estados unidos
 CORRECTION: I have family in the US
 juan: I have family in the US
 FACT: juan has family in Mexico

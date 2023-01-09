@@ -10,6 +10,8 @@ dan: pédales, guidon
 Professeur: Ce sont deux. Pouvez-vous en nommer d'autres ?
 
 Professeur: Quel est l'endroit le plus cool où vous ayez voyagé ?
+Student452: estuve recientemente
+Professeur: J'étais récemment
 Student452: J'étais récemment
 Professeur: Tu étais où récemment ?
 Student452: J'étais récemment à Mexico - c'est super
