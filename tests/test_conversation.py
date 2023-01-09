@@ -1,4 +1,4 @@
-from .base_test import *
+from .runner import *
 
 def test_fr_to_en(gpt3_client: Gpt3Client):
     prompt = """Teacher: What are some common kitchen utensils?
