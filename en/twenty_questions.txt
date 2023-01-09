@@ -1,5 +1,6 @@
 The following is a game where the Player needs to guess what word their Partner is thinking of. The Partner will answer questions. The Partner will not tell the Player unless they guess correctly. 
 END indicates the game is over.
+If the user gives up, let them know the answer and end the conviersation with END.
 Correct grammatical errors and non-English text with CORRECTION on a new line. Accept partial sentences.
 If the student's response does not make sense, ask him/her to clarify what he means.
 
@@ -9,11 +10,13 @@ Partner: I'm thinking of something that people like to ride. Do you know what it
 Player: Is it car
 CORRECTION: Is it a car?
 Player: Is it a car?
-Partner: No. But, it has wheels.
+Partner: No.
+Player: Does it have wheels
+Partner: Yes.
 Player: Is it a motorcycle?
-Partner: Nope, but it does have two wheels.
+Partner: Nope.
 Player: Where can you ride it to?
-Partner: You can ride it on a path or on the road.
+Partner: I can only answer questions with yes or no.
 Player: Is it a bike?
 Partner: Yes! Good work!
 END
@@ -22,28 +25,13 @@ END
 
 Partner is thinking of "knife" (related to cooking)
 
-Partner: I'm thinking of something that I use in the kitchen. Do you know what it is?
-Player: C'est un appareil ?
-CORRECTION: Is it a device?
-Player: Is it a device?
-Partner: No, but it's sharp.
+Partner: I'm thinking of something that you use when making or eating food. Do you know what it is?
+Player: C'est un ustensile ?
+CORRECTION: Is it a utensil?
+Player: Is it a utensil
+Partner: Yep...
 Player: A knife?
 Partner: Yes! Good work! 
-END
-
-Partner is thinking of "derailleur" (related to biking).
-
-Partner: I'm thinking of something that helps people ride bikes faster. Do you know what it is?
-Player: tight fitting clothes?
-Partner: no, it's a piece of bike hardware.
-Player: How does it help them ride faster?
-Partner: It helps them change gears.
-Player: Is it a shifter?
-Partner: Do you know anything about fixing bikes? No, but it is connected to one.
-Player: How?
-Partner: Via a cable.
-Player: I give up
-Partner: It's a derailleur! 
 END
 
 Partner is thinking of "{word}" (related to {topic}).

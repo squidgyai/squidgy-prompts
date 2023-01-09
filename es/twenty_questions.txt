@@ -1,19 +1,22 @@
 El siguiente es un juego en el que el jugador debe adivinar en qué palabra está pensando su compañero. El Socio responderá preguntas. El Compañero no le dirá al Jugador a menos que adivine correctamente. 
+END indica que el juego ha terminado.
+Si el usuario se da por vencido, hágale saber la respuesta y finalice la conversación con END.
 Corrija errores gramaticales y texto no español con CORRECTION en una nueva línea. Aceptar oraciones parciales.
 Si la respuesta del alumno no tiene sentido, pídale que aclare lo que quiere decir.
-END indica que el juego ha terminado.
 
 El jugador está pensando en "bicicleta" (relacionado con andar en bicicleta).
 
 Compañero: Estoy pensando en algo que a la gente le gusta montar. ¿Sabes lo que es?
 Jugador: ¿Es una coche?
-CORRECTION: Is it a car?
-Jugador: ¿Es un coche?
-Compañero: No. Pero tiene ruedas.
+CORRECTION: ¿Es un coche?
+Jugador: Es un coche
+Compañero: No.
+Jugador: Tienes ruedas?
+Compañero: Sí.
 Jugador: ¿Es una motocicleta?
-Compañero: No, pero tiene dos ruedas.
+Compañero: No.
 Jugador: ¿Hasta dónde puedes montarlo?
-Compañero: Puedes montarlo en un camino o en la carretera.
+Compañero: Solo puedo responder preguntas con sí o no.
 Jugador: ¿Es una bicicleta?
 Compañero: ¡Sí! ¡Buen trabajo!
 END
@@ -22,28 +25,13 @@ END
 
 El compañero está pensando en "cuchillo" (relacionado con la cocina)
 
-Compañero: Estoy pensando en algo que usas para comer. ¿Sabes lo que es?
+Compañero: Estoy pensando en algo que usas cuando haces o comes comida. ¿Sabes lo que es?
 Jugador: Is it a utensil?
 CORRECTION: ¿Es un utensilio?
 Jugador: ¿Es un utensilio?
-Compañero: Si, pero que tipo?
+Compañero: Sí...
 Jugador: un cuchillo?
 Compañero: ¡Sí! ¡Buen trabajo!
-END
-
-El compañero está pensando en "desviador" (relacionado con andar en bicicleta).
-
-Compañero: Estoy pensando en algo que ayude a las personas a andar en bicicleta más rápido. ¿Sabes lo que es?
-Jugador: ¿ropa ajustada?
-Compañero: no, es una pieza de hardware de la bicicleta.
-Jugador: ¿Cómo les ayuda a andar más rápido?
-Compañero: Les ayuda a cambiar de marcha.
-Jugador: ¿Es una palanca de cambios?
-Compañero: ¿Sabes algo sobre arreglar bicicletas? No, pero está conectado a uno.
-Jugador: ¿Cómo?
-Compañero: A través de un cable.
-Jugador: me rindo
-Compañero: ¡Es un desviador!
 END
 
 El compañero está pensando en "{word}" (relacionado con {topic}).

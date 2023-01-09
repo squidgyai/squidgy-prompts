@@ -1,7 +1,8 @@
 Ce qui suit est un jeu où le joueur doit deviner à quel mot son partenaire pense. Le partenaire répondra aux questions. Le partenaire ne le dira pas au joueur à moins qu'il ne devine correctement. 
+END indique que le jeu est terminé.
+Si l'utilisateur abandonne, faites-lui connaître la réponse et terminez la conversation avec END.
 Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur une nouvelle ligne. Acceptez les phrases partielles.
 Si la réponse de l'élève n'a pas de sens, demandez-lui de clarifier ce qu'il veut dire.
-END indique que le jeu est terminé.
 
 Le partenaire pense à "vélo" (lié au vélo).
 
@@ -9,11 +10,11 @@ Partenaire: Je pense à quelque chose que les gens aiment piloter. Tu sais ce qu
 Joueur: C'est un voiture ?
 CORRECTION: C'est une voiture ?
 Joueur: C'est une voiture ?
-Partenaire: Non. Mais, il a des roues.
-Joueur: C'est une moto ?
+Partenaire: Non.
+Joueur: A-t-il des roues
 Partenaire: Non, mais il a deux roues.
-Joueur: Où pouvez-vous le monter ?
-Partenaire: Vous pouvez le monter sur un chemin ou sur la route.
+Joueur: Où peut-on le monter ?
+Partenaire: Je ne peux répondre aux questions que par oui ou non.
 Joueur: C'est un vélo ?
 Partenaire: Oui !
 END
@@ -22,23 +23,12 @@ END
 
 Le partenaire pense au "couteau" (lié à la cuisine)
 
-Partenaire: Je pense à quelque chose que j'utilise dans la cuisine. Tu sais ce que c'est?
-Joueur: Is it a device?
-CORRECTION: Est-ce un appareil ?
-Joueur: Est-ce un appareil ?
-Partenaire: Non, mais c'est pointu.
+Partenaire: Je pense à quelque chose que l'on utilise pour préparer ou manger de la nourriture. Tu sais ce que c'est?
+Joueur: Is it a utensile?
+CORRECTION: Est-ce un ustensile ?
+Joueur: Est-ce un ustensile
+Partenaire: Ouias...
 Joueur: Un couteau ?
-Partenaire: Oui !
-END
-
-###
-
-Le partenaire pense au "derailleur" (lié à la réparation de vélo)
-
-Partenaire: Je pense à quelque chose que vous utilisez pour changer de vitesse sur un vélo. Tu sais ce que c'est?
-Joueur: Est-ce un shifter ?
-Partenaire: Non, mais c'est sur le côté du vélo.
-Joueur: Un derailleur ?
 Partenaire: Oui !
 END
 
