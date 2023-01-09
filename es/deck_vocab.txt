@@ -2,49 +2,8 @@ Genere una lista de palabras de vocabulario para las siguientes barajas de tarje
 
 Tema: cocina
 Descripción: Utensilios, vajilla, aparatos de cocina, recetas, ingredientes comunes, métodos de preparación de alimentos
-Vocabulario:
-- cuchillo
-- cuchara
-- tenedor
-- cucharadita
-- cucharada
-- taza medidora
-- mezclador
-- licuadora
-- maceta
-- sartén
-- exprimidor
-- tabla de cortar
-- lavavajillas
-- lavar
-- enjuagar
-- seco
-- toalla
-- toalla de papel
-- refrigerador
-- congelador
-- cubo de hielo
-- rallador
-- recipiente
-- lámina
-- plato
-- cuenco para servir
-- hierbas
-- carne
-- verduras
-- pan de molde
-- masa
-- arroz
-- harina
-- ensalada
-- cazuela
-- receta
-- hervir
-- vapor
-- cocinar
-- hornear
+Vocabulario: cuchillo, cuchara, tenedor, cucharadita, cucharada, taza medidora, mezclador, licuadora, maceta, sartén, exprimidor, tabla de cortar, lavavajillas, lavar, enjuagar, seco, toalla, toalla de papel, refrigerador, congelador, cubo de hielo, rallador, recipiente, lámina, plato, cuenco para servir, hierbas, carne, verduras, pan de molde, masa, arroz, harina, ensalada, cazuela, receta, hervir, vapor, cocinar, hornear
 
 Tema: {topic}
 Descripción: {description}
 Vocabulario:
--

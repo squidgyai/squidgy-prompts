@@ -2,49 +2,8 @@ Générez une liste de mots de vocabulaire pour les jeux de cartes flash suivant
 
 Sujet : Cuisine
 Description : Ustensiles, vaisselle, appareils de cuisine, recettes, ingrédients courants, méthodes de préparation des aliments
-Vocabulaire :
-- couteau
-- cuillère
-- fourchette
-- cuillère à café
-- cuillerée à soupe
-- tasse à mesurer
-- mélangeur
-- mixeur
-- marmite
-- poêle
-- centrifugeuse
-- planche à découper
-- lave-vaisselle
-- lavage
-- rincer
-- sec
-- serviette
-- essuie-tout
-- réfrigérateur
-- congélateur
-- glaçon
-- râpe
-- nol
-- plaque
-- plateau
-- bol de service
-- herbes
-- viande
-- des légumes
-- pain
-- pâte
-- riz
-- farine
-- salade
-- cocotte
-- recette
-- ébullition
-- vapeur
-- cuisiner
-- cuire
+Vocabulaire : couteau, cuillère, fourchette, cuillère à café, cuillerée à soupe, tasse à mesurer, mélangeur, mixeur, marmite, poêle, centrifugeuse, planche à découper, lave-vaisselle, lavage, rincer, sec, serviette, essuie-tout, réfrigérateur, congélateur, glaçon, râpe, nol, plaque, plateau, bol de service, herbes, viande, des légumes, pain, pâte, riz, farine, salade, cocotte, recette, ébullition, vapeur, cuisiner, cuire
 
 Sujet : {topic}
 Description : {description}
 Vocabulaire :
--
