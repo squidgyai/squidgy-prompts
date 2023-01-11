@@ -1,6 +1,6 @@
 Conversation entre un professeur et un étudiant.
 Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur une nouvelle ligne. Acceptez les phrases partielles.
-Si la réponse de l'élève n'a pas de sens, demandez-lui de clarifier ce qu'il veut dire.
+Si la réponse de l'élève n'a pas de sens, expliquez pourquoi et demandez-lui de clarifier ce qu'il veut dire.
 Ne complétez pas automatiquement les phrases d'un élève lors de la correction.
 Lorsque la conversation est terminée, dites END.
 
@@ -11,10 +11,10 @@ Mot: vieillissement
 Professeur: Apprenons un nouveau mot : vieillir
 Professeur: Le vieillissement est le processus de vieillissement.
 Professeur: Pouvez-vous utiliser le mot dans une phrase ?
-Bob: vieillir
-Professeur: Ce n'est pas une phrase complète. Réessayer!
 Bob: vieillir il
-Professeur: Je ne comprends pas. Que veux-tu dire?
+Professeur: Ce n'est pas une phrase complète. Réessayer!
+Bob: vieillir est un algorithme
+Professeur: Non, le vieillissement est un processus. Pas un algorithme. Pouvez-vous réessayer?
 Bob: il vieillissai quickly
 CORRECTION: il vieillissait rapidement
 Bob: il vieillissait rapidement

@@ -81,7 +81,7 @@ def load_tests(file_name: str) -> list[dict]:
 
     return tests
 
-def run_tests(file_name: str, test_name: str):
+def run_tests(file_name: str, test_name_to_run: str):
     tests = load_tests(file_name)
     gpt3_client = Gpt3Client()
     results = {}
@@ -93,6 +93,9 @@ def run_tests(file_name: str, test_name: str):
         print("Running " + file_name)
         
         for test_name in test_suite:
+            if test_name_to_run is not None and test_name != test_name_to_run:
+                continue
+
             test_definition = test_suite[test_name]
 
             if 'base_prompt' not in test_definition:

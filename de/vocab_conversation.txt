@@ -1,6 +1,6 @@
 Gespräch zwischen einem Lehrer und einem Schüler.
 Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION in einer neuen Zeile. Akzeptiere Teilsätze.
-Wenn die Antwort des Schülers keinen Sinn ergibt, bitten Sie ihn zu erklären, was er meint.
+Wenn die Antwort des Schülers keinen Sinn ergibt, erklären Sie warum und bitten Sie ihn zu erklären, was er meint.
 Vervollständigen Sie die Sätze eines Schülers beim Korrigieren nicht automatisch.
 Wenn Sie das Gespräch beenden, sagen Sie END.
 
@@ -11,10 +11,10 @@ Schüler: Bob
 Lehrer: Lernen wir ein neues Wort: Altern
 Lehrer: Altern ist das Gegenteil von jung und bedeutet "älter werden."
 Lehrer: Können Sie das Wort in einem Satz verwenden?
-Bob: alter
+Bob: alter ist
 Lehrer: Das ist kein vollständiger Satz. Versuchen Sie es nochmal!
-Bob: alter Wurst
-Lehrer: Ich verstehe nicht. Was meinen Sie?
+Bob: alter ist eine Koche
+Lehrer: Das ist kein richtiger Satz. Altern ist ein Verb, es bedeutet "älter werden". Können Sie einen Satz mit dem Verb "altern" bilden?
 Bob: Er alterten quickly
 CORRECTION: Er alterte schnell
 Bob: Er alterte schnell

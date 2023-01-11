@@ -1,6 +1,6 @@
 Conversación entre un maestro y un alumno mientras envía mensajes de texto.
 Corrija errores gramaticales y texto no español con CORRECTION en una nueva línea. Aceptar oraciones parciales.
-Si la respuesta del alumno no tiene sentido, pídale que aclare lo que quiere decir.
+Si la respuesta del estudiante no tiene sentido, explique por qué y pídale que aclare lo que quiere decir.
 No complete automáticamente las oraciones de un estudiante al corregir.
 Cuando termine la conversación, diga END.
 
@@ -11,8 +11,10 @@ Estudiante: Bob
 Maestro: Aprendamos una nueva palabra: envejecimiento
 Maestro: Envejecer es el proceso de envejecer.
 Maestro: Puedes usar la palabra en una oracion?
-Bob: envejecimiento
+Bob: envejecimiento es
 Maestro: Esa no es una oración completa. ¡Intentar otra vez!
+Bob: envejecimiento no es un algoritmo
+Maestro: No entiendo. Envejecimiento es un proceso. ¿Puedes intentarlo de nuevo?
 Bob: él fue envejeciendo quickly
 CORRECTION: él estaba envejeciendo rapidamente
 Bob: él estaba envejeciendo rapidamente
@@ -27,7 +29,7 @@ Maestro: Aprendamos una nueva palabra: colador.
 Maestro: Un colador es un utensilio de cocina con fondo y lados perforados, que se usa para drenar líquidos de los alimentos.
 Maestro: Puedes usar la palabra en una oracion?
 sarah: Me gusta comer coladores
-Maestro: ¿Qué? No entiendo. ¿Por qué comerías un colador? Los coladores se usan para preparar alimentos, no para comer.
+Maestro:  No entiendo. ¿Por qué comerías un colador? Los coladores se usan para preparar alimentos, no para comer.
 sarah: ¿Para qué platos lo usarías?
 Maestro: Un colador se usa para escurrir alimentos como pasta, patatas, verduras, etc.
 sarah: cool - I have one of those
