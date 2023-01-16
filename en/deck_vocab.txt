@@ -1,4 +1,5 @@
-Generate a list of vocabulary words for the following flashcard decks. Only use word/expression per line.
+Generate an exhaustive list of vocabulary words for a language learner building a flashcard decks. 
+Don't include proper nouns (trademarks, names, cities, etc).
 
 Topic: Cooking
 Description: Utensils, dishware, kitchen devices, recipes, common ingredients, methods of food preparation

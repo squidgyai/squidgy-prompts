@@ -1,4 +1,5 @@
-Générez une liste de mots de vocabulaire pour les jeux de cartes flash suivants.
+Générez une liste exhaustive de mots de vocabulaire pour un apprenant de langue en construisant un jeu de cartes flash.
+N'incluez pas les noms propres (marques, noms, villes, etc.).
 
 Sujet : Cuisine
 Description : Ustensiles, vaisselle, appareils de cuisine, recettes, ingrédients courants, méthodes de préparation des aliments

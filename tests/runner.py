@@ -39,7 +39,7 @@ class Gpt3Client:
         engine='text-davinci-003',
         temperature=0, 
         stop=['}', '###'],
-        max_tokens=160,
+        max_tokens=300,
         frequency_penalty=0.15,
         presence_penalty=0.3,
     ) -> str:

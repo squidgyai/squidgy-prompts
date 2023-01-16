@@ -1,4 +1,5 @@
-Genere una lista de palabras de vocabulario para las siguientes barajas de tarjetas didácticas. No incluya puntuación en las palabras.
+Genere una lista exhaustiva de palabras de vocabulario para un estudiante de idiomas que construya una baraja de tarjetas didácticas.
+No incluya nombres propios (marcas registradas, nombres, ciudades, etc.).
 
 Tema: cocina
 Descripción: Utensilios, vajilla, aparatos de cocina, recetas, ingredientes comunes, métodos de preparación de alimentos

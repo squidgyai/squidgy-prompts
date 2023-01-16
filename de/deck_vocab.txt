@@ -1,4 +1,5 @@
-Erstellen Sie eine Liste mit Vokabeln für die folgenden Karteikarten-Decks.
+Erstellen Sie eine erschöpfende Liste von Vokabeln für einen Sprachenlerner, der Lernkarten-Decks erstellt.
+Geben Sie keine Eigennamen (Marken, Namen, Städte usw.) an.
 
 Thema: Kochen
 Beschreibung: Utensilien, Geschirr, Küchengeräte, Rezepte, gängige Zutaten, Methoden der Speisenzubereitung
