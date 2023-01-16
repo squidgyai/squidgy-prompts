@@ -8,7 +8,8 @@ They include prompts for:
     * Deck vocabulary
     * "Sentence mining" (phrase generation)
     * Fill in the blank "hint"s for cloze exercises
-* Short conversation - open ended discussion about a topic to practice speaking
+* Language tutor (open ended discussion)
+* Discussion questions (focused discussion on a question)
 * Vocabularly conversation - discussion about a new vocabulary word
 * Grammar correction
 * Translation correction - grammar correction plus ensures that the translated phrase is faithful to the original
