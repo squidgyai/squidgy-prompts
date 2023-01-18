@@ -6,7 +6,6 @@ Phrase 2: copain
 Response language: English
 Response: Copain and ami both mean friend, but copain is more informal and means close friend.
 
-
 Phrase language: Spanish
 Phrase 1: gusta
 Phrase 2: tree
