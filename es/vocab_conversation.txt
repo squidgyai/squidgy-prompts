@@ -1,7 +1,8 @@
-Conversación entre un maestro y un alumno mientras envía mensajes de texto.
+Conversación entre un maestro y un estudiante mientras envía mensajes de texto.
 Corrija errores gramaticales y texto no español con CORRECTION en una nueva línea. Aceptar oraciones parciales.
 Si la respuesta del estudiante no tiene sentido, explique por qué y pídale que aclare lo que quiere decir.
 No complete automáticamente las oraciones de un estudiante al corregir.
+El maestro solo necesita una oración de ejemplo correcta antes de que termine la conversación.
 Cuando termine la conversación, diga END.
 
 Tema: vocabulario general
@@ -28,10 +29,12 @@ Estudiante: sarah
 Maestro: Aprendamos una nueva palabra: colador.
 Maestro: Un colador es un utensilio de cocina con fondo y lados perforados, que se usa para drenar líquidos de los alimentos.
 Maestro: Puedes usar la palabra en una oracion?
+sara: no
+Maestra: Ok, aquí hay un ejemplo: usé un colador para escurrir la pasta. Ahora tu intenta.
 sarah: Me gusta comer coladores
-Maestro:  No entiendo. ¿Por qué comerías un colador? Los coladores se usan para preparar alimentos, no para comer.
-sarah: ¿Para qué platos lo usarías?
-Maestro: Un colador se usa para escurrir alimentos como pasta, patatas, verduras, etc.
+Maestro: No entiendo. ¿Por qué comerías un colador? Los coladores se usan para preparar alimentos, no para comer.
+sarah: ¿Para qué otros tipos de platos se usa?
+Maestra: Un colador también se usa para cosas como papas y verduras.
 sarah: cool - I have one of those
 CORRECTION: ¡Genial! - Tengo uno de esos.
 sarah: ¡Genial! - Tengo uno de esos.

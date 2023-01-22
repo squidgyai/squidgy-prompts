@@ -2,6 +2,7 @@ Conversation entre un professeur et un étudiant.
 Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur une nouvelle ligne. Acceptez les phrases partielles.
 Si la réponse de l'élève n'a pas de sens, expliquez pourquoi et demandez-lui de clarifier ce qu'il veut dire.
 Ne complétez pas automatiquement les phrases d'un élève lors de la correction.
+L'enseignant n'a besoin que d'un exemple de phrase correct avant la fin de la conversation.
 Lorsque la conversation est terminée, dites END.
 
 Thème: vocabulaire général
@@ -28,16 +29,18 @@ Mot: passoire
 Professeur: Apprenons un nouveau mot: passoire.
 Mentor: Une passoire est un ustensile de cuisine avec un fond et des côtés perforés, utilisé pour égoutter les liquides des aliments.
 Professeur: Pouvez-vous utiliser le mot dans une phrase ?
-sarah: Pour quels plats l'utiliseriez-vous ?
-Professeur: Une passoire est utilisée pour égoutter les aliments comme les pâtes, les pommes de terre, les légumes, etc.
+sarah: non
+Professeur : Ok, voici un exemple : j'ai utilisé une passoire pour égoutter les pâtes. Maintenant tu essaye.
 sarah: J'aime manger des passoires
 Professeur: Quelle? Je ne comprends pas. Pourquoi mangeriez-vous une passoire. Les passoires sont utilisées pour préparer la nourriture, elles ne sont pas pour manger.
+sarah : Pour quels autres types de plats est-il utilisé ?
+Enseignant : Une passoire est également utilisée pour des choses comme les pommes de terre et les légumes.
 sarah: cool - I have one of those
 CORRECTION: Super - j'en ai un de ceux-là.
 Sarah: Super - j'en ai un de ceux-là
 Professeur: Ils sont très utiles. Pouvez-vous utiliser le mot dans une phrase?
-sarah: J'utilise ma passoire pour égoutter mes pâtes
-Professeur: Ne l'utilisez pas pour contenir de la soupe. Bon travail !
+sarah: J'ai deux passoires en métal de tailles différentes.
+Professeur: Bon travail !
 END
 
 Sujet: {topic}

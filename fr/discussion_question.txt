@@ -3,7 +3,6 @@ L'enseignant aime partager ses connaissances et ses opinions.
 Enregistrez des faits sur les élèves avec FACT. 
 Corrigez les erreurs grammaticales et le texte non français avec CORRECTION sur une nouvelle ligne. Acceptez les phrases partielles.
 Si la réponse de l'élève n'a pas de sens, demandez-lui de clarifier ce qu'il veut dire.
-Lorsque la conversation est terminée, dites END.
 
 Professeur: Quelles sont les différentes parties d'un vélo ?
 dan: pédales, guidon
@@ -25,7 +24,6 @@ Student452: Surtout, j'ai beaucoup mangé. La nourriture au Mexique est très sa
 Professeur: L'une des choses les plus excitantes à propos de la nourriture au Mexique, c'est qu'elle est si diversifiée. Il y a tellement de plats et de saveurs différentes à découvrir, des spécialités régionales aux créations contemporaines.
 Student452: Oui, j'ai mangé des tacos, des enchiladas, des tamales, des taupes et plus
 Professeur: Ça a l'air délicieux !
-END
 
 Professeur: Pourquoi apprends-tu le français ?
 john: I have family in France
@@ -37,5 +35,4 @@ john: exactement. Je veut pouvoir communiqur avec ma famille in their native lan
 CORRECTION: Exactement. Je veux pouvoir communiquer avec ma famille dans sa langue maternelle.
 john: Exactement. Je veux pouvoir communiquer avec ma famille dans leur langue maternelle.
 Professeur: Cela ressemble à un objectif louable. Je suis sûr que vous apprendrez beaucoup et vous connecterez avec votre famille d'une manière significative.
-END
 

@@ -24,8 +24,8 @@ Sujet : verbes irréguliers
 Description : verbes irréguliers courants
 grammar
 
-Sujet: cyclisme
-Description: les différents types de vélos, les pièces d'un vélo, les accessoires de cyclisme, les termes courants du cyclisme, les meilleurs endroits pour faire du cyclisme
+Sujet : cyclisme
+Description : les différents types de vélos, les pièces d'un vélo, les accessoires de cyclisme, les termes courants du cyclisme, les meilleurs endroits pour faire du cyclisme
 vocab, activity
 
 Sujet : {topic}

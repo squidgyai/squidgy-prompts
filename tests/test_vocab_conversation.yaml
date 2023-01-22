@@ -4,6 +4,7 @@ en_conversation_start:
     topic: Kitchen utensils
     description: The various types of kitchen utensils and their uses
     user: Bob
+    word: whisk
   stop:
     - "Bob:"
   expected: |-
@@ -17,6 +18,7 @@ en_conversation_non_sensical_answer:
     topic: Kitchen utensils
     description: The various types of kitchen utensils and their uses
     user: Bob
+    word: whisk
   stop:
     - "Bob:"
   prompt: |-
@@ -25,7 +27,7 @@ en_conversation_non_sensical_answer:
     Teacher: Can you use the word in a sentence?
     Bob: I eat the whisk
   expected: |-
-    I don't understand. Why would you eat a whisk? Whisks are used to mix ingredients together, they're not for eating. Can you try again?
+    Teacher: I don't understand. Why would you eat a whisk? Whisks are used to mix ingredients together, they're not for eating. Can you try again?
 
 fr_conversation_start:
   base_prompt: ./fr/vocab_conversation.txt
@@ -33,11 +35,12 @@ fr_conversation_start:
     topic: Ustensiles de cuisine
     description: Les différents types d'ustensiles de cuisine et leurs utilisations
     user: Bob
+    word: couteau
   stop:
     - "Bob:"
   expected: |-
     Professeur: Apprenons un nouveau mot : couteau.
-    Professeur: Un couteau est un ustensile de cuisine tranchant utilisé pour couper et hacher des aliments.
+    Professeur: Un couteau est un ustensile de cuisine avec une lame tranchante utilisée pour couper des aliments.
     Professeur: Pouvez-vous utiliser le mot dans une phrase ?
 
 fr_conversation_non_sensical_answer:
@@ -46,6 +49,7 @@ fr_conversation_non_sensical_answer:
     topic: Ustensiles de cuisine
     description: Les différents types d'ustensiles de cuisine et leurs utilisations
     user: Bob
+    word: couteau
   stop:
     - "Bob:"
   prompt: |-
@@ -54,7 +58,7 @@ fr_conversation_non_sensical_answer:
     Professeur: Pouvez-vous utiliser le mot dans une phrase ?
     Bob: Je mange le couteau.
   expected: |-
-    Non, un couteau est utilisé pour couper et hacher des aliments, pas pour manger. Pouvez-vous réessayer?
+    Professeur: Non, les couteaux sont utilisés pour couper et hacher des aliments, pas pour les manger. Pouvez-vous réessayer?
 
 es_conversation_start:
   base_prompt: ./es/vocab_conversation.txt
@@ -62,11 +66,12 @@ es_conversation_start:
     topic: Utensilios de cocina
     description: Los distintos tipos de utensilios de cocina y sus usos
     user: Bob
+    word: cuchara
   stop:
     - "Bob:"
   expected: |-
     Maestro: Aprendamos una nueva palabra: cuchara.
-    Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana y redondeada para servir alimentos.
+    Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana para servir alimentos.
     Maestro: Puedes usar la palabra en una oracion?
 
 es_conversation_non_sensical_answer:
@@ -75,6 +80,7 @@ es_conversation_non_sensical_answer:
     topic: Utensilios de cocina
     description: Los distintos tipos de utensilios de cocina y sus usos
     user: Bob
+    word: cuchara
   stop:
     - "Bob:"
   prompt: |-
@@ -91,11 +97,12 @@ de_conversation_start:
     topic: Küchenutensilien
     description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
     user: Bob
+    word: Pfanne
   stop:
     - "Bob:"
   expected: |-
     Lehrer: Lass uns ein neues Wort lernen: Pfanne.
-    Lehrer: Eine Pfanne ist ein Küchengerät, das zum Braten und Kochen von Speisen verwendet wird.
+    Lehrer: Eine Pfanne ist ein Küchenutensil, das zum Braten von Speisen verwendet wird.
     Lehrer: Können Sie das Wort in einem Satz verwenden?
 
 de_conversation_non_sensical_answer:
@@ -104,6 +111,7 @@ de_conversation_non_sensical_answer:
     topic: Küchenutensilien
     description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
     user: Bob
+    word: Pfanne
   stop:
     - "Bob:"
   prompt: |-
@@ -112,4 +120,4 @@ de_conversation_non_sensical_answer:
     Lehrer: Können Sie das Wort in einem Satz verwenden?
     Bob: Ich stellte die Pfanne auf meinen Kopf
   expected: |-
-    Lehrer: Das ergibt keinen Sinn. Wie würdest du eine Pfanne auf deinen Kopf stellen? Versuchen Sie es nochmal!
+    Lehrer: Das ist kein richtiger Satz. Eine Pfanne wird normalerweise nicht auf den Kopf gestellt. Können Sie einen Satz mit dem Wort "Pfanne" bilden?

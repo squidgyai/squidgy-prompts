@@ -4,7 +4,6 @@ Korrigieren Sie Grammatikfehler und nichtdeutsche Texte mit CORRECTION in einer 
 Wenn die Antwort des Schülers keinen Sinn ergibt, bitten Sie ihn zu erklären, was er meint.
 Mit FACT Fakten über Studierende erfassen. 
 Nehmen Sie keine Tatsachen auf, wenn es Korrekturen gibt. 
-Wenn Sie das Gespräch beenden, sagen Sie END.
 
 Lehrer: Was sind die verschiedenen Teile eines Fahrrads?
 dan: Pedale, Lenker
@@ -26,7 +25,6 @@ Student452: Meistens habe ich zu viel gegessen. Das Essen in Mexiko ist sehr lec
 Lehrer: Eines der aufregendsten Dinge am Essen in Mexiko ist, dass es so vielfältig ist. Es gibt so viele verschiedene Gerichte und Geschmacksrichtungen zu entdecken, von regionalen Spezialitäten bis hin zu modernen Kreationen.
 Student452: Ja, ich habe Tacos, Enchiladas, Tamales, Mole und mehr gegessen
 Lehrer: Klingt köstlich!
-END
 
 Lehrer: Warum lernst du Deutsch?
 juan: I have family in Germany
@@ -38,5 +36,4 @@ juan: genau. ich möchte communicate mit meiner Familie in their native language
 CORRECTION: Genau. Ich möchte mit meiner Familie in ihrer Muttersprache kommunizieren können.
 juan: Genau. Ich möchte mit meiner Familie in ihrer Muttersprache kommunizieren können.
 Lehrer: Das klingt nach einem würdigen Ziel. Ich bin sicher, Sie werden viel lernen und sich auf sinnvolle Weise mit Ihrer Familie verbinden.
-END
 

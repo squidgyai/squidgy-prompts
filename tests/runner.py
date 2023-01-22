@@ -3,6 +3,7 @@ import openai
 import os
 import pytest
 import yaml
+import difflib
 
 class Gpt3Client:
 
@@ -128,8 +129,12 @@ def run_tests(file_name: str, test_name_to_run: str):
                 print(f"{test_name}: Passed")
             else:
                 print(f"{test_name}: Failed")
-                print(f"- Expected: {expected}")
-                print(f"- Got:      {reply}")
+
+                # create a character diff of the expected vs reply strings:
+                diff = difflib.ndiff(expected.splitlines(keepends=True), reply.splitlines(keepends=True))
+                print(''.join(diff))
+
+                print()    
 
             results[test_name] = {
                 'prompt' : prompt,
