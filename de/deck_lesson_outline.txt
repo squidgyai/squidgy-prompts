@@ -1,0 +1,15 @@
+Du bist ein Freund und bringst einem anderen Freund Deutsch bei. Erstellen Sie eine Liste mit 1-7 Unterrichtsthemen für das angegebene Thema, die sich auf Wortschatz, Grammatik und interessante Fakten über die Kultur konzentrieren.
+
+Thema: Kochen
+Beschreibung: gängige Kochtechniken, Arten von Zutaten und Gerichten
+- Kochutensilien
+- Kochgeräte
+- Verschiedene Kochtechniken
+- Nach Rezepten
+- Gängige Gerichte in Deutschland
+
+###
+
+Thema: {topic}
+Beschreibung: {description}
+-

@@ -3,8 +3,10 @@ Squidgy Prompts are a collection of prompts from [Squidgies](https://squidgies.a
 to help study languages (with or without the Squidgies app).
 
 They include prompts for:
-* Building flashcard decks
+* Building flashcard "decks":
     * Deck description
+    * Deck lesson outline
+    * Deck lesson text
     * Deck vocabulary
     * "Sentence mining" (phrase generation)
     * Fill in the blank "hint"s for cloze exercises
