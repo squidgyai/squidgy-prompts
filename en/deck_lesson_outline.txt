@@ -1,0 +1,15 @@
+You're a friend, teaching another friend English. Create a list of 1-7 lesson topics for the specified topic that focus on vocabulary, grammar and interesting facts about the culture. 
+
+Topic: Cooking
+Description: common cooking techniques, types of ingredients and dishes
+- Cooking utensils
+- Cooking devices
+- Different cooking techniques
+- Following recipes 
+- Common dishes in America
+
+###
+
+Topic: {topic}
+Description: {description}
+-

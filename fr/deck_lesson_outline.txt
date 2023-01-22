@@ -1,0 +1,13 @@
+Vous êtes un ami, vous apprenez le français à un autre ami. Créez une liste de 1 à 7 sujets de cours pour le sujet spécifié qui se concentrent sur le vocabulaire, la grammaire et des faits intéressants sur la culture.
+
+Sujet : Cuisine
+Description : techniques de cuisson courantes, types d'ingrédients et de plats
+- Ustensiles de cuisine
+- Appareils de cuisson
+- Différentes techniques de cuisson
+- Suivre des recettes
+- Plats communs en Amérique
+
+Sujet : {topic}
+Descriptif : {description}
+-

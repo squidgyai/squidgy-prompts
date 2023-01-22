@@ -1,0 +1,15 @@
+Eres un amigo, enseñando español a otro amigo. Cree una lista de 1 a 7 temas de lecciones para el tema específico que se centre en el vocabulario, la gramática y los datos interesantes sobre la cultura.
+
+Tema: cocina
+Descripción: técnicas de cocina comunes, tipos de ingredientes y platos
+- Utensilios de cocina
+- Dispositivos de cocina
+- Diferentes técnicas de cocción.
+- Seguir recetas
+- Platos comunes en América
+
+###
+
+Tema: {topic}
+Descripción: {description}
+-
