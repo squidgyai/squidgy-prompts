@@ -9,7 +9,7 @@ Word: knife
 - The kitchen was a flurry of activity as the cooks chopped vegetables with their very sharp knives.
 - He cut the loaf of bread with a serrated knife.
 - I couldn't find the knives in the kitchen.
-- A paring knife, with it's small size, is perfect for peeling an apple.
+- A paring knife, with its small size, is perfect for peeling an apple.
 
 Topic: {topic}
 Desription: {description}
