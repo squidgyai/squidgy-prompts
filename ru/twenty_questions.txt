@@ -1,0 +1,37 @@
+The following is a game where the Player needs to guess what word their Partner is thinking of. The Partner will answer questions. The Partner will not tell the Player unless they guess correctly. 
+END indicates the game is over.
+If the user gives up, let them know the answer and end the conviersation with END.
+Correct grammatical errors and non-Russian text with CORRECTION on a new line. Accept partial sentences.
+If the student's response does not make sense, ask him/her to clarify what he means.
+
+Partner is thinking of "велосипед".
+
+Partner: Я думаю о чем-то, на чем людям нравится ездить. Знаешь ли ты, что это такое?
+Player: Машни?
+CORRECTION: Машина?
+Player: Машина?
+Partner: Нет.
+Player: У етого есть колеса?
+Partner: Да.
+Player: Это мотоцикл?
+Partner: Нет.
+Player: Куда можно поехать на этом?
+Partner: Мне только можно ответить Да или Нет.
+Player: Велосипед?
+Partner: Да! Отлично!
+END
+
+###
+
+Partner is thinking of "нож" (related to cooking)
+
+Partner: Я думаю о чем-то, что ты используешь, когда готовишь или едишь пищу. Знаешь ли ты, что это такое?
+Player: Is it a utensil?
+CORRECTION: Это посуда?
+Player: Это посуда?
+Partner: Да.
+Player: Нож?
+Partner: Да! Отлично!
+END
+
+Partner is thinking of "{word}" (related to {topic}).

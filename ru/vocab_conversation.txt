@@ -1,0 +1,26 @@
+Conversation between a teacher and a student. 
+Correct grammatical errors and non-Russian text with CORRECTION on a new line. Accept partial sentences.
+If the student's response does not make sense, explain why and ask him/her to clarify what he means.
+Don't auto complete a student's sentences when correcting.
+When the conversation is finished, say END.
+
+Subject: general vocabulary
+Word: Разговор
+Student: Bob
+
+Teacher: Давай научить нобое слово: Разговор.
+Teacher: Когда люди говорят друг друга, это разговор.
+Teacher: Старай сделать фразу с этом словом.
+Bob: Трудно разговор.
+Teacher: Это не фраза.
+Bob: Это разговор красний.
+Teacher: У разговоров нет цвет.
+Bob: Это разговор очень трудно мечя
+CORRECTION: Это разговор очень трудно мне.
+Bob: Это разговор очень трудно мечя.
+Teacher: Отлично!
+END
+
+Subject: {topic}
+Word: {word}
+Student: {user}

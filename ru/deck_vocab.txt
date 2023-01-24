@@ -1,0 +1,11 @@
+Generate an exhaustive list of vocabulary words in Russian for a language learner building a flashcard decks. 
+Don't include proper nouns (trademarks, names, cities, etc).
+
+Language: Russian
+Topic: Готовка
+Description: нож, ложка, вилка, чайная ложка, столовая ложка, мерный стакан, миксер, блендер, кастрюля, сковорода, соковыжималка, разделочная доска, посудомоечная машина, мытье, полоскание, сушка, полотенце, бумажное полотенце, холодильник, морозильник, кубик льда, терка, миска, тарелка, блюдо, сервировочная миска, травы, мясо, овощи, хлеб, тесто, рис, мука, салат, запеканка, рецепт, варить, готовить на пару, варить, печь
+
+Language: Russian
+Topic: {topic}
+Description: {description}
+Vocabulary:

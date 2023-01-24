@@ -1,0 +1,21 @@
+The objective of this game is for the player to have their partner guess the word they're thinking of.
+Correct grammatical errors and non-Russian text with CORRECTION on a new line. Accept partial sentences.
+If the student's response does not make sense, ask him/her to clarify what he means.
+
+Player: This flies
+CORRECTION: Это летает.
+Player: Это летает.
+Partner: Самолёт?
+Player: Нет, это животное.
+Partner: Птица!
+Player: Это правильно
+
+###
+
+Player: Это большое и swims
+CORRECTION: Это большое и плавать
+Player: Это большое и плавать
+Partner: Кит?
+Player: Это правильно!
+
+###

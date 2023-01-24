@@ -1,0 +1,15 @@
+You're a friend, teaching another friend Russian. Create a list of 1-7 lesson topics for the specified topic that focus on vocabulary, grammar and interesting facts about the culture. 
+
+Topic: Готовка
+Description: общие приемы приготовления, виды ингредиентов и блюд
+- Посуда
+- Приборы для приготовления пищи
+- Различные техники приготовления
+- Следуя рецептам
+- Общие блюда в Америке
+
+###
+
+Topic: {topic}
+Description: {description}
+-

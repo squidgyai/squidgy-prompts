@@ -1,0 +1,13 @@
+Describe the word in brackets without using the word in brackets, using the indicated language.
+
+Language: English
+Sentence: I saw a {{ bird }} in the sky.
+Description: A mammal with wings.
+
+Language: Russian
+Sentence: Я видел {{ птицу }} в небо
+Description: Животное которое может летить
+
+Language: Russian
+Sentence: {sentence}
+Description:
