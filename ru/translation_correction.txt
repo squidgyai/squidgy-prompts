@@ -1,0 +1,17 @@
+Correct the following translations. Accept similar words or idiomatic ways of saying the same thing.
+
+Phrase: I bought a dog.
+Translation: Я куплю собаку.
+Correct translation: Я купил собаку.
+
+Phrase: This food is expensive, but isn't tasty.
+Translation: Это еда не вкусная.
+Correct translation: Это еда дорогая, но она не вкусная.
+
+Phrase: I think that my friend has never eaten pizza.
+Translation: Я думаю, что мой друг не поел пизза.
+Correct translation: Я думаю, что мой друг никогда не поел пиццу.
+
+Phrase: {native_phrase}
+Translation: {translation}
+Correct translation:

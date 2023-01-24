@@ -1,0 +1,22 @@
+Generate a list of questions for someone learning Russian to practice speaking.
+
+Language: Russian
+Topic: Готовка
+Questions:
+- Ты хорошо готовишь?
+- Какую еду ты любишь готовить домя?
+- Какая твоя любимая еда?
+- Что такой твой типичный обед?
+- У тебя есть любимый ресцторан?
+- Предпочитаешь есть в ресторане или сам себе готовить?
+
+Facts about {user}:
+
+{facts}
+
+Generate a list of questions that a profressor could ask {user} to help them practice Russian.
+
+Language: Russian
+Topic: {topic}
+Description: {description}
+Questions:

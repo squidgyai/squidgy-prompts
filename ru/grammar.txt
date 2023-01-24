@@ -1,0 +1,11 @@
+Phrase: Она меня сказала.
+Grammatically correct phrase: Она мне сказала.
+
+Phrase: Это красний машина.
+Grammatically correct phrase: Это красная машина.
+
+Phrase: Он любит его собака.
+Grammatically correct phrase: Он любит свою собаку.
+
+Phrase: {phrase}
+Grammatically correct phrase:
