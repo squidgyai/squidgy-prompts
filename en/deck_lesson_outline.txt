@@ -6,9 +6,16 @@ Description: common cooking techniques, types of ingredients and dishes
 - Cooking devices
 - Different cooking techniques
 - Following recipes 
-- Common dishes in America
+- American cuisine
 
-###
+Topic: biking
+Description: types of bikes, safety tips, bike maintenance
+- Types of bikes
+- Parts of a bike 
+- Bike safety
+- Bike maintenance
+- Bike laws and regulations
+- Famous bike routes in the US
 
 Topic: {topic}
 Description: {description}

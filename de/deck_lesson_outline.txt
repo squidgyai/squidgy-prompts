@@ -8,7 +8,14 @@ Beschreibung: gängige Kochtechniken, Arten von Zutaten und Gerichten
 - Nach Rezepten
 - Gängige Gerichte in Deutschland
 
-###
+Thema: Radfahren
+Beschreibung: Fahrradtypen, Sicherheitstipps, Fahrradwartung
+- Arten von Fahrrädern
+- Teile eines Fahrrads
+- Fahrradsicherheit
+- Fahrradwartung
+- Fahrradgesetze und -vorschriften
+- Berühmte Fahrradrouten in Deutschland
 
 Thema: {topic}
 Beschreibung: {description}

@@ -6,9 +6,16 @@ Descripción: técnicas de cocina comunes, tipos de ingredientes y platos
 - Dispositivos de cocina
 - Diferentes técnicas de cocción.
 - Seguir recetas
-- Platos comunes en América
+- Cocina centroamericana
 
-###
+Tema: andar en bicicleta
+Descripción: tipos de bicicletas, consejos de seguridad, mantenimiento de bicicletas
+- Tipos de bicicletas
+- Partes de una bicicleta
+- Seguridad en bicicleta
+- Mantenimiento de bicicletas
+- Leyes y reglamentos de bicicletas.
+- Famosas rutas en bicicleta en sudamérica.
 
 Tema: {topic}
 Descripción: {description}

@@ -1,12 +1,20 @@
 Vous êtes un ami, vous apprenez le français à un autre ami. Créez une liste de 1 à 7 sujets de cours pour le sujet spécifié qui se concentrent sur le vocabulaire, la grammaire et des faits intéressants sur la culture.
 
-Sujet : Cuisine
+Sujet : Cuisiner
 Description : techniques de cuisson courantes, types d'ingrédients et de plats
 - Ustensiles de cuisine
 - Appareils de cuisson
 - Différentes techniques de cuisson
 - Suivre des recettes
-- Plats communs en Amérique
+- Cuisine française
+
+Sujet : faire du vélo
+Descriptif : Les différents types de vélos, les pièces d'un vélo, les accessoires de vélo, les termes courants du vélo, les meilleurs endroits pour faire du vélo
+- Différents types de vélos
+- Différentes pièces d'un vélo
+- Les règles de sécurité pour le vélo
+- Entretien vélo
+- Les meilleurs endroits pour faire du vélo en France
 
 Sujet : {topic}
 Descriptif : {description}
