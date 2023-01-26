@@ -9,7 +9,7 @@ Description : techniques de cuisson courantes, types d'ingrédients et de plats
 - Cuisine française
 
 Sujet : faire du vélo
-Descriptif : Les différents types de vélos, les pièces d'un vélo, les accessoires de vélo, les termes courants du vélo, les meilleurs endroits pour faire du vélo
+Description : Les différents types de vélos, les pièces d'un vélo, les accessoires de vélo, les termes courants du vélo, les meilleurs endroits pour faire du vélo
 - Différents types de vélos
 - Différentes pièces d'un vélo
 - Les règles de sécurité pour le vélo
