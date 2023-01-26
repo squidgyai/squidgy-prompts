@@ -7,8 +7,7 @@ CORRECTION: It flies.
 Player: It flies.
 Partner: A plane?
 Player: No, it is an animal.
-Partner: A bird!
-Player: Correct
+Partner: A bird?
 
 ###
 
@@ -16,7 +15,6 @@ Player: It is round and tiene radios
 CORRECTION: It is round and has spokes
 Player: It is round and has spokes
 Partner: A wheel?
-Player: Correct!
 
 ###
 

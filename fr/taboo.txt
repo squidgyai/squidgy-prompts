@@ -8,7 +8,6 @@ CORRECTION: Un avion ?
 Partenaire: Un avion ?
 Joueur: Non, c'est un animal.
 Partenaire: Un oiseau ?
-Joueur: correct
 
 ###
 
@@ -16,7 +15,6 @@ Joueur: Il est round and has spokes
 CORRECTION: Il est rond et a des rayons.
 Joueur: Il est rond et a des rayons.
 Partenaire: Une roue ?
-Joueur: correct
 
 ###
 

@@ -7,8 +7,7 @@ CORRECTION: Это летает.
 Player: Это летает.
 Partner: Самолёт?
 Player: Нет, это животное.
-Partner: Птица!
-Player: Это правильно
+Partner: Птица?
 
 ###
 
@@ -16,6 +15,5 @@ Player: Это большое и swims
 CORRECTION: Это большое и плавать
 Player: Это большое и плавать
 Partner: Кит?
-Player: Это правильно!
 
 ###

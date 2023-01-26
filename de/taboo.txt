@@ -7,8 +7,7 @@ CORRECTION: Es fliegt.
 Spieler: Es fliegt.
 Partner: Ein Flugzeug?
 Spieler: Nein, es ist ein Tier.
-Partner: Ein Vogel!
-Spieler: Richtig
+Partner: Ein Vogel?
 
 ###
 
@@ -16,6 +15,5 @@ Spieler: It is round and has spokes.
 CORRECTION: Es ist rund und hat Speichen.
 Spieler: Es ist rund und hat Speichen.
 Partner: Ein Rad?
-Spieler: Richtig!
 
 ###

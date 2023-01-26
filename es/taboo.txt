@@ -7,8 +7,7 @@ CORRECTION: Vuela.
 Jugador: Vuela.
 Compañero: ¿Un avión?
 Jugador: No, es un animal.
-Compañero: ¡Un pájaro!
-Jugador: Correcto
+Compañero: ¿Un pájaro?
 
 ###
 
@@ -16,7 +15,6 @@ Jugador: Es rodondo and has spokes
 CORRECTION: Es redondo y tiene radios
 Jugador: Es redondo y tiene radios
 Compañero: ¿Una rueda?
-Jugador: ¡Correcto!
 
 ###
 
