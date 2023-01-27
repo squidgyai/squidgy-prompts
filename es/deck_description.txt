@@ -1,11 +1,11 @@
 Genere una descripción de una baraja de tarjetas didácticas para estudiar el vocabulario del tema específico. Clasifica cada tema como vocab, activity, things y/o grammar.
 
 Tema: utensilios de cocina
-Descripción: diferentes tipos de utensilios de cocina, usos comunes de los utensilios
+Descripción: Diferentes tipos de utensilios de cocina, usos de los utensilios en la cocina
 vocab, things
 
 tema: jardineria
-Descripción: tipos comunes de plantas, árboles y flores, cuidado de plantas, compra de plantas y semillas, control de plagas y enfermedades, herramientas de jardinería
+Descripción: Tipos comunes de plantas, árboles y flores, cuidado de plantas, herramientas de jardinería
 vocab, activity
 
 Tema: ingeniería
@@ -17,12 +17,16 @@ Descripción: invalid
 invalid
 
 Tema: conocer gente
-Descripción: saludos, presentaciones, expresando familiaridad, despedidas
+Descripción: Saludos, presentaciones, expresando familiaridad, y despedidas
 vocab, activity
 
 Tema: verbos irregulares
 Descripción: verbos irregulares comunes
 grammar
+
+Tema: Descripción de las relaciones familiares
+Descripción: Diferentes tipos de familiares y relaciones familiares, matrimonio, suegros y divorcio
+vocab
 
 Tema: {topic}
 Descripción:

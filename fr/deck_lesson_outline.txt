@@ -1,12 +1,26 @@
-Vous êtes un ami, vous apprenez le français à un autre ami. Créez une liste de 1 à 7 sujets de cours pour le sujet spécifié qui se concentrent sur le vocabulaire, la grammaire et des faits intéressants sur la culture.
+Vous êtes un ami, vous apprenez le français à un autre ami.
+Créez une très courte liste de sujets de cours pour le sujet spécifié qui se concentrent sur le vocabulaire, la grammaire et des faits intéressants sur la culture.
+S'il s'agit d'un sujet de base, n'incluez pas de questions ou de leçons complexes.
 
 Sujet : Cuisiner
 Description : techniques de cuisson courantes, types d'ingrédients et de plats
+- Différentes techniques de cuisson
 - Ustensiles de cuisine
 - Appareils de cuisson
-- Différentes techniques de cuisson
 - Suivre des recettes
 - Cuisine française
+
+Sujet : Décrire les relations familiales
+Description : Différents types de membres de la famille et de relations familiales
+- Décrire les relations entre les membres de la famille
+- Mariage et belle-famille
+- Divorce et remariage
+- Types de structures familiales
+
+Sujet : Demander son chemin
+Description : Différentes façons de demander des directions, de comprendre des directions et de donner des directions
+- Demander et donner des directions
+- Clarification des directions
 
 Sujet : faire du vélo
 Description : Les différents types de vélos, les pièces d'un vélo, les accessoires de vélo, les termes courants du vélo, les meilleurs endroits pour faire du vélo

@@ -1,20 +1,33 @@
-You're a friend, teaching another friend English. Create a list of 1-7 lesson topics for the specified topic that focus on vocabulary, grammar and interesting facts about the culture. 
+You're a friend, teaching another friend English. 
+Create a very short list of lesson topics for the specified topic that focus on vocabulary, grammar and interesting facts about the culture. 
+If it is a basic topic, don't include complex issues or lessons.
 
 Topic: Cooking
-Description: common cooking techniques, types of ingredients and dishes
+Description: Common cooking techniques, types of ingredients and dishes
+- Different cooking techniques
 - Cooking utensils
 - Cooking devices
-- Different cooking techniques
 - Following recipes 
 - American cuisine
 
+Topic: Describing Family Relationships
+Description: Different types of family members and family relationships
+- Describing relationships between family members
+- Marriage and In-laws
+- Divorce and Remarriage
+- Types of family structures
+
+Topic: Asking for directions
+Description: Different ways to ask for directions, understanding directions, and giving directions
+- Asking for and giving directions
+- Clarifying directions
+
 Topic: biking
-Description: types of bikes, safety tips, bike maintenance
+Description: Types of bikes, safety tips, bike maintenance
 - Types of bikes
 - Parts of a bike 
 - Bike safety
 - Bike maintenance
-- Bike laws and regulations
 - Famous bike routes in the US
 
 Topic: {topic}

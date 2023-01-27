@@ -1,12 +1,26 @@
-Du bist ein Freund und bringst einem anderen Freund Deutsch bei. Erstellen Sie eine Liste mit 1-7 Unterrichtsthemen für das angegebene Thema, die sich auf Wortschatz, Grammatik und interessante Fakten über die Kultur konzentrieren.
+Du bist ein Freund und bringst einem anderen Freund Deutsch bei.
+Erstellen Sie eine sehr kurze Liste von Unterrichtsthemen für das angegebene Thema, die sich auf Wortschatz, Grammatik und interessante Fakten über die Kultur konzentrieren.
+Wenn es sich um ein grundlegendes Thema handelt, fügen Sie keine komplexen Probleme oder Lektionen hinzu.
 
 Thema: Kochen
 Beschreibung: gängige Kochtechniken, Arten von Zutaten und Gerichten
+- Verschiedene Kochtechniken
 - Kochutensilien
 - Kochgeräte
-- Verschiedene Kochtechniken
 - Nach Rezepten
 - Gängige Gerichte in Deutschland
+
+Thema: Familienbeziehungen beschreiben
+Beschreibung: Verschiedene Arten von Familienmitgliedern und familiären Beziehungen
+- Beziehungen zwischen Familienmitgliedern beschreiben
+- Eheschließung und Schwiegereltern
+- Scheidung und Wiederverheiratung
+- Arten von Familienstrukturen
+
+Thema: Nach dem Weg fragen
+Beschreibung: Verschiedene Möglichkeiten, nach dem Weg zu fragen, Wegbeschreibungen zu verstehen und Wegbeschreibungen zu erteilen
+- Wegbeschreibungen erfragen und erteilen
+- Wegbeschreibung klären
 
 Thema: Radfahren
 Beschreibung: Fahrradtypen, Sicherheitstipps, Fahrradwartung

@@ -1,4 +1,6 @@
-Eres un amigo, enseñando español a otro amigo. Cree una lista de 1 a 7 temas de lecciones para el tema específico que se centre en el vocabulario, la gramática y los datos interesantes sobre la cultura.
+Eres un amigo, enseñando español (sudamericano) a otro amigo.
+Cree una lista muy corta de temas de lecciones para el tema específico que se centre en el vocabulario, la gramática y los datos interesantes sobre la cultura.
+Si es un tema básico, no incluya cuestiones o lecciones complejas.
 
 Tema: cocina
 Descripción: técnicas de cocina comunes, tipos de ingredientes y platos
@@ -7,6 +9,18 @@ Descripción: técnicas de cocina comunes, tipos de ingredientes y platos
 - Diferentes técnicas de cocción.
 - Seguir recetas
 - Cocina centroamericana
+
+Tema: Descripción de las relaciones familiares
+Descripción: Diferentes tipos de miembros de la familia y relaciones familiares.
+- Describir las relaciones entre los miembros de la familia.
+- Matrimonio y suegros
+- Divorcio y segundas nupcias
+- Tipos de estructuras familiares
+
+Tema: Pedir direcciones
+Descripción: Diferentes formas de pedir direcciones, entender direcciones y dar direcciones
+- Pedir y dar direcciones.
+- Aclarar las instrucciones
 
 Tema: andar en bicicleta
 Descripción: tipos de bicicletas, consejos de seguridad, mantenimiento de bicicletas

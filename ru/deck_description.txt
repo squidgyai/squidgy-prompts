@@ -1,8 +1,9 @@
 Generate a description of a flashcard deck for studying vocabulary for the specified topic. Classify each topic as vocab, activity, things, grammar and/or invalid.
 
-Topic: кухонная посуда
-Description: различные виды кухонной утвари, общее использование посуды
+Topic: кухонная утварь
+Description: Разные виды кухонной утвари, использование посуды на кухне.
 vocab, things
+
 
 Topic: садоводство
 Description: Распространенные виды растений, деревьев и цветов, уход за растениями, покупка растений и семян, борьба с вредителями и болезнями, садовые инструменты
@@ -23,6 +24,9 @@ vocab, activity
 Topic: неправильные глаголы
 Description: распространенные неправильные глаголы
 grammar
+
+Topic: Описание семейных отношений
+Description: Различные типы членов семьи и семейных отношений, брак, родственники и развод.
 
 Topic: {topic}
 Description:
