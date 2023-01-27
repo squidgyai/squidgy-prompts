@@ -7,4 +7,4 @@ Vocabulary: knife, spoon, fork, teaspoon, tablespoon, measuring cup, mixer, blen
 
 Topic: {topic}
 Description: {description}
-Vocabulary: 
+Vocabulary:
