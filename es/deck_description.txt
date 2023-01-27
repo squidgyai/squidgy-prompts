@@ -24,7 +24,7 @@ Tema: verbos irregulares
 Descripción: verbos irregulares comunes
 grammar
 
-Tema: Descripción de las relaciones familiares
+Tema: Describiendo las relaciones familiares
 Descripción: Diferentes tipos de familiares y relaciones familiares, matrimonio, suegros y divorcio
 vocab
 
