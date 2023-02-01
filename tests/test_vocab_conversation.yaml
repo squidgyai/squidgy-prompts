@@ -1,123 +1,136 @@
-en_conversation_start:
-  base_prompt: ./en/vocab_conversation.txt
-  params:
-    topic: Kitchen utensils
-    description: The various types of kitchen utensils and their uses
-    user: Bob
-    word: whisk
-  stop:
-    - "Bob:"
-  expected: |-
-    Teacher: Let's learn a new word: whisk.
-    Teacher: A whisk is a kitchen utensil used for mixing ingredients together.
-    Teacher: Can you use the word in a sentence?
+tests:
+  en_conversation_start:
+    prompt_file: ./en/vocab_conversation.txt
+    params:
+      topic: Kitchen utensils
+      description: The various types of kitchen utensils and their uses
+      user: Bob
+      word: whisk
+    stop:
+      - "Bob:"
+    assertions:
+      equalTo: |-
+        Teacher: Let's learn a new word: whisk.
+        Teacher: A whisk is a kitchen utensil used for mixing ingredients together.
+        Teacher: Can you use the word in a sentence?
 
-en_conversation_non_sensical_answer:
-  base_prompt: ./en/vocab_conversation.txt
-  params:
-    topic: Kitchen utensils
-    description: The various types of kitchen utensils and their uses
-    user: Bob
-    word: whisk
-  stop:
-    - "Bob:"
-  prompt: |-
-    Teacher: Let's learn a new word: whisk.
-    Teacher: A whisk is a kitchen utensil used for mixing ingredients together.
-    Teacher: Can you use the word in a sentence?
-    Bob: I eat the whisk
-  expected: |-
-    Teacher: I don't understand. Why would you eat a whisk? Whisks are used to mix ingredients together, they're not for eating. Can you try again?
+  en_conversation_non_sensical_answer:
+    prompt_file: ./en/vocab_conversation.txt
+    params:
+      topic: Kitchen utensils
+      description: The various types of kitchen utensils and their uses
+      user: Bob
+      word: whisk
+    stop:
+      - "Bob:"
+    prompt_append: |-
+      Teacher: Let's learn a new word: whisk.
+      Teacher: A whisk is a kitchen utensil used for mixing ingredients together.
+      Teacher: Can you use the word in a sentence?
+      Bob: I eat the whisk
+    assertions:
+      similarTo: 
+        threshold: 0.99
+        value: |-
+          Teacher: I don't understand. Why would you eat a whisk? Whisks are used to mix ingredients together, they're not for eating. Can you try again?
 
-fr_conversation_start:
-  base_prompt: ./fr/vocab_conversation.txt
-  params:
-    topic: Ustensiles de cuisine
-    description: Les différents types d'ustensiles de cuisine et leurs utilisations
-    user: Bob
-    word: couteau
-  stop:
-    - "Bob:"
-  expected: |-
-    Professeur: Apprenons un nouveau mot : couteau.
-    Professeur: Un couteau est un ustensile de cuisine avec une lame tranchante utilisée pour couper des aliments.
-    Professeur: Pouvez-vous utiliser le mot dans une phrase ?
+  fr_conversation_start:
+    prompt_file: ./fr/vocab_conversation.txt
+    params:
+      topic: Ustensiles de cuisine
+      description: Les différents types d'ustensiles de cuisine et leurs utilisations
+      user: Bob
+      word: couteau
+    stop:
+      - "Bob:"
+    assertions:
+      equalTo: |-
+        Professeur: Apprenons un nouveau mot : couteau.
+        Professeur: Un couteau est un ustensile de cuisine avec une lame tranchante utilisée pour couper des aliments.
+        Professeur: Pouvez-vous utiliser le mot dans une phrase ?
 
-fr_conversation_non_sensical_answer:
-  base_prompt: ./fr/vocab_conversation.txt
-  params:
-    topic: Ustensiles de cuisine
-    description: Les différents types d'ustensiles de cuisine et leurs utilisations
-    user: Bob
-    word: couteau
-  stop:
-    - "Bob:"
-  prompt: |-
-    Professeur: Apprenons un nouveau mot : couteau.
-    Professeur: Un couteau est un ustensile de cuisine tranchant utilisé pour couper et hacher des aliments.
-    Professeur: Pouvez-vous utiliser le mot dans une phrase ?
-    Bob: Je mange le couteau.
-  expected: |-
-    Professeur: Non, les couteaux sont utilisés pour couper et hacher des aliments, pas pour les manger. Pouvez-vous réessayer?
+  fr_conversation_non_sensical_answer:
+    prompt_file: ./fr/vocab_conversation.txt
+    params:
+      topic: Ustensiles de cuisine
+      description: Les différents types d'ustensiles de cuisine et leurs utilisations
+      user: Bob
+      word: couteau
+    stop:
+      - "Bob:"
+    prompt_append: |-
+      Professeur: Apprenons un nouveau mot : couteau.
+      Professeur: Un couteau est un ustensile de cuisine tranchant utilisé pour couper et hacher des aliments.
+      Professeur: Pouvez-vous utiliser le mot dans une phrase ?
+      Bob: Je mange le couteau.
+    assertions:
+      equalTo: |-
+        Professeur: Non, les couteaux sont utilisés pour couper et hacher des aliments, pas pour les manger. Pouvez-vous réessayer?
 
-es_conversation_start:
-  base_prompt: ./es/vocab_conversation.txt
-  params:
-    topic: Utensilios de cocina
-    description: Los distintos tipos de utensilios de cocina y sus usos
-    user: Bob
-    word: cuchara
-  stop:
-    - "Bob:"
-  expected: |-
-    Maestro: Aprendamos una nueva palabra: cuchara.
-    Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana para servir alimentos.
-    Maestro: Puedes usar la palabra en una oracion?
+  es_conversation_start:
+    prompt_file: ./es/vocab_conversation.txt
+    params:
+      topic: Utensilios de cocina
+      description: Los distintos tipos de utensilios de cocina y sus usos
+      user: Bob
+      word: cuchara
+    stop:
+      - "Bob:"
+    assertions:
+      equalTo: |-
+        Maestro: Aprendamos una nueva palabra: cuchara.
+        Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana para servir alimentos.
+        Maestro: Puedes usar la palabra en una oracion?
 
-es_conversation_non_sensical_answer:
-  base_prompt: ./es/vocab_conversation.txt
-  params:
-    topic: Utensilios de cocina
-    description: Los distintos tipos de utensilios de cocina y sus usos
-    user: Bob
-    word: cuchara
-  stop:
-    - "Bob:"
-  prompt: |-
-    Maestro: Aprendamos una nueva palabra: cuchara.
-    Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana y redondeada para servir alimentos.
-    Maestro: Puedes usar la palabra en una oracion?
-    Bob: Como la cuchara
-  expected: |-
-    Maestro: No entiendo. ¿Qué quieres decir?
+  es_conversation_non_sensical_answer:
+    prompt_file: ./es/vocab_conversation.txt
+    params:
+      topic: Utensilios de cocina
+      description: Los distintos tipos de utensilios de cocina y sus usos
+      user: Bob
+      word: cuchara
+    stop:
+      - "Bob:"
+    prompt_append: |-
+      Maestro: Aprendamos una nueva palabra: cuchara.
+      Maestro: Una cuchara es un utensilio de cocina con un mango y una parte plana y redondeada para servir alimentos.
+      Maestro: Puedes usar la palabra en una oracion?
+      Bob: Como la cuchara
+    assertions:
+      equalTo: |-
+        Maestro: No entiendo. ¿Qué quieres decir?
 
-de_conversation_start:
-  base_prompt: ./de/vocab_conversation.txt
-  params:
-    topic: Küchenutensilien
-    description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
-    user: Bob
-    word: Pfanne
-  stop:
-    - "Bob:"
-  expected: |-
-    Lehrer: Lass uns ein neues Wort lernen: Pfanne.
-    Lehrer: Eine Pfanne ist ein Küchenutensil, das zum Braten von Speisen verwendet wird.
-    Lehrer: Können Sie das Wort in einem Satz verwenden?
+  de_conversation_start:
+    prompt_file: ./de/vocab_conversation.txt
+    params:
+      topic: Küchenutensilien
+      description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
+      user: Bob
+      word: Pfanne
+    stop:
+      - "Bob:"
+    assertions:
+      equalTo: |-
+        Lehrer: Lass uns ein neues Wort lernen: Pfanne.
+        Lehrer: Eine Pfanne ist ein Küchenutensil, das zum Braten von Speisen verwendet wird.
+        Lehrer: Können Sie das Wort in einem Satz verwenden?
 
-de_conversation_non_sensical_answer:
-  base_prompt: ./de/vocab_conversation.txt
-  params:
-    topic: Küchenutensilien
-    description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
-    user: Bob
-    word: Pfanne
-  stop:
-    - "Bob:"
-  prompt: |-
-    Lehrer: Lass uns ein neues Wort lernen: Pfanne.
-    Lehrer: Eine Pfanne ist ein Küchengerät, das zum Braten und Kochen von Speisen verwendet wird.
-    Lehrer: Können Sie das Wort in einem Satz verwenden?
-    Bob: Ich stellte die Pfanne auf meinen Kopf
-  expected: |-
-    Lehrer: Das ist kein richtiger Satz. Eine Pfanne wird normalerweise nicht auf den Kopf gestellt. Können Sie einen Satz mit dem Wort "Pfanne" bilden?
+  de_conversation_non_sensical_answer:
+    prompt_file: ./de/vocab_conversation.txt
+    params:
+      topic: Küchenutensilien
+      description: Die verschiedenen Arten von Küchenutensilien und ihre Verwendung
+      user: Bob
+      word: Pfanne
+    stop:
+      - "Bob:"
+    prompt_append: |-
+      Lehrer: Lass uns ein neues Wort lernen: Pfanne.
+      Lehrer: Eine Pfanne ist ein Küchengerät, das zum Braten und Kochen von Speisen verwendet wird.
+      Lehrer: Können Sie das Wort in einem Satz verwenden?
+      Bob: Ich stellte die Pfanne auf meinen Kopf
+    assertions:
+      similarTo:
+        threshold: 0.9
+        value: |-
+          Lehrer: Das ist kein richtiger Satz. Eine Pfanne wird normalerweise nicht auf den Kopf gestellt. Können Sie einen Satz mit dem Wort "Pfanne" bilden?

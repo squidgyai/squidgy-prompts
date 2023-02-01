@@ -1,0 +1,54 @@
+tests:
+  en_office:
+    prompt_file: ./en/deck_description.txt
+    params:
+      topic: Office
+    assertions:
+      equalTo: |-
+        Common office supplies, furniture, and equipment
+        vocab, things
+
+  en_wine:
+    prompt_file: ./en/deck_description.txt
+    params:
+      topic: wine making
+    assertions:
+      equalTo: |-
+        types of grapes, fermentation process, aging process, bottling and labeling
+        vocab, activity
+
+  es_office:
+    prompt_file: ./es/deck_description.txt
+    params:
+      topic: Oficina
+    assertions:
+      equalTo: |-
+        diferentes tipos de equipo de oficina, términos comunes relacionados con la oficina, usos comunes del equipo de oficina
+        vocab, things
+
+  es_wine:
+    prompt_file: ./es/deck_description.txt
+    params:
+      topic: vinificación
+    assertions:
+      equalTo: |-
+        proceso de vinificación, términos de vinificación, equipo de vinificación
+        vocab, activity
+
+  fr_office:
+    prompt_file: ./fr/deck_description.txt
+    params:
+      topic: bureau
+    assertions:
+      equalTo: |-
+        différents types de meubles de bureau, matériaux couramment utilisés pour les meubles de bureau, accessoires de bureau, termes courants du bureau
+        things
+
+  de_office:
+    prompt_file: ./de/deck_description.txt
+    params:
+      topic: Büro
+    assertions:
+      equalTo: |-
+        verschiedene Arten von Büromöbeln, gemeinsame Verwendung von Büromöbeln
+        things, activity

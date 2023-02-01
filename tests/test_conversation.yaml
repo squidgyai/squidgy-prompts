@@ -1,57 +1,64 @@
-fr_to_en_translation:
-  base_prompt: ./en/conversation.txt
-  prompt: |-
-    Teacher: What are some common kitchen utensils?
-    bob: spoon, fork
-    Teacher: Those are two, what are some others?
-    bob: je ne sais pas
-  expected: >
-    CORRECTION: I don't know
+tests:
+  fr_to_en_translation:
+    prompt_file: ./en/conversation.txt
+    prompt_append: |-
+      Teacher: What are some common kitchen utensils?
+      bob: spoon, fork
+      Teacher: Those are two, what are some others?
+      bob: je ne sais pas
+    assertions:
+      equalTo: >
+        CORRECTION: I don't know
 
-fr_to_en_with_grammar_error:
-  base_prompt: ./en/conversation.txt
-  prompt: |-
-    Teacher: What are some common kitchen utensils?
-    bob: spoon, fork
-    Teacher: Those are two, what are some others?
-    bob: je sait pas
-  expected: >
-    CORRECTION: I don't know
+  fr_to_en_with_grammar_error:
+    prompt_file: ./en/conversation.txt
+    prompt_append: |-
+      Teacher: What are some common kitchen utensils?
+      bob: spoon, fork
+      Teacher: Those are two, what are some others?
+      bob: je sait pas
+    assertions:
+      equalTo: >
+        CORRECTION: I don't know
 
-de_to_en_translation:
-  base_prompt: ./en/conversation.txt
-  prompt: |-
-    Teacher: What are some common kitchen utensils?
-    bob: spoon, fork
-    Teacher: Those are two, what are some others?
-    bob: ich weiß nicht
-  expected: >
-    CORRECTION: I don't know
+  de_to_en_translation:
+    prompt_file: ./en/conversation.txt
+    prompt_append: |-
+      Teacher: What are some common kitchen utensils?
+      bob: spoon, fork
+      Teacher: Those are two, what are some others?
+      bob: ich weiß nicht
+    assertions:
+      equalTo: >
+        CORRECTION: I don't know
 
-en_dont_auto_complete_sentences:
-  base_prompt: ./en/conversation.txt
-  prompt: |-
-    Teacher: What are the different types of blocks in Minecraft?
-    bob: grass, wood
-  expected: >
-    Teacher: Those are two types of blocks. Can you name others?
+  en_dont_auto_complete_sentences:
+    prompt_file: ./en/conversation.txt
+    prompt_append: |-
+      Teacher: What are the different types of blocks in Minecraft?
+      bob: grass, wood
+    assertions:
+      equalTo: >
+        Teacher: Those are two types of blocks. Can you name others?
 
-de_to_fr_translation:
-  base_prompt: ./fr/conversation.txt
-  prompt: |-
-    Professeur : Quels sont les ustensiles de cuisine courants ?
-    bob : cuillère, fourchette
-    Professeur : Ce sont deux, quels sont les autres ?
-    bob: ich weiß nicht
-  expected: >
-    CORRECTION: Je ne sais pas
+  de_to_fr_translation:
+    prompt_file: ./fr/conversation.txt
+    prompt_append: |-
+      Professeur : Quels sont les ustensiles de cuisine courants ?
+      bob : cuillère, fourchette
+      Professeur : Ce sont deux, quels sont les autres ?
+      bob: ich weiß nicht
+    assertions:
+      equalTo: >
+        CORRECTION: Je ne sais pas
 
-de_to_fr_with_grammar_error:
-  base_prompt: ./en/conversation.txt
-  prompt: |-
-    Teacher: What are some common kitchen utensils?
-    bob: spoon, fork
-    Teacher: Those are two, what are some others?
-    bob: ich weise nicht
-  expected: >
-    CORRECTION: I don't know
+  de_to_fr_with_grammar_error:
+    prompt_file: ./en/conversation.txt
+    prompt_append: |-
+      Teacher: What are some common kitchen utensils?
+      bob: spoon, fork
+      Teacher: Those are two, what are some others?
+      bob: ich weise nicht
+    assertions:
+      equalTo: >
+        CORRECTION: I don't know
