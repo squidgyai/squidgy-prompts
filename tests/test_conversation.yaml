@@ -1,6 +1,8 @@
+stop: ['bob', 'Bob']
 tests:
+  
   fr_to_en_translation:
-    prompt_file: ./en/conversation.txt
+    prompt_file: ./en/discussion_question.txt
     prompt_append: |-
       Teacher: What are some common kitchen utensils?
       bob: spoon, fork
@@ -11,7 +13,7 @@ tests:
         CORRECTION: I don't know
 
   fr_to_en_with_grammar_error:
-    prompt_file: ./en/conversation.txt
+    prompt_file: ./en/discussion_question.txt
     prompt_append: |-
       Teacher: What are some common kitchen utensils?
       bob: spoon, fork
@@ -22,7 +24,7 @@ tests:
         CORRECTION: I don't know
 
   de_to_en_translation:
-    prompt_file: ./en/conversation.txt
+    prompt_file: ./en/discussion_question.txt
     prompt_append: |-
       Teacher: What are some common kitchen utensils?
       bob: spoon, fork
@@ -33,7 +35,7 @@ tests:
         CORRECTION: I don't know
 
   en_dont_auto_complete_sentences:
-    prompt_file: ./en/conversation.txt
+    prompt_file: ./en/discussion_question.txt
     prompt_append: |-
       Teacher: What are the different types of blocks in Minecraft?
       bob: grass, wood
@@ -42,7 +44,7 @@ tests:
         Teacher: Those are two types of blocks. Can you name others?
 
   de_to_fr_translation:
-    prompt_file: ./fr/conversation.txt
+    prompt_file: ./fr/discussion_question.txt
     prompt_append: |-
       Professeur : Quels sont les ustensiles de cuisine courants ?
       bob : cuillère, fourchette
@@ -53,7 +55,7 @@ tests:
         CORRECTION: Je ne sais pas
 
   de_to_fr_with_grammar_error:
-    prompt_file: ./en/conversation.txt
+    prompt_file: ./en/discussion_question.txt
     prompt_append: |-
       Teacher: What are some common kitchen utensils?
       bob: spoon, fork
