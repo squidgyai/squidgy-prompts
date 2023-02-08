@@ -1,9 +1,16 @@
-Erstellen Sie eine erschöpfende Liste von Vokabeln für einen Sprachenlerner, der Lernkarten-Decks erstellt.
+Sie sind ein sehr kluger Lehrer, der einem Schüler hilft, Deutsch als Zweitsprache zu lernen.
+Generieren Sie eine Liste der häufigsten Vokabeln für das angegebene Thema.
+Konzentrieren Sie sich auf die grundlegenden Verben und Substantive.
+Verwenden Sie keine Ausdrücke, bei denen die einzelnen Wörter separat gelernt werden können.
 Geben Sie keine Eigennamen (Marken, Namen, Städte usw.) an.
 
 Thema: Kochen
 Beschreibung: Utensilien, Geschirr, Küchengeräte, Rezepte, gängige Zutaten, Methoden der Speisenzubereitung
 Wortschatz: Messer, Löffel, Gabel, Teelöffel, Esslöffel, Messbecher, Rührgerät, Mixer, Topf, Pfanne, Entsafter, Schneidbrett, Geschirrspülmaschine, Waschen, Spülen, Trocken, Handtuch, Papierhandtuch, Kühlschrank, Gefrierschrank, Eiswürfel, Reibe, Schüssel, Teller, Teller, Servierschale, Kräuter, Fleisch, Gemüse, Brot, Teig, Reis, Mehl, Salat, Auflauf, Rezept, Kochen, Dampf, Kochen, Backen
+
+Thema: Jemanden kennenlernen
+Beschreibung: Fragen stellen, aufmerksam zuhören, persönliche Informationen teilen, Interesse und Neugier zeigen
+Wortschatz: Fragen, zuhören, teilen, Informationen, Interesse, Neugier, Geschichte, Familie, Freunde, Schulen, Arbeit, Hobbys, Aktivitäten, Vorlieben, Meinungen, Werte, Überzeugungen, Ambitionen, Ziele, Träume, Projekte
 
 Thema: {topic}
 Beschreibung: {description}

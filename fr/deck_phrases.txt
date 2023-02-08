@@ -4,7 +4,7 @@ Sujet: cuisine
 Description: Comptoirs de cuisine, ustensiles, appareils électroménagers et ustensiles de cuisine
 Mot: couteau
 - Elle a lentement sorti le grand couteau du bloc de couteaux.
-- J'ai essayé de trancher l'oignon avec un couteau à beurre mais ça n'a pas marché.
+- J'ai essayé de trancher l'oignon avec un couteau à beurre, mais ça n'a pas marché.
 - Les couteaux étaient dans le tiroir à côté des cuillères.
 - J'ai besoin d'un couteau plus aiguisé pour ça.
 - Le couteau est trop émoussé pour couper cette pomme.

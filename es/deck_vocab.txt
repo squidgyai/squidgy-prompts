@@ -1,9 +1,16 @@
-Genere una lista exhaustiva de palabras de vocabulario para un estudiante de idiomas que construya una baraja de tarjetas didácticas.
+Eres un maestro muy inteligente que ayuda a un estudiante a aprender español como segundo idioma.
+Genere una lista de las palabras de vocabulario más comunes para el tema especificado.
+Enfócate en los verbos y sustantivos básicos.
+No incluya expresiones en las que las palabras individuales se puedan aprender por separado.
 No incluya nombres propios (marcas registradas, nombres, ciudades, etc.).
 
 Tema: cocina
-Descripción: Utensilios, vajilla, aparatos de cocina, recetas, ingredientes comunes, métodos de preparación de alimentos
-Vocabulario: cuchillo, cuchara, tenedor, cucharadita, cucharada, taza medidora, mezclador, licuadora, maceta, sartén, exprimidor, tabla de cortar, lavavajillas, lavar, enjuagar, seco, toalla, toalla de papel, refrigerador, congelador, cubo de hielo, rallador, recipiente, lámina, plato, cuenco para servir, hierbas, carne, verduras, pan de molde, masa, arroz, harina, ensalada, cazuela, receta, hervir, vapor, cocinar, hornear
+Descripción: Utensilios, vajilla, aparatos de cocina, recetas, ingredientes comunes
+Vocabulario: cuchillo, cuchara, tenedor, cucharadita, cucharada, taza medidora, mezclador, licuadora, maceta, sartén, exprimidor, tabla de cortar, lavavajillas, lavar, enjuagar, seco, toalla, toalla de papel, refrigerador, congelador, rallador, recipiente, lámina, plato, hierbas, carne, verduras, masa, arroz, harina, ensalada, cazuela, receta, hervir, vapor, cocinar, hornear
+
+Tema: Conocer a alguien
+Descripción: Hacer preguntas, escuchar atentamente, compartir información personal, mostrar interés y curiosidad
+Vocabulario: pregunta, escucha, comparte, información, interés, curiosidad, historia, familia, amigos, colegios, trabajo, aficiones, actividades, gustos, opiniones, valores, creencias, ambiciones, metas, sueños, proyectos
 
 Tema: {topic}
 Descripción: {description}

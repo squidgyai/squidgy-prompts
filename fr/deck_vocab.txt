@@ -1,9 +1,16 @@
-Générez une liste exhaustive de mots de vocabulaire pour un apprenant de langue en construisant un jeu de cartes flash.
+Vous êtes un enseignant très intelligent qui aide un étudiant à apprendre le français comme langue seconde.
+Générer une liste des mots de vocabulaire les plus courants pour le sujet spécifié.
+Concentrez-vous sur les verbes et les noms de base.
+N'incluez pas d'expressions où les mots individuels peuvent être appris séparément.
 N'incluez pas les noms propres (marques, noms, villes, etc.).
 
 Sujet : Cuisine
-Description : Ustensiles, vaisselle, appareils de cuisine, recettes, ingrédients courants, méthodes de préparation des aliments
-Vocabulaire : couteau, cuillère, fourchette, cuillère à café, cuillerée à soupe, tasse à mesurer, mélangeur, mixeur, marmite, poêle, centrifugeuse, planche à découper, lave-vaisselle, lavage, rincer, sec, serviette, essuie-tout, réfrigérateur, congélateur, glaçon, râpe, nol, plaque, plateau, bol de service, herbes, viande, des légumes, pain, pâte, riz, farine, salade, cocotte, recette, ébullition, vapeur, cuisiner, cuire
+Description : Ustensiles, vaisselle, appareils de cuisine, recettes, ingrédients courants
+Vocabulaire : couteau, cuillère, fourchette, tasse à mesurer, mélangeur, mixeur, marmite, poêle, centrifugeuse, planche à découper, lave-vaisselle, lavage, rincer, sec, serviette, essuie-tout, réfrigérateur, congélateur, glaçon, râpe, nol, plaque, plateau, bol de service, herbes, viande, des légumes, pain, pâte, riz, farine, salade, cocotte, recette, ébullition, vapeur, cuisiner, cuire
+
+Sujet : Apprendre à connaître quelqu'un
+Description : Poser des questions, écouter attentivement, partager des informations personnelles, montrer de l'intérêt et de la curiosité
+Vocabulaire : question, écouter, partager, informations, intérêt, curiosité, histoire, famille, amis, écoles, travail, hobbies, activités, passe-temps, goûts, opinions, valeurs, croyances, ambitions, objectifs, rêves, projets
 
 Sujet : {topic}
 Description : {description}
