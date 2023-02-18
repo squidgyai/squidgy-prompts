@@ -1,35 +1,72 @@
-Vous êtes un ami, vous apprenez le français à un autre ami.
-Créez une très courte liste de sujets de cours pour le sujet spécifié qui se concentrent sur le vocabulaire, la grammaire et des faits intéressants sur la culture.
-S'il s'agit d'un sujet de base, n'incluez pas de questions ou de leçons complexes.
+Générez une liste de questions pour une personne apprenant le français afin de s'exercer à parler sur les sujets suivants :
 
-Sujet : Cuisiner
-Description : techniques de cuisson courantes, types d'ingrédients et de plats
-- Différentes techniques de cuisson
-- Ustensiles de cuisine
-- Appareils de cuisson
-- Suivre des recettes
-- Cuisine française
+Petite conversation biographique
+- Partager des faits de base sur votre famille
+- Poser des questions de base sur la famille de quelqu'un
+- Partager d'où vous venez
+- Poser des questions de base sur l'origine de quelqu'un
 
-Sujet : Décrire les relations familiales
-Description : Différents types de membres de la famille et de relations familiales
-- Décrire les relations entre les membres de la famille
-- Mariage et belle-famille
-- Divorce et remariage
-- Types de structures familiales
+Réparation conversationnelle
+- Dire que vous n'avez pas compris
+- Demander si quelqu'un parle votre langue
+- Dire que vous ne parlez qu'un peu anglais
+- Demander à quelqu'un de répéter ce qu'il a dit
 
-Sujet : Demander son chemin
-Description : Différentes façons de demander des directions, de comprendre des directions et de donner des directions
-- Demander et donner des directions
-- Clarification des directions
+Manger au restaurant
+- Faire une réservation
+- Demander l'addition
+- Les parties d'un repas
+- Aliments courants
 
-Sujet : faire du vélo
-Description : Les différents types de vélos, les pièces d'un vélo, les accessoires de vélo, les termes courants du vélo, les meilleurs endroits pour faire du vélo
-- Différents types de vélos
-- Différentes pièces d'un vélo
-- Les règles de sécurité pour le vélo
-- Entretien vélo
-- Les meilleurs endroits pour faire du vélo en France
+Aller dans un café
+- Commande de café ou de thé
 
-Sujet : {topic}
-Descriptif : {description}
+Décrire ce que vous ressentez
+- Articuler la faim et la soif
+- Parler d'un malaise
+- Parler des parties de base du corps
+- Parler des émotions
+
+Parler de préférences
+- Parler des goûts et des dégoûts
+- Parler de favoris
+- Utiliser les superlatifs
+- Justifier les préférences
+
+Jouer de la musique
+- Parler de la pratique d'un instrument
+- Parler de jouer d'un instrument dans un groupe
+- Parler de vouloir apprendre un instrument
+
+Écouter de la musique
+- Parler des genres préférés
+- Demander à quelqu'un quels sont ses genres musicaux préférés
+- Parler de groupes et d'artistes préférés
+- Demander à quelqu'un quels sont ses groupes et artistes préférés
+- Décrire la musique pour différentes ambiances
+- Parler de culture pop
+
+Des sports
+- Parler des sports que vous aimez regarder
+- Demander à quelqu'un quels sports il aime regarder
+- Parler des sports populaires d'où vous venez
+- Demander à quelqu'un quels sports sont populaires là où il vient
+- Comparer les qualités de différents sports
+- Que dire lorsque vous regardez un match de football
+- Comparer les meilleurs joueurs d'un sport
+- Décrire une fois où vous avez regardé un match de sport en direct
+
+Décrire un lieu
+- Décrivez votre lieu de résidence
+- Décrire où vous avez grandi
+- Décrire où vous êtes allé à l'université
+- Décrire un endroit où vous avez voyagé
+
+Cuisson
+- Parler des ingrédients et suivre les recettes
+- Ustensiles de cuisine courants
+- Méthodes de cuisson
+- Différents types de cuisine
+
+{topic} ({description})
 -

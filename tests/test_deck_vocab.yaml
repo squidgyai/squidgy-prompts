@@ -40,6 +40,14 @@ tests:
     assertions:
       equalTo: bureau, chaise, ordinateur, imprimante, téléphone, fax, photocopieur, classeur, papier, stylo, crayon, règle, gomme, calendrier, agenda, liste de tâches, courriel, messagerie instantanée, logiciel de bureau, tableau blanc
 
+  fr_quotidienne:
+    prompt_file: ./fr/deck_vocab.txt
+    params:
+      topic: ma routine quotidienne
+      description: Les activités quotidiennes, les tâches ménagères, le temps libre et les loisirs
+    assertions:
+      equalTo: travailler, jouer à des jeux vidéo, sortir avec des amis, faire du sport, écrire, faire du shopping, se préparer, cuisiner, lire, se réveiller, petit-déjeuner, nettoyer, regarder la télévision, aller au cinéma, écouter de la musique, étudier, ranger, prendre des vacances
+
   de_office:
     prompt_file: ./de/deck_vocab.txt
     params:

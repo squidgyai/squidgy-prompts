@@ -1,36 +1,77 @@
-Eres un amigo, enseñando español (sudamericano) a otro amigo.
-Cree una lista muy corta de temas de lecciones para el tema específico que se centre en el vocabulario, la gramática y los datos interesantes sobre la cultura.
-Si es un tema básico, no incluya cuestiones o lecciones complejas.
+Genere una lista de preguntas para que alguien que está aprendiendo español practique hablar sobre los siguientes temas:
 
-Tema: cocina
-Descripción: técnicas de cocina comunes, tipos de ingredientes y platos
-- Utensilios de cocina
-- Dispositivos de cocina
-- Diferentes técnicas de cocción.
-- Seguir recetas
-- Cocina centroamericana
+Pequeña charla biográfica
+- Compartir datos básicos sobre su familia.
+- Hacer preguntas básicas sobre la familia de alguien.
+- Compartir de dónde eres
+- Hacer preguntas básicas sobre de dónde es alguien
 
-Tema: Descripción de las relaciones familiares
-Descripción: Diferentes tipos de miembros de la familia y relaciones familiares.
-- Describir las relaciones entre los miembros de la familia.
-- Matrimonio y suegros
-- Divorcio y segundas nupcias
-- Tipos de estructuras familiares
+Reparación conversacional
+- Decir que no entendiste
+- Preguntar si alguien habla su idioma
+- Decir que solo hablas un poco de inglés.
+- Pedirle a alguien que repita lo que dijo
 
-Tema: Pedir direcciones
-Descripción: Diferentes formas de pedir direcciones, entender direcciones y dar direcciones
-- Pedir y dar direcciones.
-- Aclarar las instrucciones
+Comer en un restaurante
+- Hacer una reservación
+- Pidiendo la cuenta
+- Las partes de una comida.
+- Alimentos comunes
 
-Tema: andar en bicicleta
-Descripción: tipos de bicicletas, consejos de seguridad, mantenimiento de bicicletas
-- Tipos de bicicletas
-- Partes de una bicicleta
-- Seguridad en bicicleta
-- Mantenimiento de bicicletas
-- Leyes y reglamentos de bicicletas.
-- Famosas rutas en bicicleta en sudamérica.
+ir a un café
+- Pedir café o té.
 
-Tema: {topic}
-Descripción: {description}
+Describiendo cómo te sientes
+- Articulación del hambre y la sed.
+- Hablar de sentirse mal
+- Hablar de las partes básicas del cuerpo.
+- Hablando de emociones.
+
+Hablando de preferencias
+- Hablando de gustos y disgustos
+- Hablando de favoritos
+- Usar superlativos
+- Justificando preferencias
+
+Tocando musica
+- Hablar sobre cómo practicar un instrumento.
+- Hablar de tocar un instrumento en una banda
+- Hablar de querer aprender a tocar un instrumento
+
+Escuchando música
+- Hablando de géneros favoritos
+- Preguntar a alguien sobre sus géneros musicales favoritos
+- Hablando de bandas y artistas favoritos.
+- Preguntar a alguien sobre sus bandas y artistas favoritos
+- Describir música para diferentes estados de ánimo.
+- Hablando de cultura pop.
+
+Deportes
+- Hablando de los deportes que te gusta ver.
+- Preguntar a alguien qué deportes le gusta ver.
+- Hablar sobre qué deportes son populares de donde eres
+- Preguntar a alguien qué deportes son populares en su lugar de origen
+- Comparar las cualidades de diferentes deportes.
+- Qué decir cuando estás viendo un partido de fútbol
+- Comparación de los mejores jugadores de un deporte
+- Describiendo un momento en que vio un juego de deportes en vivo
+
+Describiendo un lugar
+- Describiendo donde vives
+- Describiendo donde creciste
+- Describiendo a dónde fuiste a la universidad
+- Describir un lugar al que has viajado
+
+Mezcal
+- Describiendo el Mezcal y sus orígenes
+- Describiendo los sabores del Mezcal
+- Mezcal vs Tequila
+
+Cocinando
+- Hablar de ingredientes y seguir recetas.
+- Utensilios comunes de cocina.
+- Métodos de cocina
+- Diferentes tipos de cocina.
+
+{topic} ({description})
 -

@@ -1,36 +1,77 @@
-Du bist ein Freund und bringst einem anderen Freund Deutsch bei.
-Erstellen Sie eine sehr kurze Liste von Unterrichtsthemen für das angegebene Thema, die sich auf Wortschatz, Grammatik und interessante Fakten über die Kultur konzentrieren.
-Wenn es sich um ein grundlegendes Thema handelt, fügen Sie keine komplexen Probleme oder Lektionen hinzu.
+Erstellen Sie eine Liste mit Fragen für jemanden, der Deutsch lernt, um das Sprechen zu folgenden Themen zu üben:
 
-Thema: Kochen
-Beschreibung: gängige Kochtechniken, Arten von Zutaten und Gerichten
-- Verschiedene Kochtechniken
-- Kochutensilien
-- Kochgeräte
-- Nach Rezepten
-- Gängige Gerichte in Deutschland
+Biographischer Smalltalk
+- Teilen Sie grundlegende Fakten über Ihre Familie
+- Grundlegende Fragen über die Familie einer Person stellen
+- Teilen, woher Sie kommen
+- Grundlegende Fragen darüber stellen, woher jemand kommt
 
-Thema: Familienbeziehungen beschreiben
-Beschreibung: Verschiedene Arten von Familienmitgliedern und familiären Beziehungen
-- Beziehungen zwischen Familienmitgliedern beschreiben
-- Eheschließung und Schwiegereltern
-- Scheidung und Wiederverheiratung
-- Arten von Familienstrukturen
+Gesprächsreparatur
+- Sagen, dass Sie es nicht verstanden haben
+- Fragen, ob jemand Ihre Sprache spricht
+- Sagen, dass Sie nur ein bisschen Englisch sprechen
+- Jemanden bitten, das Gesagte zu wiederholen
 
-Thema: Nach dem Weg fragen
-Beschreibung: Verschiedene Möglichkeiten, nach dem Weg zu fragen, Wegbeschreibungen zu verstehen und Wegbeschreibungen zu erteilen
-- Wegbeschreibungen erfragen und erteilen
-- Wegbeschreibung klären
+Essen in einem Restaurant
+- Eine Reservierung machen
+- Nach der Rechnung fragen
+- Die Teile einer Mahlzeit
+- Gemeinsame Lebensmittel
 
-Thema: Radfahren
-Beschreibung: Fahrradtypen, Sicherheitstipps, Fahrradwartung
-- Arten von Fahrrädern
-- Teile eines Fahrrads
-- Fahrradsicherheit
-- Fahrradwartung
-- Fahrradgesetze und -vorschriften
-- Berühmte Fahrradrouten in Deutschland
+In ein Café gehen
+- Bestellung von Kaffee oder Tee
 
-Thema: {topic}
-Beschreibung: {description}
+Beschreibe, wie du dich fühlst
+- Hunger und Durst artikulieren
+- Apropos Unwohlsein
+- Über grundlegende Körperteile sprechen
+- Über Emotionen sprechen
+
+Apropos Vorlieben
+- Über Vorlieben und Abneigungen sprechen
+- Apropos Favoriten
+- Verwendung von Superlativen
+- Präferenzen begründen
+
+Musik spielen
+- Darüber sprechen, wie man ein Instrument übt
+- Apropos ein Instrument in einer Band zu spielen
+- Apropos, ein Instrument lernen zu wollen
+
+Musik hören
+- Über Lieblingsgenres sprechen
+- Jemanden nach seinen Lieblingsmusikgenres fragen
+- Über Lieblingsbands und -künstler sprechen
+- Jemanden nach seinen Lieblingsbands und -künstlern fragen
+- Musik für verschiedene Stimmungen beschreiben
+- Apropos Popkultur
+
+Sport
+- Sprechen Sie darüber, welche Sportarten Sie gerne sehen
+- Jemanden fragen, welche Sportarten er gerne sieht
+- Sprechen Sie darüber, welche Sportarten dort beliebt sind, wo Sie herkommen
+- Jemanden fragen, welche Sportarten dort beliebt sind, wo er herkommt
+- Vergleich der Qualitäten verschiedener Sportarten
+- Was soll man sagen, wenn man sich ein Fußballspiel ansieht?
+- Vergleich der besten Spieler einer Sportart
+- Beschreiben Sie eine Zeit, in der Sie ein Live-Sportspiel gesehen haben
+
+Einen Ort beschreiben
+- Beschreiben Sie Ihren Wohnort
+- Beschreiben, wo Sie aufgewachsen sind
+- Beschreiben Sie, wo Sie aufs College gegangen sind
+- Beschreiben Sie einen Ort, an den Sie gereist sind
+
+Mezcal
+- Beschreibung von Mezcal und seiner Herkunft
+- Beschreibung der Aromen von Mezcal
+- Mezcal gegen Tequila
+
+Kochen
+- Über Zutaten sprechen und Rezepte befolgen
+- Gemeinsame Küchengeräte
+- Kochmethoden
+- Verschiedene Arten von Küche
+
+{topic} ({description})
 -

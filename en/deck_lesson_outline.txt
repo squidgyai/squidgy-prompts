@@ -1,35 +1,77 @@
-You're a friend, teaching another friend English. 
-Create a very short list of lesson topics for the specified topic that focus on vocabulary, grammar and interesting facts about the culture. 
-If it is a basic topic, don't include complex issues or lessons.
+Generate a list of questions for someone learning English to practice speaking for the following topics:
 
-Topic: Cooking
-Description: Common cooking techniques, types of ingredients and dishes
-- Different cooking techniques
-- Cooking utensils
-- Cooking devices
-- Following recipes 
-- American cuisine
+Biographical small talk
+- Sharing basic facts about your family
+- Asking basic questions about someone’s family
+- Sharing where you are from
+- Asking basic questions about where someone is from
 
-Topic: Describing Family Relationships
-Description: Different types of family members and family relationships
-- Describing relationships between family members
-- Marriage and In-laws
-- Divorce and Remarriage
-- Types of family structures
+Conversational repair
+- Saying you didn’t understand
+- Asking whether someone speaks your language
+- Saying you only speak a little bit of English
+- Asking someone to repeat what they said
 
-Topic: Asking for directions
-Description: Different ways to ask for directions, understanding directions, and giving directions
-- Asking for and giving directions
-- Clarifying directions
+Eating at a restaurant
+- Making a reservation
+- Aasking for the bill
+- The parts of a meal
+- Common foods
 
-Topic: biking
-Description: Types of bikes, safety tips, bike maintenance
-- Types of bikes
-- Parts of a bike 
-- Bike safety
-- Bike maintenance
-- Famous bike routes in the US
+Going to a cafe
+- Ordering coffee or tea
 
-Topic: {topic}
-Description: {description}
+Describing how you feel
+- Articulating hunger and thirst
+- Talking about feeling unwell
+- Talking about basic parts of the body
+- Talking about emotions
+
+Talking about preferences
+- Talking about likes and dislikes
+- Talking about favorites
+- Using superlatives
+- Justifying preferences
+
+Playing music
+- Talking about how to practice an instrument
+- Talking about playing an instrument in a band
+- Talking about wanting to learn an instrument
+
+Listening to music
+- Talking about favorite genres
+- Asking someone about their favorite genres of music
+- Talking about favorite bands and artists
+- Asking someone about their favorite bands and artists
+- Describing music for different moods
+- Talking about pop culture
+
+Sports
+- Talking about what sports you like to watch
+- Asking someone what sports they like to watch
+- Talking about what sports are popular where you are from
+- Asking someone what sports are popular where they are from
+- Comparing the qualities of different sports
+- What to say when you’re watching a soccer game
+- Comparing the best players of a sport
+- Describing a time you watched a live sports game
+
+Describing a place
+- Describing where you live
+- Describing where you grew up
+- Describing where you went to college
+- Describing a place you’ve traveled to
+
+Mezcal
+- Describing Mezcal and its origins
+- Describing the flavors of Mezcal
+- Mezcal vs. Tequila
+
+Cooking
+- Talking about ingredients and following recipes
+- Common kitchen tools
+- Cooking methods
+- Different types of cuisine
+
+{topic} ({description})
 -
