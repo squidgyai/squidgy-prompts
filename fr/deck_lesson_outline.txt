@@ -18,9 +18,6 @@ Manger au restaurant
 - Les parties d'un repas
 - Aliments courants
 
-Aller dans un café
-- Commande de café ou de thé
-
 Décrire ce que vous ressentez
 - Articuler la faim et la soif
 - Parler d'un malaise
@@ -62,11 +59,11 @@ Décrire un lieu
 - Décrire où vous êtes allé à l'université
 - Décrire un endroit où vous avez voyagé
 
-Cuisson
+Cuisiner
 - Parler des ingrédients et suivre les recettes
 - Ustensiles de cuisine courants
 - Méthodes de cuisson
 - Différents types de cuisine
 
-{topic} ({description})
+{topic}
 -

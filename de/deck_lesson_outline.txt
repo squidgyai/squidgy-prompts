@@ -1,77 +1,69 @@
-Erstellen Sie eine Liste mit Fragen für jemanden, der Deutsch lernt, um das Sprechen zu folgenden Themen zu üben:
+Erstellen Sie eine Liste von Fragen für jemanden, der Englisch lernt, um das Sprechen für die folgenden Themen zu üben:
 
-Biographischer Smalltalk
-- Teilen Sie grundlegende Fakten über Ihre Familie
-- Grundlegende Fragen über die Familie einer Person stellen
-- Teilen, woher Sie kommen
-- Grundlegende Fragen darüber stellen, woher jemand kommt
+Biografischer Smalltalk
+- Erzählen Sie grundlegende Fakten über Ihre Familie
+- Grundlegende Fragen über die Familie einer anderen Person stellen
+- Erzählen Sie, woher Sie kommen
+- Grundlegende Fragen über die Herkunft von jemandem stellen
 
 Gesprächsreparatur
-- Sagen, dass Sie es nicht verstanden haben
+- Sagen, dass man etwas nicht verstanden hat
 - Fragen, ob jemand Ihre Sprache spricht
-- Sagen, dass Sie nur ein bisschen Englisch sprechen
+- Sagen, dass man nur ein bisschen Englisch spricht
 - Jemanden bitten, das Gesagte zu wiederholen
 
-Essen in einem Restaurant
-- Eine Reservierung machen
+In einem Restaurant essen
+- Eine Reservierung vornehmen
 - Nach der Rechnung fragen
-- Die Teile einer Mahlzeit
-- Gemeinsame Lebensmittel
+- Die Bestandteile einer Mahlzeit
+- Übliche Speisen
 
-In ein Café gehen
-- Bestellung von Kaffee oder Tee
-
-Beschreibe, wie du dich fühlst
+Beschreiben, wie man sich fühlt
 - Hunger und Durst artikulieren
-- Apropos Unwohlsein
-- Über grundlegende Körperteile sprechen
-- Über Emotionen sprechen
+- Über das Unwohlsein sprechen
+- Über grundlegende Teile des Körpers sprechen
+- Über Gefühle sprechen
 
-Apropos Vorlieben
+Über Vorlieben sprechen
 - Über Vorlieben und Abneigungen sprechen
-- Apropos Favoriten
-- Verwendung von Superlativen
-- Präferenzen begründen
+- Über Lieblinge sprechen
+- Superlative verwenden
+- Vorlieben begründen
 
 Musik spielen
 - Darüber sprechen, wie man ein Instrument übt
-- Apropos ein Instrument in einer Band zu spielen
-- Apropos, ein Instrument lernen zu wollen
+- Über das Spielen eines Instruments in einer Band sprechen
+- Über den Wunsch, ein Instrument zu lernen, sprechen
 
 Musik hören
 - Über Lieblingsgenres sprechen
-- Jemanden nach seinen Lieblingsmusikgenres fragen
+- Jemanden nach seinem Lieblingsmusikgenre fragen
 - Über Lieblingsbands und -künstler sprechen
-- Jemanden nach seinen Lieblingsbands und -künstlern fragen
-- Musik für verschiedene Stimmungen beschreiben
-- Apropos Popkultur
+- Jemanden nach seinen Lieblingsbands und -künstlern befragen
+- Beschreiben von Musik für verschiedene Stimmungen
+- Über Popkultur sprechen
 
 Sport
-- Sprechen Sie darüber, welche Sportarten Sie gerne sehen
-- Jemanden fragen, welche Sportarten er gerne sieht
-- Sprechen Sie darüber, welche Sportarten dort beliebt sind, wo Sie herkommen
+- Darüber reden, welche Sportarten man gerne sieht
+- Jemanden fragen, welche Sportarten er gerne anschaut
+- Darüber sprechen, welche Sportarten in der eigenen Heimat beliebt sind
 - Jemanden fragen, welche Sportarten dort beliebt sind, wo er herkommt
-- Vergleich der Qualitäten verschiedener Sportarten
-- Was soll man sagen, wenn man sich ein Fußballspiel ansieht?
+- Die Qualitäten verschiedener Sportarten miteinander vergleichen
+- Was man sagen sollte, wenn man sich ein Fußballspiel ansieht
 - Vergleich der besten Spieler einer Sportart
-- Beschreiben Sie eine Zeit, in der Sie ein Live-Sportspiel gesehen haben
+- Beschreiben Sie, wie Sie ein Sportspiel live gesehen haben
 
 Einen Ort beschreiben
-- Beschreiben Sie Ihren Wohnort
-- Beschreiben, wo Sie aufgewachsen sind
-- Beschreiben Sie, wo Sie aufs College gegangen sind
+- Beschreiben Sie, wo Sie leben
+- Beschreiben, wo du aufgewachsen bist
+- Beschreiben Sie, wo Sie zur Schule gegangen sind
 - Beschreiben Sie einen Ort, an den Sie gereist sind
-
-Mezcal
-- Beschreibung von Mezcal und seiner Herkunft
-- Beschreibung der Aromen von Mezcal
-- Mezcal gegen Tequila
 
 Kochen
 - Über Zutaten sprechen und Rezepte befolgen
-- Gemeinsame Küchengeräte
-- Kochmethoden
-- Verschiedene Arten von Küche
+- Übliche Küchengeräte
+- Zubereitungsmethoden
+- Verschiedene Arten der Küche
 
-{topic} ({description})
+{topic}
 -

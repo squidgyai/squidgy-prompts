@@ -1,31 +1,28 @@
 Genere una lista de preguntas para que alguien que está aprendiendo español practique hablar sobre los siguientes temas:
 
 Pequeña charla biográfica
-- Compartir datos básicos sobre su familia.
-- Hacer preguntas básicas sobre la familia de alguien.
+- Compartir datos básicos sobre su familia
+- Hacer preguntas básicas sobre la familia de alguien
 - Compartir de dónde eres
 - Hacer preguntas básicas sobre de dónde es alguien
 
 Reparación conversacional
 - Decir que no entendiste
 - Preguntar si alguien habla su idioma
-- Decir que solo hablas un poco de inglés.
+- Decir que solo hablas un poco de inglés
 - Pedirle a alguien que repita lo que dijo
 
 Comer en un restaurante
 - Hacer una reservación
 - Pidiendo la cuenta
-- Las partes de una comida.
+- Las partes de una comida
 - Alimentos comunes
 
-ir a un café
-- Pedir café o té.
-
 Describiendo cómo te sientes
-- Articulación del hambre y la sed.
+- Articulación del hambre y la sed
 - Hablar de sentirse mal
-- Hablar de las partes básicas del cuerpo.
-- Hablando de emociones.
+- Hablar de las partes básicas del cuerpo
+- Hablando de emociones
 
 Hablando de preferencias
 - Hablando de gustos y disgustos
@@ -34,24 +31,24 @@ Hablando de preferencias
 - Justificando preferencias
 
 Tocando musica
-- Hablar sobre cómo practicar un instrumento.
+- Hablar sobre cómo practicar un instrumento
 - Hablar de tocar un instrumento en una banda
 - Hablar de querer aprender a tocar un instrumento
 
 Escuchando música
 - Hablando de géneros favoritos
 - Preguntar a alguien sobre sus géneros musicales favoritos
-- Hablando de bandas y artistas favoritos.
+- Hablando de bandas y artistas favoritos
 - Preguntar a alguien sobre sus bandas y artistas favoritos
-- Describir música para diferentes estados de ánimo.
-- Hablando de cultura pop.
+- Describir música para diferentes estados de ánimo
+- Hablando de cultura pop
 
 Deportes
-- Hablando de los deportes que te gusta ver.
-- Preguntar a alguien qué deportes le gusta ver.
+- Hablando de los deportes que te gusta ver
+- Preguntar a alguien qué deportes le gusta ver
 - Hablar sobre qué deportes son populares de donde eres
 - Preguntar a alguien qué deportes son populares en su lugar de origen
-- Comparar las cualidades de diferentes deportes.
+- Comparar las cualidades de diferentes deportes
 - Qué decir cuando estás viendo un partido de fútbol
 - Comparación de los mejores jugadores de un deporte
 - Describiendo un momento en que vio un juego de deportes en vivo
@@ -67,11 +64,11 @@ Mezcal
 - Describiendo los sabores del Mezcal
 - Mezcal vs Tequila
 
-Cocinando
-- Hablar de ingredientes y seguir recetas.
-- Utensilios comunes de cocina.
+Cocinar
+- Hablar de ingredientes y seguir recetas
+- Utensilios comunes de cocina
 - Métodos de cocina
-- Diferentes tipos de cocina.
+- Diferentes tipos de cocina
 
-{topic} ({description})
+{topic}
 -

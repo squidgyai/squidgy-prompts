@@ -18,9 +18,6 @@ Eating at a restaurant
 - The parts of a meal
 - Common foods
 
-Going to a cafe
-- Ordering coffee or tea
-
 Describing how you feel
 - Articulating hunger and thirst
 - Talking about feeling unwell
@@ -73,5 +70,5 @@ Cooking
 - Cooking methods
 - Different types of cuisine
 
-{topic} ({description})
+{topic}
 -
