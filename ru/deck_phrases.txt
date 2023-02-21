@@ -1,4 +1,4 @@
-Generate sentences in the indicated language for the topic, description and word specified.
+Generate sentences for the topic, description and word specified. Use a mix of declarative, interrogative, and imperative sentences. Do not use puns.
 
 Language: English
 Topic: Kitchen

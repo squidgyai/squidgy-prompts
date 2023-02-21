@@ -14,7 +14,7 @@ Conversational repair
 
 Eating at a restaurant
 - Making a reservation
-- Aasking for the bill
+- Asking for the bill
 - The parts of a meal
 - Common foods
 

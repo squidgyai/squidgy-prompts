@@ -1,16 +1,14 @@
-Generate sentences for the topic, description and word specified.
+Bilden Sie Sätze zu dem angegebenen Thema, der Beschreibung und dem Wort. Verwenden Sie eine Mischung aus deklarativen, interrogativen und imperativen Sätzen. Verwenden Sie keine Wortspiele.
 
 Topic: Kochen
 Description: Küchenplatten, Utensilien, Geräte und Küchengeschirr
 Word: Messer
 - Sie zog das große Messer langsam aus dem Messerblock.
+- Warum hältst du das Messer so?
 - Ich habe versucht, die Zwiebel mit einem Buttermesser zu schneiden, aber es hat nicht funktioniert.
 - Die Messer waren in der Schublade neben den Löffeln.
-- Dafür brauche ich ein schärferes Messer.
-- Das Messer ist zu stumpf, um diesen Apfel zu schneiden.
-- In der Küche herrschte reges Treiben, als die Köche mit ihren sehr scharfen Messern Gemüse hackten.
+- Was willst du mit so einem stumpfen Messer machen?
 - Er schnitt den Brotlaib mit einem gezackten Messer.
-- Ich konnte die Messer in der Küche nicht finden.
 - Ein Schälmesser ist mit seiner geringen Größe perfekt zum Schälen eines Apfels.
 
 Topic: {topic}

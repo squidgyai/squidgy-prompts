@@ -1,19 +1,19 @@
-Generate sentences for the topic, description and word specified.
+Genere frases para el tema, la descripción y la palabra especificados. Utilice una mezcla de frases declarativas, interrogativas e imperativas. No utilice juegos de palabras
 
 Topic: cocina
 Sub-topic: Encimeras de cocina, utensilios, electrodomésticos y menaje de cocina
 Word: cuchillo
-- Sacó lentamente el cuchillo grande del bloque de cuchillos.
-- Intenté rebanar la cebolla con un cuchillo de mantequilla pero no funcionó.
-- Los cuchillos estaban en el cajón al lado de las cucharas.
-- Necesito un cuchillo más afilado para eso.
-- El cuchillo es demasiado desafilado para cortar esta manzana.
-- La cocina bullía de actividad mientras los chefs cortaban las verduras con sus cuchillos muy afilados.
-- Cortó el pan con un cuchillo de sierra.
-- No pude encontrar los cuchillos en la cocina.
-- Un cuchillo para verdura, con su pequeño tamaño, es perfecto para pelar una manzana.
+- Deslizó lentamente el cuchillo grande fuera del bloque.
+- ¿Por qué sujetas así el cuchillo?
+- Intenté cortar la cebolla con un cuchillo de mantequilla y no funcionó.
+- Los cuchillos estaban en el cajón junto a las cucharas.
+- ¿Qué vas a hacer con un cuchillo tan romo?
+- Cortó la barra de pan con un cuchillo de sierra.
+- Un cuchillo de pelar, con su pequeño tamaño, es perfecto para pelar una manzana.
+
 
 Topic: {topic}
 Description: {description}
 Word: {word}
+Estas 1-3 frases divertidas ilustran la palabra en muchas situaciones diferentes:
 -

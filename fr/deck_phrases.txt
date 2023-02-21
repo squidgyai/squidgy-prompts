@@ -1,19 +1,19 @@
-Générez des phrases pour le sujet, la description et le mot spécifié. Générez des phrases amusantes et illustrez le mot dans de nombreuses situations différentes.
+Générez des phrases pour le sujet, la description et le mot spécifié. Utilisez un mélange de phrases déclaratives, interrogatives et impératives. N'utilisez pas de jeux de mots.
 
 Sujet: cuisine
-Description: Comptoirs de cuisine, ustensiles, appareils électroménagers et ustensiles de cuisine
+Description: Assiettes, ustensiles, appareils et ustensiles de cuisine.
 Mot: couteau
 - Elle a lentement sorti le grand couteau du bloc de couteaux.
+- Pourquoi tiens-tu le couteau de cette façon ?
 - J'ai essayé de trancher l'oignon avec un couteau à beurre, mais ça n'a pas marché.
 - Les couteaux étaient dans le tiroir à côté des cuillères.
-- J'ai besoin d'un couteau plus aiguisé pour ça.
-- Le couteau est trop émoussé pour couper cette pomme.
-- La cuisine bourdonnait d'activité alors que les chefs hachaient les légumes avec leurs couteaux très tranchants.
+- Que vas-tu faire avec un couteau aussi émoussé ?
 - Il a coupé le pain avec un couteau dentelé.
 - Je n'ai pas trouvé les couteaux dans la cuisine.
-- Un couteau d'office, de petite taille, est parfait pour éplucher une pomme.
+- Un couteau d'office, avec sa petite taille, est parfait pour éplucher une pomme.
 
 Sujet: {topic}
 Description: {description}
 Mot: {word}
+Ces 1 à 3 phrases amusantes illustrent le mot dans de nombreuses situations différentes :
 -
