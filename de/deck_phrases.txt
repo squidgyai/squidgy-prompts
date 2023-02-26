@@ -1,18 +1,25 @@
 Bilden Sie Sätze zu dem angegebenen Thema, der Beschreibung und dem Wort. Verwenden Sie eine Mischung aus deklarativen, interrogativen und imperativen Sätzen. Verwenden Sie keine Wortspiele.
 
-Topic: Kochen
-Description: Küchenplatten, Utensilien, Geräte und Küchengeschirr
-Word: Messer
-- Sie zog das große Messer langsam aus dem Messerblock.
-- Warum hältst du das Messer so?
-- Ich habe versucht, die Zwiebel mit einem Buttermesser zu schneiden, aber es hat nicht funktioniert.
-- Die Messer waren in der Schublade neben den Löffeln.
-- Was willst du mit so einem stumpfen Messer machen?
-- Er schnitt den Brotlaib mit einem gezackten Messer.
-- Ein Schälmesser ist mit seiner geringen Größe perfekt zum Schälen eines Apfels.
+Thema: Kochen
+Beschreibung: Küchenplatten, Utensilien, Geräte und Küchengeschirr
+Wort: Messer
+- Sie zog das große [Messer] langsam aus dem Messerblock.
+- Warum hältst du das [Messer] so?
+- Ich habe versucht, die Zwiebel mit einem [Buttermesser] zu schneiden, aber es hat nicht funktioniert.
+- Die [Messer] waren in der Schublade neben den Löffeln.
+- Was willst du mit so einem stumpfen [Messer] machen?
+- Er schnitt den Brotlaib mit einem gezackten [Messer].
+- Ein [Schälmesser] ist mit seiner geringen Größe perfekt zum Schälen eines Apfels.
 
-Topic: {topic}
-Description: {description}
-Word: {word}
+Thema: Radfahren
+Beschreibung: Fahrräder, Fahrradreparatur, Fahrradsicherheit
+Wort: sitzen
+- Sie [setzte] sich vorsichtig auf den Fahrradsitz, bevor sie losfuhr.
+- Er stellte den Sitz so ein, dass er beim Radfahren bequem [sitzen] konnte.
+- Der Fahrradmechaniker [saß] auf dem Boden, während er an der Kette des Fahrrads arbeitete.sitting] on the ground and while he worked on the bike's chain.
+
+Thema: {topic}
+Beschreibung: {description}
+Wort: {word}
 Diese 1-3 lustige Sätze veranschaulichen das Wort in vielen verschiedenen Situationen:
 -

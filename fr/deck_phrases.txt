@@ -3,14 +3,21 @@ Générez des phrases pour le sujet, la description et le mot spécifié. Utilis
 Sujet: cuisine
 Description: Assiettes, ustensiles, appareils et ustensiles de cuisine.
 Mot: couteau
-- Elle a lentement sorti le grand couteau du bloc de couteaux.
-- Pourquoi tiens-tu le couteau de cette façon ?
-- J'ai essayé de trancher l'oignon avec un couteau à beurre, mais ça n'a pas marché.
+- Elle a lentement sorti le grand [couteau] du bloc de couteaux.
+- Pourquoi tiens-tu le [couteau] de cette façon ?
+- J'ai essayé de trancher l'oignon avec un [c]outeau] à beurre, mais ça n'a pas marché.
 - Les couteaux étaient dans le tiroir à côté des cuillères.
-- Que vas-tu faire avec un couteau aussi émoussé ?
-- Il a coupé le pain avec un couteau dentelé.
-- Je n'ai pas trouvé les couteaux dans la cuisine.
-- Un couteau d'office, avec sa petite taille, est parfait pour éplucher une pomme.
+- Que vas-tu faire avec un [couteau] aussi émoussé ?
+- Il a coupé le pain avec un [couteau] dentelé.
+- Je n'ai pas trouvé les [couteaux] dans la cuisine.
+- Un [couteau] d'office, avec sa petite taille, est parfait pour éplucher une pomme.
+
+Sujet: le vélo
+Description: vélos, réparation de vélos, sécurité des vélos
+Mot  s'asseoir
+- Elle s'est soigneusement [assise] sur le siège du vélo avant de partir.
+- Il a réglé le siège pour pouvoir [s'asseoir] confortablement pendant qu'il faisait du vélo.
+- Le réparateur de vélos [était assis] sur le sol et pendant qu'il travaillait sur la chaîne du vélo.
 
 Sujet: {topic}
 Description: {description}

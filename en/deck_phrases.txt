@@ -3,13 +3,20 @@ Generate sentences for the topic, description and word specified. Use a mix of d
 Topic: Kitchen
 Description: Kitchen plates, utensils, devices, and kitchenware
 Word: knife
-- She slowly slid the large knife out of the knife block.
-- Why are you holding the knife that way?
-- I tried to cut the onion with a butter knife and it didn't work.
-- The knives were in the drawer next to the spoons.
-- What are you going to do with such a dull knife?
-- He cut the loaf of bread with a serrated knife.
-- A paring knife, with its small size, is perfect for peeling an apple.
+- She slowly slid the large [knife] out of the knife block.
+- Why are you holding the [knife] that way?
+- I tried to cut the onion with a butter [knife] and it didn't work.
+- The [knives] were in the drawer next to the spoons.
+- What are you going to do with such a dull [knife]?
+- He cut the loaf of bread with a serrated [knife].
+- A paring [knife], with its small size, is perfect for peeling an apple.
+
+Topic: biking
+Desription: bikes, bike repair, bike safety
+Word: sit
+- She carefully [sat] on the bike seat before taking off.
+- He adjusted the seat so he could [sit] comfortably while biking.
+- The bike repairman [was sitting] on the ground and while he worked on the bike's chain.
 
 Topic: {topic}
 Desription: {description}
