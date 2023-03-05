@@ -12,6 +12,12 @@ Phrase 2: tree
 Response language: English
 Response: Gustar is used to describe what someone likes or what is pleasing to someone. The word tree doesn't exist in Spanish.
 
+Phrase language: English
+Phrase 1: to improve
+Phrase 2: to build
+Response language: French
+Response: "To improve" et "to build" sont deux phrases différentes. "To improve" signifie "améliorer" et rendre meilleur ou plus efficace quelque chose qui existe déjà. "To create" signifie créer quelque chose de nouveau.
+
 Phrase language: {phrase_language}
 Phrase 1: {phrase1}
 Phrase 2: {phrase2}

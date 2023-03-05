@@ -1,69 +1,95 @@
-Générez une liste de questions pour une personne apprenant le français afin de s'exercer à parler sur les sujets suivants :
+Établissez une liste d'objectifs de conversation pour une personne apprenant l'anglais afin de l'entraîner à parler des sujets suivants :
 
-Petite conversation biographique
-- Partager des faits de base sur votre famille
-- Poser des questions de base sur la famille de quelqu'un
-- Partager d'où vous venez
-- Poser des questions de base sur l'origine de quelqu'un
+Conversation biographique
+- Discutez de l'endroit d'où vous venez et de ce à quoi il ressemble.
+- Entraînez-vous à demander à quelqu'un d'où il vient
+- Discuter de la nationalité par rapport à l'origine de la personne
+- Discuter des faits de base concernant votre famille
+- Entraînez-vous à poser des questions de base sur la famille de quelqu'un
 
 Réparation conversationnelle
-- Dire que vous n'avez pas compris
-- Demander si quelqu'un parle votre langue
-- Dire que vous ne parlez qu'un peu anglais
-- Demander à quelqu'un de répéter ce qu'il a dit
+- Entraînez-vous à dire que vous n'avez pas compris
+- Jeu de rôle consistant à demander à quelqu'un s'il parle votre langue
+- Jeu de rôle expliquant que vous ne parlez que très peu anglais
+- Entraînez-vous à demander à quelqu'un de répéter ce qu'il a dit
 
 Manger au restaurant
-- Faire une réservation
-- Demander l'addition
-- Les parties d'un repas
-- Aliments courants
+- Discutez des types de restaurants que vous aimez fréquenter et des aliments que vous aimez commander au restaurant.
+- Jeu de rôle consistant à faire une réservation par téléphone
+- Jeu de rôle commander de la nourriture
+- Jeu de rôle consistant à demander l'addition
+- Discutez des différentes parties d'un repas
 
-Décrire ce que vous ressentez
-- Articuler la faim et la soif
-- Parler d'un malaise
-- Parler des parties de base du corps
-- Parler des émotions
+Décrire les sensations de votre corps
+- Discutez de ce que vous ressentez en ce moment
+- Entraînez-vous à parler de la faim
+- Entraînez-vous à parler de la soif
+- Entraînez-vous à parler des maux de tête
+- Entraînez-vous à parler des problèmes d'estomac
+- Parlez de la dernière fois où vous ne vous êtes pas senti bien
 
-Parler de préférences
-- Parler des goûts et des dégoûts
-- Parler de favoris
-- Utiliser les superlatifs
-- Justifier les préférences
+Parler de vos préférences
+- Discutez du type de musique que vous aimez et de celle que vous n'aimez pas.
+- Parlez de votre film préféré et expliquez pourquoi vous le préférez aux autres films.
+- Entraînez-vous à utiliser des comparatifs et des superlatifs
 
 Jouer de la musique
-- Parler de la pratique d'un instrument
-- Parler de jouer d'un instrument dans un groupe
-- Parler de vouloir apprendre un instrument
+- Discutez du type de musique qui vous intéresse et si vous jouez d'un instrument.
+- Entraînez-vous à parler de la pratique d'un instrument
+- Parlez de la dernière fois où vous avez joué de la musique
+- Parlez de la dernière fois où vous êtes allé à un concert
+- Discutez de la dernière fois où vous avez entendu un spectacle en direct
 
 Écouter de la musique
-- Parler des genres préférés
-- Demander à quelqu'un quels sont ses genres musicaux préférés
-- Parler de groupes et d'artistes préférés
-- Demander à quelqu'un quels sont ses groupes et artistes préférés
-- Décrire la musique pour différentes ambiances
-- Parler de culture pop
+- Discutez du type de musique que vous aimez écouter.
+- Discutez de la dernière musique que vous avez écoutée
+- Discutez des différents types de genres musicaux que vous aimez et n'aimez pas.
+- Discutez de la musique dans la culture pop d'aujourd'hui
 
-Des sports
-- Parler des sports que vous aimez regarder
-- Demander à quelqu'un quels sports il aime regarder
-- Parler des sports populaires d'où vous venez
-- Demander à quelqu'un quels sports sont populaires là où il vient
-- Comparer les qualités de différents sports
-- Que dire lorsque vous regardez un match de football
-- Comparer les meilleurs joueurs d'un sport
-- Décrire une fois où vous avez regardé un match de sport en direct
+Aller dans un café
+- Jeu de rôle pour commander un café ou un thé
+- Jeu de rôle pour demander une pâtisserie et un café à emporter
+- Entraînez-vous à parler du menu d'un café
 
-Décrire un lieu
-- Décrivez votre lieu de résidence
-- Décrire où vous avez grandi
-- Décrire où vous êtes allé à l'université
-- Décrire un endroit où vous avez voyagé
+Sports
+- Discutez du type de sport que vous aimez regarder
+- Parlez de la dernière fois que vous avez regardé un match
+- Discutez de la dernière fois que vous avez pratiqué un sport
+- Discutez de la dernière fois où vous avez assisté à un événement sportif.
+- Discutez des différents types de sports que vous aimez et n'aimez pas.
+- Entraînez-vous à parler de footbol
+- Discutez des règles de différents sports
+- Parlez d'un joueur dont vous êtes fan
+
+Sortir dans un bar
+- Parlez de la dernière fois où vous êtes allé dans un bar
+- Discutez des différents types de boissons que vous aimez et n'aimez pas.
+- Discutez des différents types de bars que vous aimez et n'aimez pas.
+- Jeu de rôle pour commander une boisson
+- Entraînez-vous à parler de l'atmosphère d'un bar
 
 Cuisiner
-- Parler des ingrédients et suivre les recettes
-- Ustensiles de cuisine courants
-- Méthodes de cuisson
-- Différents types de cuisine
+- Parlez de la dernière fois que vous avez cuisiné
+- Discutez des différents types de plats que vous aimez cuisiner.
+- Discutez des différents types d'ingrédients que vous aimez utiliser.
+- Entraînez-vous à parler des ustensiles et appareils de cuisine courants.
+- Discutez des différents types de techniques de cuisson que vous aimez utiliser.
+- Entraînez-vous à parler du processus de cuisson d'un plat
+- Entraînez-vous à parler du suivre des recettes
+
+Vélo
+- Parlez de la dernière fois où vous avez fait du vélo
+- Discutez des différents types de vélos et de leurs différences.
+- Discutez des endroits où vous aimez faire du vélo
+- Entraînez-vous à parler de l'équipement de vélo
+- Entraînez-vous à parler de la réparation des vélos
+- Entraînez-vous à parler de la sécurité à vélo
+
+L'argot
+- Pratiquez l'argot le plus courant
+- Entraînez-vous à jurer
+- Entraînez-vous à parler des expressions sur le sexe
+- Entraînez-vous à parler aux expressions avec "guele"
 
 {topic}
 -

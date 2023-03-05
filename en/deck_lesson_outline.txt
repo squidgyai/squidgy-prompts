@@ -1,74 +1,91 @@
-Generate a list of questions for someone learning English to practice speaking for the following topics:
+Generate a list of conversational goals for someone learning English to practice speaking for the following topics:
 
 Biographical small talk
-- Sharing basic facts about your family
-- Asking basic questions about someone’s family
-- Sharing where you are from
-- Asking basic questions about where someone is from
+- Discuss where you are from and what it is like
+- Practice asking where someone is from
+- Discuss nationality vs. where someone is from
+- Discuss basic facts about your family
+- Practice asking basic questions about someone’s family
 
 Conversational repair
-- Saying you didn’t understand
-- Asking whether someone speaks your language
-- Saying you only speak a little bit of English
-- Asking someone to repeat what they said
+- Practice saying you didn’t understand
+- Role play asking whether someone speaks your language
+- Role play explaining that you only speak a little bit of English
+- Practice asking someone to repeat what they said
 
 Eating at a restaurant
-- Making a reservation
-- Asking for the bill
-- The parts of a meal
-- Common foods
+- Discuss the types of restaurants you like to go to and what foods you like to order at restaurants
+- Role play making a reservation over the phone
+- Role play ordering food
+- Role play asking for the bill
+- Dicsuss the parts of a meal
 
-Describing how you feel
-- Articulating hunger and thirst
-- Talking about feeling unwell
-- Talking about basic parts of the body
-- Talking about emotions
+Describing how your body feels
+- Discuss how you feel right now
+- Practice talking about hunger
+- Practice talking about thirst
+- Practice talking about headaches
+- Practice talking about stomach issues
+- Discuss the last time you felt unwell
 
 Talking about preferences
-- Talking about likes and dislikes
-- Talking about favorites
-- Using superlatives
-- Justifying preferences
+- Discuss what type of music you like and don't like
+- Discuss your favorite movie and why you like it above other movies
+- Practice using comparatives and superlatives
 
 Playing music
-- Talking about how to practice an instrument
-- Talking about playing an instrument in a band
-- Talking about wanting to learn an instrument
+- Discuss what type of music you're interested and if you play any instruments
+- Practice talking about playing an instrument
+- Discuss the last time you played music
+- Discuss the last time you went to a concert
+- Discuss the last time you heard a live performance
 
 Listening to music
-- Talking about favorite genres
-- Asking someone about their favorite genres of music
-- Talking about favorite bands and artists
-- Asking someone about their favorite bands and artists
-- Describing music for different moods
-- Talking about pop culture
+- Discuss what type of music you like to listen to
+- Discuss the last music you listened to
+- Discuss the different types of musical genres you like and don't like
+- Discuss music in pop culture today
+
+Going to a cafe
+- Role play ordering a coffee or tea
+- Role play asking for a pastry and coffee to go
+- Practice talking about things on a cafe menu
 
 Sports
-- Talking about what sports you like to watch
-- Asking someone what sports they like to watch
-- Talking about what sports are popular where you are from
-- Asking someone what sports are popular where they are from
-- Comparing the qualities of different sports
-- What to say when you’re watching a soccer game
-- Comparing the best players of a sport
-- Describing a time you watched a live sports game
+- Discuss what type of sports you like to watch
+- Discuss the last time you watched a game
+- Discuss the last time you played a sport
+- Discuss the last time you went to a sporting event
+- Discuss the different types of sports you like and don't like
+- Practice talking about soccer
+- Practice talking about baseball
+- Practice talking about football
+- Discuss the rules of different sports
+- Discuss a player you are a fan of
 
-Describing a place
-- Describing where you live
-- Describing where you grew up
-- Describing where you went to college
-- Describing a place you’ve traveled to
-
-Mezcal
-- Describing Mezcal and its origins
-- Describing the flavors of Mezcal
-- Mezcal vs. Tequila
+Going out to  bar
+- Discuss the last time you went to a bar
+- Discuss the different types of drinks you like and don't like
+- Discuss the different types of bars you like and don't like
+- Role play ordering a drink
+- Practice talking about the atmosphere of a bar
 
 Cooking
-- Talking about ingredients and following recipes
-- Common kitchen tools
-- Cooking methods
-- Different types of cuisine
+- Discuss the last time you cooked
+- Discuss the different types of dishes you like to cook
+- Discuss the different types of ingredients you like to use
+- Practice talking about common kitchen utensils and devices
+- Discuss the different types of cooking techniques you like to use
+- Practice talking about the process of cooking a dish
+- Practice talking about following recipes
+
+Biking
+- Discuss the last time you went biking
+- Discuss the different types of bikes and their differences
+- Discuss where you like to ride your bike
+- Practice talking about bike gear
+- Practice talking about bike repair
+- Practice talking about bike safety
 
 {topic}
 -
